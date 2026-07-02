@@ -1,0 +1,33 @@
+{
+  "id": "CU16",
+  "level": 1,
+  "level_name": {
+    "local": "Provincia",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Villa Clara",
+    "en": "Villa Clara",
+    "slug": "villa-clara-cu16"
+  },
+  "code": {
+    "id": "CU16",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "municipality": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.483",
+    "lon": "-79.835"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/cu/provinces/villa-clara-cu16/",
+    "api": "https://openadmindata.org/api/cu/"
+  }
+}

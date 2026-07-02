@@ -1,0 +1,45 @@
+{
+  "id": "CU1606",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Manicaragua",
+    "en": "Manicaragua",
+    "slug": "manicaragua-cu1606"
+  },
+  "code": {
+    "id": "CU1606",
+    "iso": null
+  },
+  "parent": {
+    "id": "CU16",
+    "level": 1,
+    "name": {
+      "local": "Villa Clara",
+      "en": "Villa Clara",
+      "slug": "villa-clara-cu16"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CU16",
+      "level": 1,
+      "name": {
+        "local": "Villa Clara",
+        "en": "Villa Clara",
+        "slug": "villa-clara-cu16"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.101",
+    "lon": "-79.948"
+  },
+  "metadata": {},
+  "source": {}
+}

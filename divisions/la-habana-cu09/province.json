@@ -1,0 +1,33 @@
+{
+  "id": "CU09",
+  "level": 1,
+  "level_name": {
+    "local": "Provincia",
+    "en": "Province"
+  },
+  "name": {
+    "local": "La Habana",
+    "en": "La Habana",
+    "slug": "la-habana-cu09"
+  },
+  "code": {
+    "id": "CU09",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "municipality": 15
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "23.06",
+    "lon": "-82.308"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/cu/provinces/la-habana-cu09/",
+    "api": "https://openadmindata.org/api/cu/"
+  }
+}

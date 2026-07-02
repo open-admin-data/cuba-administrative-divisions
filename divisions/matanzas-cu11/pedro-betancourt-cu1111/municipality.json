@@ -1,0 +1,45 @@
+{
+  "id": "CU1111",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Pedro Betancourt",
+    "en": "Pedro Betancourt",
+    "slug": "pedro-betancourt-cu1111"
+  },
+  "code": {
+    "id": "CU1111",
+    "iso": null
+  },
+  "parent": {
+    "id": "CU11",
+    "level": 1,
+    "name": {
+      "local": "Matanzas",
+      "en": "Matanzas",
+      "slug": "matanzas-cu11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CU11",
+      "level": 1,
+      "name": {
+        "local": "Matanzas",
+        "en": "Matanzas",
+        "slug": "matanzas-cu11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.69",
+    "lon": "-81.317"
+  },
+  "metadata": {},
+  "source": {}
+}

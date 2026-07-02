@@ -1,0 +1,45 @@
+{
+  "id": "CU0207",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Minas",
+    "en": "Minas",
+    "slug": "minas-cu0207"
+  },
+  "code": {
+    "id": "CU0207",
+    "iso": null
+  },
+  "parent": {
+    "id": "CU02",
+    "level": 1,
+    "name": {
+      "local": "Camagüey",
+      "en": "Camaguey",
+      "slug": "camaguey-cu02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CU02",
+      "level": 1,
+      "name": {
+        "local": "Camagüey",
+        "en": "Camaguey",
+        "slug": "camaguey-cu02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.605",
+    "lon": "-77.569"
+  },
+  "metadata": {},
+  "source": {}
+}

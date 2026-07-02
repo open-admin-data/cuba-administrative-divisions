@@ -1,0 +1,45 @@
+{
+  "id": "CU1309",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Luis",
+    "en": "San Luis",
+    "slug": "san-luis-cu1309"
+  },
+  "code": {
+    "id": "CU1309",
+    "iso": null
+  },
+  "parent": {
+    "id": "CU13",
+    "level": 1,
+    "name": {
+      "local": "Pinar del Río",
+      "en": "Pinar del Rio",
+      "slug": "pinar-del-rio-cu13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CU13",
+      "level": 1,
+      "name": {
+        "local": "Pinar del Río",
+        "en": "Pinar del Rio",
+        "slug": "pinar-del-rio-cu13"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.265",
+    "lon": "-83.673"
+  },
+  "metadata": {},
+  "source": {}
+}

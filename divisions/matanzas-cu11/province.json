@@ -1,0 +1,33 @@
+{
+  "id": "CU11",
+  "level": 1,
+  "level_name": {
+    "local": "Provincia",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Matanzas",
+    "en": "Matanzas",
+    "slug": "matanzas-cu11"
+  },
+  "code": {
+    "id": "CU11",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "municipality": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.61",
+    "lon": "-81.085"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/cu/provinces/matanzas-cu11/",
+    "api": "https://openadmindata.org/api/cu/"
+  }
+}

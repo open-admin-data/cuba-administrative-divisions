@@ -1,0 +1,49 @@
+# Las Tunas — Cuba Administrative Divisions
+
+> 8 municipalitys
+> Code: CU10
+> Coordinates: 21.05, -76.872
+> Last updated: 2026-07-02. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Amancio
+
+Code: CU1001, Coordinates: 20.834, -77.653
+
+
+### Colombia
+
+Code: CU1002, Coordinates: 20.854, -77.466
+
+
+### Jesús Menéndez (Jesus Menendez)
+
+Code: CU1003, Coordinates: 21.091, -76.535
+
+
+### Jobabo
+
+Code: CU1004, Coordinates: 20.829, -77.256
+
+
+### Las Tunas
+
+Code: CU1005, Coordinates: 20.952, -77.009
+
+
+### Majibacoa
+
+Code: CU1006, Coordinates: 20.843, -76.792
+
+
+### Manatí (Manati)
+
+Code: CU1007, Coordinates: 21.259, -77
+
+
+### Puerto Padre
+
+Code: CU1008, Coordinates: 21.156, -76.722
+
+

@@ -1,0 +1,45 @@
+{
+  "id": "CU1408",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Yaguajay",
+    "en": "Yaguajay",
+    "slug": "yaguajay-cu1408"
+  },
+  "code": {
+    "id": "CU1408",
+    "iso": null
+  },
+  "parent": {
+    "id": "CU14",
+    "level": 1,
+    "name": {
+      "local": "Sancti Spíritus",
+      "en": "Sancti Spiritus",
+      "slug": "sancti-spiritus-cu14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CU14",
+      "level": 1,
+      "name": {
+        "local": "Sancti Spíritus",
+        "en": "Sancti Spiritus",
+        "slug": "sancti-spiritus-cu14"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.263",
+    "lon": "-79.173"
+  },
+  "metadata": {},
+  "source": {}
+}

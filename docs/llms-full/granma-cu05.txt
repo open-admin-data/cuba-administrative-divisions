@@ -1,0 +1,74 @@
+# Granma — Cuba Administrative Divisions
+
+> 13 municipalitys
+> Code: CU05
+> Coordinates: 20.29, -76.763
+> Last updated: 2026-07-02. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Bartolomé Masó (Bartolome Maso)
+
+Code: CU0501, Coordinates: 20.071, -76.951
+
+
+### Bayamo
+
+Code: CU0502, Coordinates: 20.423, -76.664
+
+
+### Buey Arriba
+
+Code: CU0503, Coordinates: 20.133, -76.719
+
+
+### Campechuela
+
+Code: CU0504, Coordinates: 20.127, -77.26
+
+
+### Cauto Cristo
+
+Code: CU0505, Coordinates: 20.621, -76.617
+
+
+### Guisa
+
+Code: CU0506, Coordinates: 20.185, -76.508
+
+
+### Jiguaní (Jiguani)
+
+Code: CU0507, Coordinates: 20.406, -76.392
+
+
+### Manzanillo
+
+Code: CU0508, Coordinates: 20.247, -77.132
+
+
+### Media Luna
+
+Code: CU0509, Coordinates: 20.082, -77.414
+
+
+### Niquero
+
+Code: CU0510, Coordinates: 19.961, -77.545
+
+
+### Pilón (Pilon)
+
+Code: CU0511, Coordinates: 19.944, -77.25
+
+
+### Río Cauto (Rio Cauto)
+
+Code: CU0512, Coordinates: 20.574, -76.99
+
+
+### Yara
+
+Code: CU0513, Coordinates: 20.367, -76.923
+
+

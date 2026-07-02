@@ -1,0 +1,45 @@
+{
+  "id": "CU1311",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Viñales",
+    "en": "Vinales",
+    "slug": "vinales-cu1311"
+  },
+  "code": {
+    "id": "CU1311",
+    "iso": null
+  },
+  "parent": {
+    "id": "CU13",
+    "level": 1,
+    "name": {
+      "local": "Pinar del Río",
+      "en": "Pinar del Rio",
+      "slug": "pinar-del-rio-cu13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CU13",
+      "level": 1,
+      "name": {
+        "local": "Pinar del Río",
+        "en": "Pinar del Rio",
+        "slug": "pinar-del-rio-cu13"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.623",
+    "lon": "-83.703"
+  },
+  "metadata": {},
+  "source": {}
+}

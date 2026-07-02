@@ -1,0 +1,45 @@
+{
+  "id": "CU1611",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Sagua la Grande",
+    "en": "Sagua la Grande",
+    "slug": "sagua-la-grande-cu1611"
+  },
+  "code": {
+    "id": "CU1611",
+    "iso": null
+  },
+  "parent": {
+    "id": "CU16",
+    "level": 1,
+    "name": {
+      "local": "Villa Clara",
+      "en": "Villa Clara",
+      "slug": "villa-clara-cu16"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CU16",
+      "level": 1,
+      "name": {
+        "local": "Villa Clara",
+        "en": "Villa Clara",
+        "slug": "villa-clara-cu16"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.805",
+    "lon": "-80.057"
+  },
+  "metadata": {},
+  "source": {}
+}

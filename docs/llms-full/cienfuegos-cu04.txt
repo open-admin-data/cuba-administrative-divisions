@@ -1,0 +1,49 @@
+# Cienfuegos — Cuba Administrative Divisions
+
+> 8 municipalitys
+> Code: CU04
+> Coordinates: 22.185, -80.488
+> Last updated: 2026-07-02. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Abreus
+
+Code: CU0401, Coordinates: 22.186, -80.734
+
+
+### Aguada de Pasajeros
+
+Code: CU0402, Coordinates: 22.324, -80.77
+
+
+### Ciefuegos
+
+Code: CU0403, Coordinates: 22.1, -80.537
+
+
+### Cruces
+
+Code: CU0404, Coordinates: 22.246, -80.227
+
+
+### Cumanayagua
+
+Code: CU0405, Coordinates: 21.997, -80.219
+
+
+### Lajas
+
+Code: CU0406, Coordinates: 22.415, -80.339
+
+
+### Palmira
+
+Code: CU0407, Coordinates: 22.288, -80.442
+
+
+### Rodas
+
+Code: CU0408, Coordinates: 22.352, -80.589
+
+

@@ -1,0 +1,45 @@
+{
+  "id": "CU0712",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Rafael Freyre",
+    "en": "Rafael Freyre",
+    "slug": "rafael-freyre-cu0712"
+  },
+  "code": {
+    "id": "CU0712",
+    "iso": null
+  },
+  "parent": {
+    "id": "CU07",
+    "level": 1,
+    "name": {
+      "local": "Holguín",
+      "en": "Holguin",
+      "slug": "holguin-cu07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CU07",
+      "level": 1,
+      "name": {
+        "local": "Holguín",
+        "en": "Holguin",
+        "slug": "holguin-cu07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.006",
+    "lon": "-76.019"
+  },
+  "metadata": {},
+  "source": {}
+}

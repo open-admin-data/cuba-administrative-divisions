@@ -1,0 +1,45 @@
+{
+  "id": "CU0709",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Holguín",
+    "en": "Holguin",
+    "slug": "holguin-cu0709"
+  },
+  "code": {
+    "id": "CU0709",
+    "iso": null
+  },
+  "parent": {
+    "id": "CU07",
+    "level": 1,
+    "name": {
+      "local": "Holguín",
+      "en": "Holguin",
+      "slug": "holguin-cu07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CU07",
+      "level": 1,
+      "name": {
+        "local": "Holguín",
+        "en": "Holguin",
+        "slug": "holguin-cu07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.899",
+    "lon": "-76.29"
+  },
+  "metadata": {},
+  "source": {}
+}

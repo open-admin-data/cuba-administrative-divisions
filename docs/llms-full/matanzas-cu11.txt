@@ -1,0 +1,74 @@
+# Matanzas — Cuba Administrative Divisions
+
+> 13 municipalitys
+> Code: CU11
+> Coordinates: 22.61, -81.085
+> Last updated: 2026-07-02. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Calimete
+
+Code: CU1102, Coordinates: 22.369, -81.001
+
+
+### Cárdenas (Cardenas)
+
+Code: CU1101, Coordinates: 22.999, -81.253
+
+
+### Ciénaga de Zapata (Cienaga de Zapata)
+
+Code: CU1103, Coordinates: 22.304, -81.541
+
+
+### Colón (Colon)
+
+Code: CU1104, Coordinates: 22.752, -80.836
+
+
+### Jagüey Grande (Jaguey Grande)
+
+Code: CU1105, Coordinates: 22.562, -81.16
+
+
+### Jovellanos
+
+Code: CU1106, Coordinates: 22.79, -81.188
+
+
+### Limonar
+
+Code: CU1107, Coordinates: 22.88, -81.485
+
+
+### Los Arabos
+
+Code: CU1108, Coordinates: 22.632, -80.686
+
+
+### Martí (Marti)
+
+Code: CU1109, Coordinates: 22.99, -80.836
+
+
+### Matanzas
+
+Code: CU1110, Coordinates: 23.046, -81.613
+
+
+### Pedro Betancourt
+
+Code: CU1111, Coordinates: 22.69, -81.317
+
+
+### Perico
+
+Code: CU1112, Coordinates: 22.787, -80.995
+
+
+### Unión de Reyes (Union de Reyes)
+
+Code: CU1113, Coordinates: 22.677, -81.484
+
+

@@ -1,0 +1,497 @@
+[
+  {
+    "id": "CU1201",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Batabanó",
+      "en": "Batabano",
+      "slug": "batabano-cu1201"
+    },
+    "code": {
+      "id": "CU1201",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU12",
+      "level": 1,
+      "name": {
+        "local": "Mayabeque",
+        "en": "Mayabeque",
+        "slug": "mayabeque-cu12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU12",
+        "level": 1,
+        "name": {
+          "local": "Mayabeque",
+          "en": "Mayabeque",
+          "slug": "mayabeque-cu12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.755",
+      "lon": "-82.274"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1202",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Bejucal",
+      "en": "Bejucal",
+      "slug": "bejucal-cu1202"
+    },
+    "code": {
+      "id": "CU1202",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU12",
+      "level": 1,
+      "name": {
+        "local": "Mayabeque",
+        "en": "Mayabeque",
+        "slug": "mayabeque-cu12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU12",
+        "level": 1,
+        "name": {
+          "local": "Mayabeque",
+          "en": "Mayabeque",
+          "slug": "mayabeque-cu12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.909",
+      "lon": "-82.339"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1203",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Güines",
+      "en": "Guines",
+      "slug": "guines-cu1203"
+    },
+    "code": {
+      "id": "CU1203",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU12",
+      "level": 1,
+      "name": {
+        "local": "Mayabeque",
+        "en": "Mayabeque",
+        "slug": "mayabeque-cu12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU12",
+        "level": 1,
+        "name": {
+          "local": "Mayabeque",
+          "en": "Mayabeque",
+          "slug": "mayabeque-cu12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.794",
+      "lon": "-82"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1204",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Jaruco",
+      "en": "Jaruco",
+      "slug": "jaruco-cu1204"
+    },
+    "code": {
+      "id": "CU1204",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU12",
+      "level": 1,
+      "name": {
+        "local": "Mayabeque",
+        "en": "Mayabeque",
+        "slug": "mayabeque-cu12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU12",
+        "level": 1,
+        "name": {
+          "local": "Mayabeque",
+          "en": "Mayabeque",
+          "slug": "mayabeque-cu12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.057",
+      "lon": "-81.98"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1205",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Madruga",
+      "en": "Madruga",
+      "slug": "madruga-cu1205"
+    },
+    "code": {
+      "id": "CU1205",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU12",
+      "level": 1,
+      "name": {
+        "local": "Mayabeque",
+        "en": "Mayabeque",
+        "slug": "mayabeque-cu12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU12",
+        "level": 1,
+        "name": {
+          "local": "Mayabeque",
+          "en": "Mayabeque",
+          "slug": "mayabeque-cu12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.911",
+      "lon": "-81.797"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1206",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Melena del Sur",
+      "en": "Melena del Sur",
+      "slug": "melena-del-sur-cu1206"
+    },
+    "code": {
+      "id": "CU1206",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU12",
+      "level": 1,
+      "name": {
+        "local": "Mayabeque",
+        "en": "Mayabeque",
+        "slug": "mayabeque-cu12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU12",
+        "level": 1,
+        "name": {
+          "local": "Mayabeque",
+          "en": "Mayabeque",
+          "slug": "mayabeque-cu12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.772",
+      "lon": "-82.151"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1207",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Nueva Paz",
+      "en": "Nueva Paz",
+      "slug": "nueva-paz-cu1207"
+    },
+    "code": {
+      "id": "CU1207",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU12",
+      "level": 1,
+      "name": {
+        "local": "Mayabeque",
+        "en": "Mayabeque",
+        "slug": "mayabeque-cu12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU12",
+        "level": 1,
+        "name": {
+          "local": "Mayabeque",
+          "en": "Mayabeque",
+          "slug": "mayabeque-cu12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.688",
+      "lon": "-81.711"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1208",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Quivicán",
+      "en": "Quivican",
+      "slug": "quivican-cu1208"
+    },
+    "code": {
+      "id": "CU1208",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU12",
+      "level": 1,
+      "name": {
+        "local": "Mayabeque",
+        "en": "Mayabeque",
+        "slug": "mayabeque-cu12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU12",
+        "level": 1,
+        "name": {
+          "local": "Mayabeque",
+          "en": "Mayabeque",
+          "slug": "mayabeque-cu12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.787",
+      "lon": "-82.372"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1209",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San José de las Lajas",
+      "en": "San Jose de las Lajas",
+      "slug": "san-jose-de-las-lajas-cu1209"
+    },
+    "code": {
+      "id": "CU1209",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU12",
+      "level": 1,
+      "name": {
+        "local": "Mayabeque",
+        "en": "Mayabeque",
+        "slug": "mayabeque-cu12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU12",
+        "level": 1,
+        "name": {
+          "local": "Mayabeque",
+          "en": "Mayabeque",
+          "slug": "mayabeque-cu12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.904",
+      "lon": "-82.136"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1210",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Nicolás",
+      "en": "San Nicolas",
+      "slug": "san-nicolas-cu1210"
+    },
+    "code": {
+      "id": "CU1210",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU12",
+      "level": 1,
+      "name": {
+        "local": "Mayabeque",
+        "en": "Mayabeque",
+        "slug": "mayabeque-cu12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU12",
+        "level": 1,
+        "name": {
+          "local": "Mayabeque",
+          "en": "Mayabeque",
+          "slug": "mayabeque-cu12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.771",
+      "lon": "-81.881"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1211",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santa Cruz del Norte",
+      "en": "Santa Cruz del Norte",
+      "slug": "santa-cruz-del-norte-cu1211"
+    },
+    "code": {
+      "id": "CU1211",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU12",
+      "level": 1,
+      "name": {
+        "local": "Mayabeque",
+        "en": "Mayabeque",
+        "slug": "mayabeque-cu12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU12",
+        "level": 1,
+        "name": {
+          "local": "Mayabeque",
+          "en": "Mayabeque",
+          "slug": "mayabeque-cu12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.089",
+      "lon": "-81.771"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "id": "CU0915",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Miguel del Padrón",
+    "en": "San Miguel del Padron",
+    "slug": "san-miguel-del-padron-cu0915"
+  },
+  "code": {
+    "id": "CU0915",
+    "iso": null
+  },
+  "parent": {
+    "id": "CU09",
+    "level": 1,
+    "name": {
+      "local": "La Habana",
+      "en": "La Habana",
+      "slug": "la-habana-cu09"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CU09",
+      "level": 1,
+      "name": {
+        "local": "La Habana",
+        "en": "La Habana",
+        "slug": "la-habana-cu09"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "23.08",
+    "lon": "-82.239"
+  },
+  "metadata": {},
+  "source": {}
+}

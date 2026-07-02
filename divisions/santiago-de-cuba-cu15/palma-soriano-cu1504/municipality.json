@@ -1,0 +1,45 @@
+{
+  "id": "CU1504",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Palma Soriano",
+    "en": "Palma Soriano",
+    "slug": "palma-soriano-cu1504"
+  },
+  "code": {
+    "id": "CU1504",
+    "iso": null
+  },
+  "parent": {
+    "id": "CU15",
+    "level": 1,
+    "name": {
+      "local": "Santiago de Cuba",
+      "en": "Santiago de Cuba",
+      "slug": "santiago-de-cuba-cu15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CU15",
+      "level": 1,
+      "name": {
+        "local": "Santiago de Cuba",
+        "en": "Santiago de Cuba",
+        "slug": "santiago-de-cuba-cu15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.238",
+    "lon": "-76.069"
+  },
+  "metadata": {},
+  "source": {}
+}

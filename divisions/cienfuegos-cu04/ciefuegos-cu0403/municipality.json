@@ -1,0 +1,45 @@
+{
+  "id": "CU0403",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Ciefuegos",
+    "en": "Ciefuegos",
+    "slug": "ciefuegos-cu0403"
+  },
+  "code": {
+    "id": "CU0403",
+    "iso": null
+  },
+  "parent": {
+    "id": "CU04",
+    "level": 1,
+    "name": {
+      "local": "Cienfuegos",
+      "en": "Cienfuegos",
+      "slug": "cienfuegos-cu04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CU04",
+      "level": 1,
+      "name": {
+        "local": "Cienfuegos",
+        "en": "Cienfuegos",
+        "slug": "cienfuegos-cu04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.1",
+    "lon": "-80.537"
+  },
+  "metadata": {},
+  "source": {}
+}

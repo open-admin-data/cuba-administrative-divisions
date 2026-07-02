@@ -1,0 +1,45 @@
+{
+  "id": "CU1102",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Calimete",
+    "en": "Calimete",
+    "slug": "calimete-cu1102"
+  },
+  "code": {
+    "id": "CU1102",
+    "iso": null
+  },
+  "parent": {
+    "id": "CU11",
+    "level": 1,
+    "name": {
+      "local": "Matanzas",
+      "en": "Matanzas",
+      "slug": "matanzas-cu11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CU11",
+      "level": 1,
+      "name": {
+        "local": "Matanzas",
+        "en": "Matanzas",
+        "slug": "matanzas-cu11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.369",
+    "lon": "-81.001"
+  },
+  "metadata": {},
+  "source": {}
+}

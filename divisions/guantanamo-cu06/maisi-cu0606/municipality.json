@@ -1,0 +1,45 @@
+{
+  "id": "CU0606",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Maisí",
+    "en": "Maisi",
+    "slug": "maisi-cu0606"
+  },
+  "code": {
+    "id": "CU0606",
+    "iso": null
+  },
+  "parent": {
+    "id": "CU06",
+    "level": 1,
+    "name": {
+      "local": "Guantánamo",
+      "en": "Guantanamo",
+      "slug": "guantanamo-cu06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CU06",
+      "level": 1,
+      "name": {
+        "local": "Guantánamo",
+        "en": "Guantanamo",
+        "slug": "guantanamo-cu06"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.192",
+    "lon": "-74.287"
+  },
+  "metadata": {},
+  "source": {}
+}

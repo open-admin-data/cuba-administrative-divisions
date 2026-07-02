@@ -1,0 +1,45 @@
+{
+  "id": "CU0303",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Chambas",
+    "en": "Chambas",
+    "slug": "chambas-cu0303"
+  },
+  "code": {
+    "id": "CU0303",
+    "iso": null
+  },
+  "parent": {
+    "id": "CU03",
+    "level": 1,
+    "name": {
+      "local": "Ciego de Ávila",
+      "en": "Ciego de Avila",
+      "slug": "ciego-de-avila-cu03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CU03",
+      "level": 1,
+      "name": {
+        "local": "Ciego de Ávila",
+        "en": "Ciego de Avila",
+        "slug": "ciego-de-avila-cu03"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.048",
+    "lon": "-78.941"
+  },
+  "metadata": {},
+  "source": {}
+}

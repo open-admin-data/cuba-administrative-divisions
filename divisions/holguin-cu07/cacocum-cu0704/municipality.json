@@ -1,0 +1,45 @@
+{
+  "id": "CU0704",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Cacocum",
+    "en": "Cacocum",
+    "slug": "cacocum-cu0704"
+  },
+  "code": {
+    "id": "CU0704",
+    "iso": null
+  },
+  "parent": {
+    "id": "CU07",
+    "level": 1,
+    "name": {
+      "local": "Holguín",
+      "en": "Holguin",
+      "slug": "holguin-cu07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CU07",
+      "level": 1,
+      "name": {
+        "local": "Holguín",
+        "en": "Holguin",
+        "slug": "holguin-cu07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.753",
+    "lon": "-76.47"
+  },
+  "metadata": {},
+  "source": {}
+}

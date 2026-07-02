@@ -1,0 +1,677 @@
+[
+  {
+    "id": "CU0901",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Arroyo Naranjo",
+      "en": "Arroyo Naranjo",
+      "slug": "arroyo-naranjo-cu0901"
+    },
+    "code": {
+      "id": "CU0901",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU09",
+      "level": 1,
+      "name": {
+        "local": "La Habana",
+        "en": "La Habana",
+        "slug": "la-habana-cu09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU09",
+        "level": 1,
+        "name": {
+          "local": "La Habana",
+          "en": "La Habana",
+          "slug": "la-habana-cu09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.998",
+      "lon": "-82.3"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0902",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Boyeros",
+      "en": "Boyeros",
+      "slug": "boyeros-cu0902"
+    },
+    "code": {
+      "id": "CU0902",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU09",
+      "level": 1,
+      "name": {
+        "local": "La Habana",
+        "en": "La Habana",
+        "slug": "la-habana-cu09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU09",
+        "level": 1,
+        "name": {
+          "local": "La Habana",
+          "en": "La Habana",
+          "slug": "la-habana-cu09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.99",
+      "lon": "-82.384"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0903",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Centro Habana",
+      "en": "Centro Habana",
+      "slug": "centro-habana-cu0903"
+    },
+    "code": {
+      "id": "CU0903",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU09",
+      "level": 1,
+      "name": {
+        "local": "La Habana",
+        "en": "La Habana",
+        "slug": "la-habana-cu09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU09",
+        "level": 1,
+        "name": {
+          "local": "La Habana",
+          "en": "La Habana",
+          "slug": "la-habana-cu09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.129",
+      "lon": "-82.366"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0904",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cerro",
+      "en": "Cerro",
+      "slug": "cerro-cu0904"
+    },
+    "code": {
+      "id": "CU0904",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU09",
+      "level": 1,
+      "name": {
+        "local": "La Habana",
+        "en": "La Habana",
+        "slug": "la-habana-cu09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU09",
+        "level": 1,
+        "name": {
+          "local": "La Habana",
+          "en": "La Habana",
+          "slug": "la-habana-cu09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.101",
+      "lon": "-82.37"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0905",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cotorro",
+      "en": "Cotorro",
+      "slug": "cotorro-cu0905"
+    },
+    "code": {
+      "id": "CU0905",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU09",
+      "level": 1,
+      "name": {
+        "local": "La Habana",
+        "en": "La Habana",
+        "slug": "la-habana-cu09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU09",
+        "level": 1,
+        "name": {
+          "local": "La Habana",
+          "en": "La Habana",
+          "slug": "la-habana-cu09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.991",
+      "lon": "-82.232"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0906",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Diez de Octubre",
+      "en": "Diez de Octubre",
+      "slug": "diez-de-octubre-cu0906"
+    },
+    "code": {
+      "id": "CU0906",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU09",
+      "level": 1,
+      "name": {
+        "local": "La Habana",
+        "en": "La Habana",
+        "slug": "la-habana-cu09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU09",
+        "level": 1,
+        "name": {
+          "local": "La Habana",
+          "en": "La Habana",
+          "slug": "la-habana-cu09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.072",
+      "lon": "-82.339"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0907",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Guanabacoa",
+      "en": "Guanabacoa",
+      "slug": "guanabacoa-cu0907"
+    },
+    "code": {
+      "id": "CU0907",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU09",
+      "level": 1,
+      "name": {
+        "local": "La Habana",
+        "en": "La Habana",
+        "slug": "la-habana-cu09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU09",
+        "level": 1,
+        "name": {
+          "local": "La Habana",
+          "en": "La Habana",
+          "slug": "la-habana-cu09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.054",
+      "lon": "-82.281"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0908",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "La Habana del Este",
+      "en": "La Habana del Este",
+      "slug": "la-habana-del-este-cu0908"
+    },
+    "code": {
+      "id": "CU0908",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU09",
+      "level": 1,
+      "name": {
+        "local": "La Habana",
+        "en": "La Habana",
+        "slug": "la-habana-cu09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU09",
+        "level": 1,
+        "name": {
+          "local": "La Habana",
+          "en": "La Habana",
+          "slug": "la-habana-cu09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.102",
+      "lon": "-82.141"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0909",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "La Habana Vieja",
+      "en": "La Habana Vieja",
+      "slug": "la-habana-vieja-cu0909"
+    },
+    "code": {
+      "id": "CU0909",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU09",
+      "level": 1,
+      "name": {
+        "local": "La Habana",
+        "en": "La Habana",
+        "slug": "la-habana-cu09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU09",
+        "level": 1,
+        "name": {
+          "local": "La Habana",
+          "en": "La Habana",
+          "slug": "la-habana-cu09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.151",
+      "lon": "-82.317"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0910",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "La Lisa",
+      "en": "La Lisa",
+      "slug": "la-lisa-cu0910"
+    },
+    "code": {
+      "id": "CU0910",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU09",
+      "level": 1,
+      "name": {
+        "local": "La Habana",
+        "en": "La Habana",
+        "slug": "la-habana-cu09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU09",
+        "level": 1,
+        "name": {
+          "local": "La Habana",
+          "en": "La Habana",
+          "slug": "la-habana-cu09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.019",
+      "lon": "-82.446"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0911",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Marianao",
+      "en": "Marianao",
+      "slug": "marianao-cu0911"
+    },
+    "code": {
+      "id": "CU0911",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU09",
+      "level": 1,
+      "name": {
+        "local": "La Habana",
+        "en": "La Habana",
+        "slug": "la-habana-cu09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU09",
+        "level": 1,
+        "name": {
+          "local": "La Habana",
+          "en": "La Habana",
+          "slug": "la-habana-cu09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.073",
+      "lon": "-82.383"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0912",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Playa",
+      "en": "Playa",
+      "slug": "playa-cu0912"
+    },
+    "code": {
+      "id": "CU0912",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU09",
+      "level": 1,
+      "name": {
+        "local": "La Habana",
+        "en": "La Habana",
+        "slug": "la-habana-cu09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU09",
+        "level": 1,
+        "name": {
+          "local": "La Habana",
+          "en": "La Habana",
+          "slug": "la-habana-cu09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.043",
+      "lon": "-82.418"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0913",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Plaza de la Revolución",
+      "en": "Plaza de la Revolucion",
+      "slug": "plaza-de-la-revolucion-cu0913"
+    },
+    "code": {
+      "id": "CU0913",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU09",
+      "level": 1,
+      "name": {
+        "local": "La Habana",
+        "en": "La Habana",
+        "slug": "la-habana-cu09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU09",
+        "level": 1,
+        "name": {
+          "local": "La Habana",
+          "en": "La Habana",
+          "slug": "la-habana-cu09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.099",
+      "lon": "-82.424"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0914",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Regla",
+      "en": "Regla",
+      "slug": "regla-cu0914"
+    },
+    "code": {
+      "id": "CU0914",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU09",
+      "level": 1,
+      "name": {
+        "local": "La Habana",
+        "en": "La Habana",
+        "slug": "la-habana-cu09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU09",
+        "level": 1,
+        "name": {
+          "local": "La Habana",
+          "en": "La Habana",
+          "slug": "la-habana-cu09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.113",
+      "lon": "-82.317"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0915",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Miguel del Padrón",
+      "en": "San Miguel del Padron",
+      "slug": "san-miguel-del-padron-cu0915"
+    },
+    "code": {
+      "id": "CU0915",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU09",
+      "level": 1,
+      "name": {
+        "local": "La Habana",
+        "en": "La Habana",
+        "slug": "la-habana-cu09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU09",
+        "level": 1,
+        "name": {
+          "local": "La Habana",
+          "en": "La Habana",
+          "slug": "la-habana-cu09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.08",
+      "lon": "-82.239"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

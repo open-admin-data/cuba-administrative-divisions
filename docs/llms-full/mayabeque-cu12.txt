@@ -1,0 +1,64 @@
+# Mayabeque — Cuba Administrative Divisions
+
+> 11 municipalitys
+> Code: CU12
+> Coordinates: 22.864, -82.057
+> Last updated: 2026-07-02. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Batabanó (Batabano)
+
+Code: CU1201, Coordinates: 22.755, -82.274
+
+
+### Bejucal
+
+Code: CU1202, Coordinates: 22.909, -82.339
+
+
+### Güines (Guines)
+
+Code: CU1203, Coordinates: 22.794, -82
+
+
+### Jaruco
+
+Code: CU1204, Coordinates: 23.057, -81.98
+
+
+### Madruga
+
+Code: CU1205, Coordinates: 22.911, -81.797
+
+
+### Melena del Sur
+
+Code: CU1206, Coordinates: 22.772, -82.151
+
+
+### Nueva Paz
+
+Code: CU1207, Coordinates: 22.688, -81.711
+
+
+### Quivicán (Quivican)
+
+Code: CU1208, Coordinates: 22.787, -82.372
+
+
+### San José de las Lajas (San Jose de las Lajas)
+
+Code: CU1209, Coordinates: 22.904, -82.136
+
+
+### San Nicolás (San Nicolas)
+
+Code: CU1210, Coordinates: 22.771, -81.881
+
+
+### Santa Cruz del Norte
+
+Code: CU1211, Coordinates: 23.089, -81.771
+
+

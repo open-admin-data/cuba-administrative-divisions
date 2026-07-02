@@ -1,0 +1,632 @@
+[
+  {
+    "id": "CU0701",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Antilla",
+      "en": "Antilla",
+      "slug": "antilla-cu0701"
+    },
+    "code": {
+      "id": "CU0701",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU07",
+      "level": 1,
+      "name": {
+        "local": "Holguín",
+        "en": "Holguin",
+        "slug": "holguin-cu07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU07",
+        "level": 1,
+        "name": {
+          "local": "Holguín",
+          "en": "Holguin",
+          "slug": "holguin-cu07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.843",
+      "lon": "-75.708"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0702",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Báguanos",
+      "en": "Baguanos",
+      "slug": "baguanos-cu0702"
+    },
+    "code": {
+      "id": "CU0702",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU07",
+      "level": 1,
+      "name": {
+        "local": "Holguín",
+        "en": "Holguin",
+        "slug": "holguin-cu07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU07",
+        "level": 1,
+        "name": {
+          "local": "Holguín",
+          "en": "Holguin",
+          "slug": "holguin-cu07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.816",
+      "lon": "-76.05"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0703",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Banes",
+      "en": "Banes",
+      "slug": "banes-cu0703"
+    },
+    "code": {
+      "id": "CU0703",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU07",
+      "level": 1,
+      "name": {
+        "local": "Holguín",
+        "en": "Holguin",
+        "slug": "holguin-cu07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU07",
+        "level": 1,
+        "name": {
+          "local": "Holguín",
+          "en": "Holguin",
+          "slug": "holguin-cu07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.961",
+      "lon": "-75.739"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0704",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cacocum",
+      "en": "Cacocum",
+      "slug": "cacocum-cu0704"
+    },
+    "code": {
+      "id": "CU0704",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU07",
+      "level": 1,
+      "name": {
+        "local": "Holguín",
+        "en": "Holguin",
+        "slug": "holguin-cu07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU07",
+        "level": 1,
+        "name": {
+          "local": "Holguín",
+          "en": "Holguin",
+          "slug": "holguin-cu07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.753",
+      "lon": "-76.47"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0705",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Calixto García",
+      "en": "Calixto Garcia",
+      "slug": "calixto-garcia-cu0705"
+    },
+    "code": {
+      "id": "CU0705",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU07",
+      "level": 1,
+      "name": {
+        "local": "Holguín",
+        "en": "Holguin",
+        "slug": "holguin-cu07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU07",
+        "level": 1,
+        "name": {
+          "local": "Holguín",
+          "en": "Holguin",
+          "slug": "holguin-cu07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.868",
+      "lon": "-76.603"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0706",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cueto",
+      "en": "Cueto",
+      "slug": "cueto-cu0706"
+    },
+    "code": {
+      "id": "CU0706",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU07",
+      "level": 1,
+      "name": {
+        "local": "Holguín",
+        "en": "Holguin",
+        "slug": "holguin-cu07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU07",
+        "level": 1,
+        "name": {
+          "local": "Holguín",
+          "en": "Holguin",
+          "slug": "holguin-cu07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.615",
+      "lon": "-75.94"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0707",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Frak País",
+      "en": "Frak Pais",
+      "slug": "frak-pais-cu0707"
+    },
+    "code": {
+      "id": "CU0707",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU07",
+      "level": 1,
+      "name": {
+        "local": "Holguín",
+        "en": "Holguin",
+        "slug": "holguin-cu07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU07",
+        "level": 1,
+        "name": {
+          "local": "Holguín",
+          "en": "Holguin",
+          "slug": "holguin-cu07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.669",
+      "lon": "-75.171"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0708",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Gibara",
+      "en": "Gibara",
+      "slug": "gibara-cu0708"
+    },
+    "code": {
+      "id": "CU0708",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU07",
+      "level": 1,
+      "name": {
+        "local": "Holguín",
+        "en": "Holguin",
+        "slug": "holguin-cu07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU07",
+        "level": 1,
+        "name": {
+          "local": "Holguín",
+          "en": "Holguin",
+          "slug": "holguin-cu07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.12",
+      "lon": "-76.254"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0709",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Holguín",
+      "en": "Holguin",
+      "slug": "holguin-cu0709"
+    },
+    "code": {
+      "id": "CU0709",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU07",
+      "level": 1,
+      "name": {
+        "local": "Holguín",
+        "en": "Holguin",
+        "slug": "holguin-cu07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU07",
+        "level": 1,
+        "name": {
+          "local": "Holguín",
+          "en": "Holguin",
+          "slug": "holguin-cu07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.899",
+      "lon": "-76.29"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0710",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Mayarí",
+      "en": "Mayari",
+      "slug": "mayari-cu0710"
+    },
+    "code": {
+      "id": "CU0710",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU07",
+      "level": 1,
+      "name": {
+        "local": "Holguín",
+        "en": "Holguin",
+        "slug": "holguin-cu07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU07",
+        "level": 1,
+        "name": {
+          "local": "Holguín",
+          "en": "Holguin",
+          "slug": "holguin-cu07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.633",
+      "lon": "-75.633"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0711",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Moa",
+      "en": "Moa",
+      "slug": "moa-cu0711"
+    },
+    "code": {
+      "id": "CU0711",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU07",
+      "level": 1,
+      "name": {
+        "local": "Holguín",
+        "en": "Holguin",
+        "slug": "holguin-cu07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU07",
+        "level": 1,
+        "name": {
+          "local": "Holguín",
+          "en": "Holguin",
+          "slug": "holguin-cu07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.568",
+      "lon": "-74.877"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0712",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Rafael Freyre",
+      "en": "Rafael Freyre",
+      "slug": "rafael-freyre-cu0712"
+    },
+    "code": {
+      "id": "CU0712",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU07",
+      "level": 1,
+      "name": {
+        "local": "Holguín",
+        "en": "Holguin",
+        "slug": "holguin-cu07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU07",
+        "level": 1,
+        "name": {
+          "local": "Holguín",
+          "en": "Holguin",
+          "slug": "holguin-cu07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.006",
+      "lon": "-76.019"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0713",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Sagua de Tánamo",
+      "en": "Sagua de Tanamo",
+      "slug": "sagua-de-tanamo-cu0713"
+    },
+    "code": {
+      "id": "CU0713",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU07",
+      "level": 1,
+      "name": {
+        "local": "Holguín",
+        "en": "Holguin",
+        "slug": "holguin-cu07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU07",
+        "level": 1,
+        "name": {
+          "local": "Holguín",
+          "en": "Holguin",
+          "slug": "holguin-cu07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.526",
+      "lon": "-75.173"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0714",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Urbano Noris",
+      "en": "Urbano Noris",
+      "slug": "urbano-noris-cu0714"
+    },
+    "code": {
+      "id": "CU0714",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU07",
+      "level": 1,
+      "name": {
+        "local": "Holguín",
+        "en": "Holguin",
+        "slug": "holguin-cu07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU07",
+        "level": 1,
+        "name": {
+          "local": "Holguín",
+          "en": "Holguin",
+          "slug": "holguin-cu07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.608",
+      "lon": "-76.254"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

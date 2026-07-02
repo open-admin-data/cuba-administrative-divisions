@@ -1,0 +1,587 @@
+[
+  {
+    "id": "CU1102",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Calimete",
+      "en": "Calimete",
+      "slug": "calimete-cu1102"
+    },
+    "code": {
+      "id": "CU1102",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU11",
+      "level": 1,
+      "name": {
+        "local": "Matanzas",
+        "en": "Matanzas",
+        "slug": "matanzas-cu11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU11",
+        "level": 1,
+        "name": {
+          "local": "Matanzas",
+          "en": "Matanzas",
+          "slug": "matanzas-cu11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.369",
+      "lon": "-81.001"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1101",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cárdenas",
+      "en": "Cardenas",
+      "slug": "cardenas-cu1101"
+    },
+    "code": {
+      "id": "CU1101",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU11",
+      "level": 1,
+      "name": {
+        "local": "Matanzas",
+        "en": "Matanzas",
+        "slug": "matanzas-cu11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU11",
+        "level": 1,
+        "name": {
+          "local": "Matanzas",
+          "en": "Matanzas",
+          "slug": "matanzas-cu11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.999",
+      "lon": "-81.253"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1103",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ciénaga de Zapata",
+      "en": "Cienaga de Zapata",
+      "slug": "cienaga-de-zapata-cu1103"
+    },
+    "code": {
+      "id": "CU1103",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU11",
+      "level": 1,
+      "name": {
+        "local": "Matanzas",
+        "en": "Matanzas",
+        "slug": "matanzas-cu11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU11",
+        "level": 1,
+        "name": {
+          "local": "Matanzas",
+          "en": "Matanzas",
+          "slug": "matanzas-cu11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.304",
+      "lon": "-81.541"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1104",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Colón",
+      "en": "Colon",
+      "slug": "colon-cu1104"
+    },
+    "code": {
+      "id": "CU1104",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU11",
+      "level": 1,
+      "name": {
+        "local": "Matanzas",
+        "en": "Matanzas",
+        "slug": "matanzas-cu11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU11",
+        "level": 1,
+        "name": {
+          "local": "Matanzas",
+          "en": "Matanzas",
+          "slug": "matanzas-cu11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.752",
+      "lon": "-80.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1105",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Jagüey Grande",
+      "en": "Jaguey Grande",
+      "slug": "jaguey-grande-cu1105"
+    },
+    "code": {
+      "id": "CU1105",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU11",
+      "level": 1,
+      "name": {
+        "local": "Matanzas",
+        "en": "Matanzas",
+        "slug": "matanzas-cu11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU11",
+        "level": 1,
+        "name": {
+          "local": "Matanzas",
+          "en": "Matanzas",
+          "slug": "matanzas-cu11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.562",
+      "lon": "-81.16"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1106",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Jovellanos",
+      "en": "Jovellanos",
+      "slug": "jovellanos-cu1106"
+    },
+    "code": {
+      "id": "CU1106",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU11",
+      "level": 1,
+      "name": {
+        "local": "Matanzas",
+        "en": "Matanzas",
+        "slug": "matanzas-cu11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU11",
+        "level": 1,
+        "name": {
+          "local": "Matanzas",
+          "en": "Matanzas",
+          "slug": "matanzas-cu11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.79",
+      "lon": "-81.188"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1107",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Limonar",
+      "en": "Limonar",
+      "slug": "limonar-cu1107"
+    },
+    "code": {
+      "id": "CU1107",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU11",
+      "level": 1,
+      "name": {
+        "local": "Matanzas",
+        "en": "Matanzas",
+        "slug": "matanzas-cu11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU11",
+        "level": 1,
+        "name": {
+          "local": "Matanzas",
+          "en": "Matanzas",
+          "slug": "matanzas-cu11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.88",
+      "lon": "-81.485"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1108",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Los Arabos",
+      "en": "Los Arabos",
+      "slug": "los-arabos-cu1108"
+    },
+    "code": {
+      "id": "CU1108",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU11",
+      "level": 1,
+      "name": {
+        "local": "Matanzas",
+        "en": "Matanzas",
+        "slug": "matanzas-cu11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU11",
+        "level": 1,
+        "name": {
+          "local": "Matanzas",
+          "en": "Matanzas",
+          "slug": "matanzas-cu11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.632",
+      "lon": "-80.686"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1109",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Martí",
+      "en": "Marti",
+      "slug": "marti-cu1109"
+    },
+    "code": {
+      "id": "CU1109",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU11",
+      "level": 1,
+      "name": {
+        "local": "Matanzas",
+        "en": "Matanzas",
+        "slug": "matanzas-cu11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU11",
+        "level": 1,
+        "name": {
+          "local": "Matanzas",
+          "en": "Matanzas",
+          "slug": "matanzas-cu11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.99",
+      "lon": "-80.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1110",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Matanzas",
+      "en": "Matanzas",
+      "slug": "matanzas-cu1110"
+    },
+    "code": {
+      "id": "CU1110",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU11",
+      "level": 1,
+      "name": {
+        "local": "Matanzas",
+        "en": "Matanzas",
+        "slug": "matanzas-cu11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU11",
+        "level": 1,
+        "name": {
+          "local": "Matanzas",
+          "en": "Matanzas",
+          "slug": "matanzas-cu11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.046",
+      "lon": "-81.613"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1111",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Pedro Betancourt",
+      "en": "Pedro Betancourt",
+      "slug": "pedro-betancourt-cu1111"
+    },
+    "code": {
+      "id": "CU1111",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU11",
+      "level": 1,
+      "name": {
+        "local": "Matanzas",
+        "en": "Matanzas",
+        "slug": "matanzas-cu11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU11",
+        "level": 1,
+        "name": {
+          "local": "Matanzas",
+          "en": "Matanzas",
+          "slug": "matanzas-cu11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.69",
+      "lon": "-81.317"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1112",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Perico",
+      "en": "Perico",
+      "slug": "perico-cu1112"
+    },
+    "code": {
+      "id": "CU1112",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU11",
+      "level": 1,
+      "name": {
+        "local": "Matanzas",
+        "en": "Matanzas",
+        "slug": "matanzas-cu11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU11",
+        "level": 1,
+        "name": {
+          "local": "Matanzas",
+          "en": "Matanzas",
+          "slug": "matanzas-cu11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.787",
+      "lon": "-80.995"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1113",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Unión de Reyes",
+      "en": "Union de Reyes",
+      "slug": "union-de-reyes-cu1113"
+    },
+    "code": {
+      "id": "CU1113",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU11",
+      "level": 1,
+      "name": {
+        "local": "Matanzas",
+        "en": "Matanzas",
+        "slug": "matanzas-cu11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU11",
+        "level": 1,
+        "name": {
+          "local": "Matanzas",
+          "en": "Matanzas",
+          "slug": "matanzas-cu11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.677",
+      "lon": "-81.484"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

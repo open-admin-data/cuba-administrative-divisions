@@ -1,0 +1,45 @@
+{
+  "id": "CU0202",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Carlos Manuel de Céspedes",
+    "en": "Carlos Manuel de Cespedes",
+    "slug": "carlos-manuel-de-cespedes-cu0202"
+  },
+  "code": {
+    "id": "CU0202",
+    "iso": null
+  },
+  "parent": {
+    "id": "CU02",
+    "level": 1,
+    "name": {
+      "local": "Camagüey",
+      "en": "Camaguey",
+      "slug": "camaguey-cu02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CU02",
+      "level": 1,
+      "name": {
+        "local": "Camagüey",
+        "en": "Camaguey",
+        "slug": "camaguey-cu02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.671",
+    "lon": "-78.263"
+  },
+  "metadata": {},
+  "source": {}
+}

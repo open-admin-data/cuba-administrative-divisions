@@ -1,0 +1,74 @@
+# Villa Clara — Cuba Administrative Divisions
+
+> 13 municipalitys
+> Code: CU16
+> Coordinates: 22.483, -79.835
+> Last updated: 2026-07-02. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Caibarién (Caibarien)
+
+Code: CU1601, Coordinates: 22.491, -79.539
+
+
+### Camajuaní (Camajuani)
+
+Code: CU1602, Coordinates: 22.513, -79.763
+
+
+### Cifuentes
+
+Code: CU1603, Coordinates: 22.586, -80.019
+
+
+### Corralillo
+
+Code: CU1604, Coordinates: 22.879, -80.518
+
+
+### Encrucijada
+
+Code: CU1605, Coordinates: 22.66, -79.811
+
+
+### Manicaragua
+
+Code: CU1606, Coordinates: 22.101, -79.948
+
+
+### Placetas
+
+Code: CU1607, Coordinates: 22.15, -79.609
+
+
+### Quemado de Güines (Quemado de Guines)
+
+Code: CU1608, Coordinates: 22.805, -80.288
+
+
+### Ranchuelo
+
+Code: CU1609, Coordinates: 22.379, -80.137
+
+
+### Remedios
+
+Code: CU1610, Coordinates: 22.322, -79.549
+
+
+### Sagua la Grande
+
+Code: CU1611, Coordinates: 22.805, -80.057
+
+
+### Santa Clara
+
+Code: CU1612, Coordinates: 22.345, -79.942
+
+
+### Santo Domingo
+
+Code: CU1613, Coordinates: 22.608, -80.35
+
+

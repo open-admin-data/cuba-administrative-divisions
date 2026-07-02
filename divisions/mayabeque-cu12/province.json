@@ -1,0 +1,33 @@
+{
+  "id": "CU12",
+  "level": 1,
+  "level_name": {
+    "local": "Provincia",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Mayabeque",
+    "en": "Mayabeque",
+    "slug": "mayabeque-cu12"
+  },
+  "code": {
+    "id": "CU12",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "municipality": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.864",
+    "lon": "-82.057"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/cu/provinces/mayabeque-cu12/",
+    "api": "https://openadmindata.org/api/cu/"
+  }
+}

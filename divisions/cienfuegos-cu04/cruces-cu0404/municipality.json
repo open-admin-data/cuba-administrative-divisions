@@ -1,0 +1,45 @@
+{
+  "id": "CU0404",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Cruces",
+    "en": "Cruces",
+    "slug": "cruces-cu0404"
+  },
+  "code": {
+    "id": "CU0404",
+    "iso": null
+  },
+  "parent": {
+    "id": "CU04",
+    "level": 1,
+    "name": {
+      "local": "Cienfuegos",
+      "en": "Cienfuegos",
+      "slug": "cienfuegos-cu04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CU04",
+      "level": 1,
+      "name": {
+        "local": "Cienfuegos",
+        "en": "Cienfuegos",
+        "slug": "cienfuegos-cu04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.246",
+    "lon": "-80.227"
+  },
+  "metadata": {},
+  "source": {}
+}

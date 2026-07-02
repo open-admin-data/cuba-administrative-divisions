@@ -1,0 +1,18 @@
+# Data from Open Admin Data (https://openadmindata.org/cu/) — CC-BY-4.0. Please cite: https://github.com/open-admin-data/cuba-administrative-divisions
+id,level,level_name.local,level_name.en,name.local,name.en,name.slug,code.id,code.iso,parent.id,parent.name.local,parent.name.en,children_count.province,children_count.municipality,zip_codes,geo.lat,geo.lon,source_url
+CU01,1,Provincia,Province,Artemisa,Artemisa,artemisa-cu01,CU01,,,,,,11,,22.77,-82.871,https://openadmindata.org/cu/provinces/artemisa-cu01/
+CU02,1,Provincia,Province,Camagüey,Camaguey,camaguey-cu02,CU02,,,,,,13,,21.505,-77.948,https://openadmindata.org/cu/provinces/camaguey-cu02/
+CU03,1,Provincia,Province,Ciego de Ávila,Ciego de Avila,ciego-de-avila-cu03,CU03,,,,,,10,,21.955,-78.58,https://openadmindata.org/cu/provinces/ciego-de-avila-cu03/
+CU04,1,Provincia,Province,Cienfuegos,Cienfuegos,cienfuegos-cu04,CU04,,,,,,8,,22.185,-80.488,https://openadmindata.org/cu/provinces/cienfuegos-cu04/
+CU05,1,Provincia,Province,Granma,Granma,granma-cu05,CU05,,,,,,13,,20.29,-76.763,https://openadmindata.org/cu/provinces/granma-cu05/
+CU06,1,Provincia,Province,Guantánamo,Guantanamo,guantanamo-cu06,CU06,,,,,,10,,20.232,-74.786,https://openadmindata.org/cu/provinces/guantanamo-cu06/
+CU07,1,Provincia,Province,Holguín,Holguin,holguin-cu07,CU07,,,,,,14,,20.827,-76.237,https://openadmindata.org/cu/provinces/holguin-cu07/
+CU08,1,Provincia,Province,Isla de la Juventud,Isla de la Juventud,isla-de-la-juventud-cu08,CU08,,,,,,1,,21.691,-82.814,https://openadmindata.org/cu/provinces/isla-de-la-juventud-cu08/
+CU09,1,Provincia,Province,La Habana,La Habana,la-habana-cu09,CU09,,,,,,15,,23.06,-82.308,https://openadmindata.org/cu/provinces/la-habana-cu09/
+CU10,1,Provincia,Province,Las Tunas,Las Tunas,las-tunas-cu10,CU10,,,,,,8,,21.05,-76.872,https://openadmindata.org/cu/provinces/las-tunas-cu10/
+CU11,1,Provincia,Province,Matanzas,Matanzas,matanzas-cu11,CU11,,,,,,13,,22.61,-81.085,https://openadmindata.org/cu/provinces/matanzas-cu11/
+CU12,1,Provincia,Province,Mayabeque,Mayabeque,mayabeque-cu12,CU12,,,,,,11,,22.864,-82.057,https://openadmindata.org/cu/provinces/mayabeque-cu12/
+CU13,1,Provincia,Province,Pinar del Río,Pinar del Rio,pinar-del-rio-cu13,CU13,,,,,,11,,22.332,-83.835,https://openadmindata.org/cu/provinces/pinar-del-rio-cu13/
+CU14,1,Provincia,Province,Sancti Spíritus,Sancti Spiritus,sancti-spiritus-cu14,CU14,,,,,,8,,22,-79.359,https://openadmindata.org/cu/provinces/sancti-spiritus-cu14/
+CU15,1,Provincia,Province,Santiago de Cuba,Santiago de Cuba,santiago-de-cuba-cu15,CU15,,,,,,9,,20.236,-75.913,https://openadmindata.org/cu/provinces/santiago-de-cuba-cu15/
+CU16,1,Provincia,Province,Villa Clara,Villa Clara,villa-clara-cu16,CU16,,,,,,13,,22.483,-79.835,https://openadmindata.org/cu/provinces/villa-clara-cu16/

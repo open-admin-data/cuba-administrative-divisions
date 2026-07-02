@@ -1,0 +1,79 @@
+# Holguin — Cuba Administrative Divisions
+
+> 14 municipalitys
+> Code: CU07
+> Coordinates: 20.827, -76.237
+> Last updated: 2026-07-02. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Antilla
+
+Code: CU0701, Coordinates: 20.843, -75.708
+
+
+### Báguanos (Baguanos)
+
+Code: CU0702, Coordinates: 20.816, -76.05
+
+
+### Banes
+
+Code: CU0703, Coordinates: 20.961, -75.739
+
+
+### Cacocum
+
+Code: CU0704, Coordinates: 20.753, -76.47
+
+
+### Calixto García (Calixto Garcia)
+
+Code: CU0705, Coordinates: 20.868, -76.603
+
+
+### Cueto
+
+Code: CU0706, Coordinates: 20.615, -75.94
+
+
+### Frak País (Frak Pais)
+
+Code: CU0707, Coordinates: 20.669, -75.171
+
+
+### Gibara
+
+Code: CU0708, Coordinates: 21.12, -76.254
+
+
+### Holguín (Holguin)
+
+Code: CU0709, Coordinates: 20.899, -76.29
+
+
+### Mayarí (Mayari)
+
+Code: CU0710, Coordinates: 20.633, -75.633
+
+
+### Moa
+
+Code: CU0711, Coordinates: 20.568, -74.877
+
+
+### Rafael Freyre
+
+Code: CU0712, Coordinates: 21.006, -76.019
+
+
+### Sagua de Tánamo (Sagua de Tanamo)
+
+Code: CU0713, Coordinates: 20.526, -75.173
+
+
+### Urbano Noris
+
+Code: CU0714, Coordinates: 20.608, -76.254
+
+

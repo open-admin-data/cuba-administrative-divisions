@@ -1,0 +1,45 @@
+{
+  "id": "CU0509",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Media Luna",
+    "en": "Media Luna",
+    "slug": "media-luna-cu0509"
+  },
+  "code": {
+    "id": "CU0509",
+    "iso": null
+  },
+  "parent": {
+    "id": "CU05",
+    "level": 1,
+    "name": {
+      "local": "Granma",
+      "en": "Granma",
+      "slug": "granma-cu05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CU05",
+      "level": 1,
+      "name": {
+        "local": "Granma",
+        "en": "Granma",
+        "slug": "granma-cu05"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.082",
+    "lon": "-77.414"
+  },
+  "metadata": {},
+  "source": {}
+}

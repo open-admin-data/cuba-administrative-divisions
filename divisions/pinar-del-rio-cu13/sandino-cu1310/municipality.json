@@ -1,0 +1,45 @@
+{
+  "id": "CU1310",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Sandino",
+    "en": "Sandino",
+    "slug": "sandino-cu1310"
+  },
+  "code": {
+    "id": "CU1310",
+    "iso": null
+  },
+  "parent": {
+    "id": "CU13",
+    "level": 1,
+    "name": {
+      "local": "Pinar del Río",
+      "en": "Pinar del Rio",
+      "slug": "pinar-del-rio-cu13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CU13",
+      "level": 1,
+      "name": {
+        "local": "Pinar del Río",
+        "en": "Pinar del Rio",
+        "slug": "pinar-del-rio-cu13"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.956",
+    "lon": "-84.35"
+  },
+  "metadata": {},
+  "source": {}
+}

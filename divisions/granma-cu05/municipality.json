@@ -1,0 +1,587 @@
+[
+  {
+    "id": "CU0501",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Bartolomé Masó",
+      "en": "Bartolome Maso",
+      "slug": "bartolome-maso-cu0501"
+    },
+    "code": {
+      "id": "CU0501",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU05",
+      "level": 1,
+      "name": {
+        "local": "Granma",
+        "en": "Granma",
+        "slug": "granma-cu05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU05",
+        "level": 1,
+        "name": {
+          "local": "Granma",
+          "en": "Granma",
+          "slug": "granma-cu05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.071",
+      "lon": "-76.951"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0502",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Bayamo",
+      "en": "Bayamo",
+      "slug": "bayamo-cu0502"
+    },
+    "code": {
+      "id": "CU0502",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU05",
+      "level": 1,
+      "name": {
+        "local": "Granma",
+        "en": "Granma",
+        "slug": "granma-cu05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU05",
+        "level": 1,
+        "name": {
+          "local": "Granma",
+          "en": "Granma",
+          "slug": "granma-cu05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.423",
+      "lon": "-76.664"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0503",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Buey Arriba",
+      "en": "Buey Arriba",
+      "slug": "buey-arriba-cu0503"
+    },
+    "code": {
+      "id": "CU0503",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU05",
+      "level": 1,
+      "name": {
+        "local": "Granma",
+        "en": "Granma",
+        "slug": "granma-cu05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU05",
+        "level": 1,
+        "name": {
+          "local": "Granma",
+          "en": "Granma",
+          "slug": "granma-cu05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.133",
+      "lon": "-76.719"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0504",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Campechuela",
+      "en": "Campechuela",
+      "slug": "campechuela-cu0504"
+    },
+    "code": {
+      "id": "CU0504",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU05",
+      "level": 1,
+      "name": {
+        "local": "Granma",
+        "en": "Granma",
+        "slug": "granma-cu05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU05",
+        "level": 1,
+        "name": {
+          "local": "Granma",
+          "en": "Granma",
+          "slug": "granma-cu05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.127",
+      "lon": "-77.26"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0505",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cauto Cristo",
+      "en": "Cauto Cristo",
+      "slug": "cauto-cristo-cu0505"
+    },
+    "code": {
+      "id": "CU0505",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU05",
+      "level": 1,
+      "name": {
+        "local": "Granma",
+        "en": "Granma",
+        "slug": "granma-cu05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU05",
+        "level": 1,
+        "name": {
+          "local": "Granma",
+          "en": "Granma",
+          "slug": "granma-cu05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.621",
+      "lon": "-76.617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0506",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Guisa",
+      "en": "Guisa",
+      "slug": "guisa-cu0506"
+    },
+    "code": {
+      "id": "CU0506",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU05",
+      "level": 1,
+      "name": {
+        "local": "Granma",
+        "en": "Granma",
+        "slug": "granma-cu05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU05",
+        "level": 1,
+        "name": {
+          "local": "Granma",
+          "en": "Granma",
+          "slug": "granma-cu05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.185",
+      "lon": "-76.508"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0507",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Jiguaní",
+      "en": "Jiguani",
+      "slug": "jiguani-cu0507"
+    },
+    "code": {
+      "id": "CU0507",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU05",
+      "level": 1,
+      "name": {
+        "local": "Granma",
+        "en": "Granma",
+        "slug": "granma-cu05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU05",
+        "level": 1,
+        "name": {
+          "local": "Granma",
+          "en": "Granma",
+          "slug": "granma-cu05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.406",
+      "lon": "-76.392"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0508",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Manzanillo",
+      "en": "Manzanillo",
+      "slug": "manzanillo-cu0508"
+    },
+    "code": {
+      "id": "CU0508",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU05",
+      "level": 1,
+      "name": {
+        "local": "Granma",
+        "en": "Granma",
+        "slug": "granma-cu05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU05",
+        "level": 1,
+        "name": {
+          "local": "Granma",
+          "en": "Granma",
+          "slug": "granma-cu05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.247",
+      "lon": "-77.132"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0509",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Media Luna",
+      "en": "Media Luna",
+      "slug": "media-luna-cu0509"
+    },
+    "code": {
+      "id": "CU0509",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU05",
+      "level": 1,
+      "name": {
+        "local": "Granma",
+        "en": "Granma",
+        "slug": "granma-cu05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU05",
+        "level": 1,
+        "name": {
+          "local": "Granma",
+          "en": "Granma",
+          "slug": "granma-cu05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.082",
+      "lon": "-77.414"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0510",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Niquero",
+      "en": "Niquero",
+      "slug": "niquero-cu0510"
+    },
+    "code": {
+      "id": "CU0510",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU05",
+      "level": 1,
+      "name": {
+        "local": "Granma",
+        "en": "Granma",
+        "slug": "granma-cu05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU05",
+        "level": 1,
+        "name": {
+          "local": "Granma",
+          "en": "Granma",
+          "slug": "granma-cu05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.961",
+      "lon": "-77.545"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0511",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Pilón",
+      "en": "Pilon",
+      "slug": "pilon-cu0511"
+    },
+    "code": {
+      "id": "CU0511",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU05",
+      "level": 1,
+      "name": {
+        "local": "Granma",
+        "en": "Granma",
+        "slug": "granma-cu05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU05",
+        "level": 1,
+        "name": {
+          "local": "Granma",
+          "en": "Granma",
+          "slug": "granma-cu05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.944",
+      "lon": "-77.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0512",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Río Cauto",
+      "en": "Rio Cauto",
+      "slug": "rio-cauto-cu0512"
+    },
+    "code": {
+      "id": "CU0512",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU05",
+      "level": 1,
+      "name": {
+        "local": "Granma",
+        "en": "Granma",
+        "slug": "granma-cu05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU05",
+        "level": 1,
+        "name": {
+          "local": "Granma",
+          "en": "Granma",
+          "slug": "granma-cu05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.574",
+      "lon": "-76.99"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0513",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Yara",
+      "en": "Yara",
+      "slug": "yara-cu0513"
+    },
+    "code": {
+      "id": "CU0513",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU05",
+      "level": 1,
+      "name": {
+        "local": "Granma",
+        "en": "Granma",
+        "slug": "granma-cu05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU05",
+        "level": 1,
+        "name": {
+          "local": "Granma",
+          "en": "Granma",
+          "slug": "granma-cu05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.367",
+      "lon": "-76.923"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

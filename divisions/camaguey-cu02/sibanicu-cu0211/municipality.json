@@ -1,0 +1,45 @@
+{
+  "id": "CU0211",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Sibanicú",
+    "en": "Sibanicu",
+    "slug": "sibanicu-cu0211"
+  },
+  "code": {
+    "id": "CU0211",
+    "iso": null
+  },
+  "parent": {
+    "id": "CU02",
+    "level": 1,
+    "name": {
+      "local": "Camagüey",
+      "en": "Camaguey",
+      "slug": "camaguey-cu02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CU02",
+      "level": 1,
+      "name": {
+        "local": "Camagüey",
+        "en": "Camaguey",
+        "slug": "camaguey-cu02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.256",
+    "lon": "-77.607"
+  },
+  "metadata": {},
+  "source": {}
+}

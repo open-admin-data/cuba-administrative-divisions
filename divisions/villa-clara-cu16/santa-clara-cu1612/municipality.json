@@ -1,0 +1,45 @@
+{
+  "id": "CU1612",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santa Clara",
+    "en": "Santa Clara",
+    "slug": "santa-clara-cu1612"
+  },
+  "code": {
+    "id": "CU1612",
+    "iso": null
+  },
+  "parent": {
+    "id": "CU16",
+    "level": 1,
+    "name": {
+      "local": "Villa Clara",
+      "en": "Villa Clara",
+      "slug": "villa-clara-cu16"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CU16",
+      "level": 1,
+      "name": {
+        "local": "Villa Clara",
+        "en": "Villa Clara",
+        "slug": "villa-clara-cu16"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.345",
+    "lon": "-79.942"
+  },
+  "metadata": {},
+  "source": {}
+}

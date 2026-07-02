@@ -1,0 +1,45 @@
+{
+  "id": "CU0212",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Sierra de Cubitas",
+    "en": "Sierra de Cubitas",
+    "slug": "sierra-de-cubitas-cu0212"
+  },
+  "code": {
+    "id": "CU0212",
+    "iso": null
+  },
+  "parent": {
+    "id": "CU02",
+    "level": 1,
+    "name": {
+      "local": "Camagüey",
+      "en": "Camaguey",
+      "slug": "camaguey-cu02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CU02",
+      "level": 1,
+      "name": {
+        "local": "Camagüey",
+        "en": "Camaguey",
+        "slug": "camaguey-cu02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.683",
+    "lon": "-77.803"
+  },
+  "metadata": {},
+  "source": {}
+}

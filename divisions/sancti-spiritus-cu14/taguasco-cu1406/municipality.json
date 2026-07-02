@@ -1,0 +1,45 @@
+{
+  "id": "CU1406",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Taguasco",
+    "en": "Taguasco",
+    "slug": "taguasco-cu1406"
+  },
+  "code": {
+    "id": "CU1406",
+    "iso": null
+  },
+  "parent": {
+    "id": "CU14",
+    "level": 1,
+    "name": {
+      "local": "Sancti Spíritus",
+      "en": "Sancti Spiritus",
+      "slug": "sancti-spiritus-cu14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CU14",
+      "level": 1,
+      "name": {
+        "local": "Sancti Spíritus",
+        "en": "Sancti Spiritus",
+        "slug": "sancti-spiritus-cu14"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.042",
+    "lon": "-79.321"
+  },
+  "metadata": {},
+  "source": {}
+}

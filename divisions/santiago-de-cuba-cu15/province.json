@@ -1,0 +1,33 @@
+{
+  "id": "CU15",
+  "level": 1,
+  "level_name": {
+    "local": "Provincia",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Santiago de Cuba",
+    "en": "Santiago de Cuba",
+    "slug": "santiago-de-cuba-cu15"
+  },
+  "code": {
+    "id": "CU15",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "municipality": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.236",
+    "lon": "-75.913"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/cu/provinces/santiago-de-cuba-cu15/",
+    "api": "https://openadmindata.org/api/cu/"
+  }
+}

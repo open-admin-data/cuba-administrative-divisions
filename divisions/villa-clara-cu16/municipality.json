@@ -1,0 +1,587 @@
+[
+  {
+    "id": "CU1601",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Caibarién",
+      "en": "Caibarien",
+      "slug": "caibarien-cu1601"
+    },
+    "code": {
+      "id": "CU1601",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU16",
+      "level": 1,
+      "name": {
+        "local": "Villa Clara",
+        "en": "Villa Clara",
+        "slug": "villa-clara-cu16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU16",
+        "level": 1,
+        "name": {
+          "local": "Villa Clara",
+          "en": "Villa Clara",
+          "slug": "villa-clara-cu16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.491",
+      "lon": "-79.539"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1602",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Camajuaní",
+      "en": "Camajuani",
+      "slug": "camajuani-cu1602"
+    },
+    "code": {
+      "id": "CU1602",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU16",
+      "level": 1,
+      "name": {
+        "local": "Villa Clara",
+        "en": "Villa Clara",
+        "slug": "villa-clara-cu16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU16",
+        "level": 1,
+        "name": {
+          "local": "Villa Clara",
+          "en": "Villa Clara",
+          "slug": "villa-clara-cu16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.513",
+      "lon": "-79.763"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1603",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cifuentes",
+      "en": "Cifuentes",
+      "slug": "cifuentes-cu1603"
+    },
+    "code": {
+      "id": "CU1603",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU16",
+      "level": 1,
+      "name": {
+        "local": "Villa Clara",
+        "en": "Villa Clara",
+        "slug": "villa-clara-cu16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU16",
+        "level": 1,
+        "name": {
+          "local": "Villa Clara",
+          "en": "Villa Clara",
+          "slug": "villa-clara-cu16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.586",
+      "lon": "-80.019"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1604",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Corralillo",
+      "en": "Corralillo",
+      "slug": "corralillo-cu1604"
+    },
+    "code": {
+      "id": "CU1604",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU16",
+      "level": 1,
+      "name": {
+        "local": "Villa Clara",
+        "en": "Villa Clara",
+        "slug": "villa-clara-cu16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU16",
+        "level": 1,
+        "name": {
+          "local": "Villa Clara",
+          "en": "Villa Clara",
+          "slug": "villa-clara-cu16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.879",
+      "lon": "-80.518"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1605",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Encrucijada",
+      "en": "Encrucijada",
+      "slug": "encrucijada-cu1605"
+    },
+    "code": {
+      "id": "CU1605",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU16",
+      "level": 1,
+      "name": {
+        "local": "Villa Clara",
+        "en": "Villa Clara",
+        "slug": "villa-clara-cu16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU16",
+        "level": 1,
+        "name": {
+          "local": "Villa Clara",
+          "en": "Villa Clara",
+          "slug": "villa-clara-cu16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.66",
+      "lon": "-79.811"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1606",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Manicaragua",
+      "en": "Manicaragua",
+      "slug": "manicaragua-cu1606"
+    },
+    "code": {
+      "id": "CU1606",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU16",
+      "level": 1,
+      "name": {
+        "local": "Villa Clara",
+        "en": "Villa Clara",
+        "slug": "villa-clara-cu16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU16",
+        "level": 1,
+        "name": {
+          "local": "Villa Clara",
+          "en": "Villa Clara",
+          "slug": "villa-clara-cu16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.101",
+      "lon": "-79.948"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1607",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Placetas",
+      "en": "Placetas",
+      "slug": "placetas-cu1607"
+    },
+    "code": {
+      "id": "CU1607",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU16",
+      "level": 1,
+      "name": {
+        "local": "Villa Clara",
+        "en": "Villa Clara",
+        "slug": "villa-clara-cu16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU16",
+        "level": 1,
+        "name": {
+          "local": "Villa Clara",
+          "en": "Villa Clara",
+          "slug": "villa-clara-cu16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.15",
+      "lon": "-79.609"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1608",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Quemado de Güines",
+      "en": "Quemado de Guines",
+      "slug": "quemado-de-guines-cu1608"
+    },
+    "code": {
+      "id": "CU1608",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU16",
+      "level": 1,
+      "name": {
+        "local": "Villa Clara",
+        "en": "Villa Clara",
+        "slug": "villa-clara-cu16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU16",
+        "level": 1,
+        "name": {
+          "local": "Villa Clara",
+          "en": "Villa Clara",
+          "slug": "villa-clara-cu16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.805",
+      "lon": "-80.288"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1609",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ranchuelo",
+      "en": "Ranchuelo",
+      "slug": "ranchuelo-cu1609"
+    },
+    "code": {
+      "id": "CU1609",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU16",
+      "level": 1,
+      "name": {
+        "local": "Villa Clara",
+        "en": "Villa Clara",
+        "slug": "villa-clara-cu16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU16",
+        "level": 1,
+        "name": {
+          "local": "Villa Clara",
+          "en": "Villa Clara",
+          "slug": "villa-clara-cu16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.379",
+      "lon": "-80.137"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1610",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Remedios",
+      "en": "Remedios",
+      "slug": "remedios-cu1610"
+    },
+    "code": {
+      "id": "CU1610",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU16",
+      "level": 1,
+      "name": {
+        "local": "Villa Clara",
+        "en": "Villa Clara",
+        "slug": "villa-clara-cu16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU16",
+        "level": 1,
+        "name": {
+          "local": "Villa Clara",
+          "en": "Villa Clara",
+          "slug": "villa-clara-cu16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.322",
+      "lon": "-79.549"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1611",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Sagua la Grande",
+      "en": "Sagua la Grande",
+      "slug": "sagua-la-grande-cu1611"
+    },
+    "code": {
+      "id": "CU1611",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU16",
+      "level": 1,
+      "name": {
+        "local": "Villa Clara",
+        "en": "Villa Clara",
+        "slug": "villa-clara-cu16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU16",
+        "level": 1,
+        "name": {
+          "local": "Villa Clara",
+          "en": "Villa Clara",
+          "slug": "villa-clara-cu16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.805",
+      "lon": "-80.057"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1612",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santa Clara",
+      "en": "Santa Clara",
+      "slug": "santa-clara-cu1612"
+    },
+    "code": {
+      "id": "CU1612",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU16",
+      "level": 1,
+      "name": {
+        "local": "Villa Clara",
+        "en": "Villa Clara",
+        "slug": "villa-clara-cu16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU16",
+        "level": 1,
+        "name": {
+          "local": "Villa Clara",
+          "en": "Villa Clara",
+          "slug": "villa-clara-cu16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.345",
+      "lon": "-79.942"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1613",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santo Domingo",
+      "en": "Santo Domingo",
+      "slug": "santo-domingo-cu1613"
+    },
+    "code": {
+      "id": "CU1613",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU16",
+      "level": 1,
+      "name": {
+        "local": "Villa Clara",
+        "en": "Villa Clara",
+        "slug": "villa-clara-cu16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU16",
+        "level": 1,
+        "name": {
+          "local": "Villa Clara",
+          "en": "Villa Clara",
+          "slug": "villa-clara-cu16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.608",
+      "lon": "-80.35"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

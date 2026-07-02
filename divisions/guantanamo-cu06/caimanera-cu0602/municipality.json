@@ -1,0 +1,45 @@
+{
+  "id": "CU0602",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Caimanera",
+    "en": "Caimanera",
+    "slug": "caimanera-cu0602"
+  },
+  "code": {
+    "id": "CU0602",
+    "iso": null
+  },
+  "parent": {
+    "id": "CU06",
+    "level": 1,
+    "name": {
+      "local": "Guantánamo",
+      "en": "Guantanamo",
+      "slug": "guantanamo-cu06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CU06",
+      "level": 1,
+      "name": {
+        "local": "Guantánamo",
+        "en": "Guantanamo",
+        "slug": "guantanamo-cu06"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.982",
+    "lon": "-75.222"
+  },
+  "metadata": {},
+  "source": {}
+}

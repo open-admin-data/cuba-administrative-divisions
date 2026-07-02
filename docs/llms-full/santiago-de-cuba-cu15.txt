@@ -1,0 +1,54 @@
+# Santiago de Cuba — Cuba Administrative Divisions
+
+> 9 municipalitys
+> Code: CU15
+> Coordinates: 20.236, -75.913
+> Last updated: 2026-07-02. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Contramaestre
+
+Code: CU1501, Coordinates: 20.323, -76.224
+
+
+### Guamá (Guama)
+
+Code: CU1502, Coordinates: 19.994, -76.522
+
+
+### Mella
+
+Code: CU1503, Coordinates: 20.461, -75.951
+
+
+### Palma Soriano
+
+Code: CU1504, Coordinates: 20.238, -76.069
+
+
+### San Luis
+
+Code: CU1505, Coordinates: 20.272, -75.831
+
+
+### Santiago de Cuba
+
+Code: CU1506, Coordinates: 20.016, -75.669
+
+
+### Segundo Frente
+
+Code: CU1507, Coordinates: 20.449, -75.479
+
+
+### Songo-La Maya
+
+Code: CU1508, Coordinates: 20.21, -75.593
+
+
+### Tercer Frente
+
+Code: CU1509, Coordinates: 20.155, -76.266
+
+

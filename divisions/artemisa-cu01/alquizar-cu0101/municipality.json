@@ -1,0 +1,45 @@
+{
+  "id": "CU0101",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Alquízar",
+    "en": "Alquizar",
+    "slug": "alquizar-cu0101"
+  },
+  "code": {
+    "id": "CU0101",
+    "iso": null
+  },
+  "parent": {
+    "id": "CU01",
+    "level": 1,
+    "name": {
+      "local": "Artemisa",
+      "en": "Artemisa",
+      "slug": "artemisa-cu01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CU01",
+      "level": 1,
+      "name": {
+        "local": "Artemisa",
+        "en": "Artemisa",
+        "slug": "artemisa-cu01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.748",
+    "lon": "-82.605"
+  },
+  "metadata": {},
+  "source": {}
+}

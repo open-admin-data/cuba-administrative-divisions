@@ -1,0 +1,33 @@
+{
+  "id": "CU07",
+  "level": 1,
+  "level_name": {
+    "local": "Provincia",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Holguín",
+    "en": "Holguin",
+    "slug": "holguin-cu07"
+  },
+  "code": {
+    "id": "CU07",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "municipality": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.827",
+    "lon": "-76.237"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/cu/provinces/holguin-cu07/",
+    "api": "https://openadmindata.org/api/cu/"
+  }
+}

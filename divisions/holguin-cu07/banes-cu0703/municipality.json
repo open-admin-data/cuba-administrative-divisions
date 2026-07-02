@@ -1,0 +1,45 @@
+{
+  "id": "CU0703",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Banes",
+    "en": "Banes",
+    "slug": "banes-cu0703"
+  },
+  "code": {
+    "id": "CU0703",
+    "iso": null
+  },
+  "parent": {
+    "id": "CU07",
+    "level": 1,
+    "name": {
+      "local": "Holguín",
+      "en": "Holguin",
+      "slug": "holguin-cu07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CU07",
+      "level": 1,
+      "name": {
+        "local": "Holguín",
+        "en": "Holguin",
+        "slug": "holguin-cu07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.961",
+    "lon": "-75.739"
+  },
+  "metadata": {},
+  "source": {}
+}

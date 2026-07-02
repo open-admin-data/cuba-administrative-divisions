@@ -1,0 +1,64 @@
+# Pinar del Rio — Cuba Administrative Divisions
+
+> 11 municipalitys
+> Code: CU13
+> Coordinates: 22.332, -83.835
+> Last updated: 2026-07-02. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Consolación del Sur (Consolacion del Sur)
+
+Code: CU1301, Coordinates: 22.418, -83.421
+
+
+### Guane
+
+Code: CU1302, Coordinates: 22.229, -84.066
+
+
+### La Palma
+
+Code: CU1303, Coordinates: 22.731, -83.479
+
+
+### Los Palacios
+
+Code: CU1304, Coordinates: 22.515, -83.209
+
+
+### Mantua
+
+Code: CU1305, Coordinates: 22.335, -84.249
+
+
+### Minas de Matahambre
+
+Code: CU1306, Coordinates: 22.545, -83.981
+
+
+### Pinar del Río (Pinar del Rio)
+
+Code: CU1307, Coordinates: 22.355, -83.573
+
+
+### San Juan y Martínez (San Juan y Martinez)
+
+Code: CU1308, Coordinates: 22.316, -83.84
+
+
+### San Luis
+
+Code: CU1309, Coordinates: 22.265, -83.673
+
+
+### Sandino
+
+Code: CU1310, Coordinates: 21.956, -84.35
+
+
+### Viñales (Vinales)
+
+Code: CU1311, Coordinates: 22.623, -83.703
+
+

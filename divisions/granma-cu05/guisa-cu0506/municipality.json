@@ -1,0 +1,45 @@
+{
+  "id": "CU0506",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Guisa",
+    "en": "Guisa",
+    "slug": "guisa-cu0506"
+  },
+  "code": {
+    "id": "CU0506",
+    "iso": null
+  },
+  "parent": {
+    "id": "CU05",
+    "level": 1,
+    "name": {
+      "local": "Granma",
+      "en": "Granma",
+      "slug": "granma-cu05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CU05",
+      "level": 1,
+      "name": {
+        "local": "Granma",
+        "en": "Granma",
+        "slug": "granma-cu05"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.185",
+    "lon": "-76.508"
+  },
+  "metadata": {},
+  "source": {}
+}

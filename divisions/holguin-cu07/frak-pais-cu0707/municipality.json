@@ -1,0 +1,45 @@
+{
+  "id": "CU0707",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Frak País",
+    "en": "Frak Pais",
+    "slug": "frak-pais-cu0707"
+  },
+  "code": {
+    "id": "CU0707",
+    "iso": null
+  },
+  "parent": {
+    "id": "CU07",
+    "level": 1,
+    "name": {
+      "local": "Holguín",
+      "en": "Holguin",
+      "slug": "holguin-cu07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CU07",
+      "level": 1,
+      "name": {
+        "local": "Holguín",
+        "en": "Holguin",
+        "slug": "holguin-cu07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.669",
+    "lon": "-75.171"
+  },
+  "metadata": {},
+  "source": {}
+}

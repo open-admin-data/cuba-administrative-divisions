@@ -1,0 +1,45 @@
+{
+  "id": "CU0708",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Gibara",
+    "en": "Gibara",
+    "slug": "gibara-cu0708"
+  },
+  "code": {
+    "id": "CU0708",
+    "iso": null
+  },
+  "parent": {
+    "id": "CU07",
+    "level": 1,
+    "name": {
+      "local": "Holguín",
+      "en": "Holguin",
+      "slug": "holguin-cu07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CU07",
+      "level": 1,
+      "name": {
+        "local": "Holguín",
+        "en": "Holguin",
+        "slug": "holguin-cu07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.12",
+    "lon": "-76.254"
+  },
+  "metadata": {},
+  "source": {}
+}

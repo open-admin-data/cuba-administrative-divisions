@@ -1,0 +1,45 @@
+{
+  "id": "CU1608",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Quemado de Güines",
+    "en": "Quemado de Guines",
+    "slug": "quemado-de-guines-cu1608"
+  },
+  "code": {
+    "id": "CU1608",
+    "iso": null
+  },
+  "parent": {
+    "id": "CU16",
+    "level": 1,
+    "name": {
+      "local": "Villa Clara",
+      "en": "Villa Clara",
+      "slug": "villa-clara-cu16"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CU16",
+      "level": 1,
+      "name": {
+        "local": "Villa Clara",
+        "en": "Villa Clara",
+        "slug": "villa-clara-cu16"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.805",
+    "lon": "-80.288"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "CU0108",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Güira de Melena",
+    "en": "Guira de Melena",
+    "slug": "guira-de-melena-cu0108"
+  },
+  "code": {
+    "id": "CU0108",
+    "iso": null
+  },
+  "parent": {
+    "id": "CU01",
+    "level": 1,
+    "name": {
+      "local": "Artemisa",
+      "en": "Artemisa",
+      "slug": "artemisa-cu01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CU01",
+      "level": 1,
+      "name": {
+        "local": "Artemisa",
+        "en": "Artemisa",
+        "slug": "artemisa-cu01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.741",
+    "lon": "-82.481"
+  },
+  "metadata": {},
+  "source": {}
+}

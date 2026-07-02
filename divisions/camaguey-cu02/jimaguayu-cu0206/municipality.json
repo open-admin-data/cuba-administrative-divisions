@@ -1,0 +1,45 @@
+{
+  "id": "CU0206",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Jimaguayú",
+    "en": "Jimaguayu",
+    "slug": "jimaguayu-cu0206"
+  },
+  "code": {
+    "id": "CU0206",
+    "iso": null
+  },
+  "parent": {
+    "id": "CU02",
+    "level": 1,
+    "name": {
+      "local": "Camagüey",
+      "en": "Camaguey",
+      "slug": "camaguey-cu02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CU02",
+      "level": 1,
+      "name": {
+        "local": "Camagüey",
+        "en": "Camaguey",
+        "slug": "camaguey-cu02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.196",
+    "lon": "-77.946"
+  },
+  "metadata": {},
+  "source": {}
+}

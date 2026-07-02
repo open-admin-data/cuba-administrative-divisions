@@ -1,0 +1,45 @@
+{
+  "id": "CU1507",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Segundo Frente",
+    "en": "Segundo Frente",
+    "slug": "segundo-frente-cu1507"
+  },
+  "code": {
+    "id": "CU1507",
+    "iso": null
+  },
+  "parent": {
+    "id": "CU15",
+    "level": 1,
+    "name": {
+      "local": "Santiago de Cuba",
+      "en": "Santiago de Cuba",
+      "slug": "santiago-de-cuba-cu15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CU15",
+      "level": 1,
+      "name": {
+        "local": "Santiago de Cuba",
+        "en": "Santiago de Cuba",
+        "slug": "santiago-de-cuba-cu15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.449",
+    "lon": "-75.479"
+  },
+  "metadata": {},
+  "source": {}
+}

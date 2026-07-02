@@ -1,0 +1,45 @@
+{
+  "id": "CU1601",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Caibarién",
+    "en": "Caibarien",
+    "slug": "caibarien-cu1601"
+  },
+  "code": {
+    "id": "CU1601",
+    "iso": null
+  },
+  "parent": {
+    "id": "CU16",
+    "level": 1,
+    "name": {
+      "local": "Villa Clara",
+      "en": "Villa Clara",
+      "slug": "villa-clara-cu16"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CU16",
+      "level": 1,
+      "name": {
+        "local": "Villa Clara",
+        "en": "Villa Clara",
+        "slug": "villa-clara-cu16"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.491",
+    "lon": "-79.539"
+  },
+  "metadata": {},
+  "source": {}
+}

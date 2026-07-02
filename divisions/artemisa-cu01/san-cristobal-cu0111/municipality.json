@@ -1,0 +1,45 @@
+{
+  "id": "CU0111",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Cristóbal",
+    "en": "San Cristobal",
+    "slug": "san-cristobal-cu0111"
+  },
+  "code": {
+    "id": "CU0111",
+    "iso": null
+  },
+  "parent": {
+    "id": "CU01",
+    "level": 1,
+    "name": {
+      "local": "Artemisa",
+      "en": "Artemisa",
+      "slug": "artemisa-cu01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CU01",
+      "level": 1,
+      "name": {
+        "local": "Artemisa",
+        "en": "Artemisa",
+        "slug": "artemisa-cu01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.645",
+    "lon": "-83.047"
+  },
+  "metadata": {},
+  "source": {}
+}

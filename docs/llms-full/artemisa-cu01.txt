@@ -1,0 +1,64 @@
+# Artemisa — Cuba Administrative Divisions
+
+> 11 municipalitys
+> Code: CU01
+> Coordinates: 22.77, -82.871
+> Last updated: 2026-07-02. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Alquízar (Alquizar)
+
+Code: CU0101, Coordinates: 22.748, -82.605
+
+
+### Artemisa
+
+Code: CU0102, Coordinates: 22.752, -82.799
+
+
+### Bahía Honda (Bahia Honda)
+
+Code: CU0103, Coordinates: 22.897, -83.134
+
+
+### Bauta
+
+Code: CU0104, Coordinates: 22.981, -82.522
+
+
+### Caimito
+
+Code: CU0105, Coordinates: 22.921, -82.604
+
+
+### Candelaria
+
+Code: CU0106, Coordinates: 22.729, -82.942
+
+
+### Guanajay
+
+Code: CU0107, Coordinates: 22.902, -82.709
+
+
+### Güira de Melena (Guira de Melena)
+
+Code: CU0108, Coordinates: 22.741, -82.481
+
+
+### Mariel
+
+Code: CU0109, Coordinates: 22.964, -82.792
+
+
+### San Antonio de los Baños (San Antonio de los Banos)
+
+Code: CU0110, Coordinates: 22.87, -82.492
+
+
+### San Cristóbal (San Cristobal)
+
+Code: CU0111, Coordinates: 22.645, -83.047
+
+

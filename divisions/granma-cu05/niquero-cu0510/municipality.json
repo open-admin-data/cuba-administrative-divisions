@@ -1,0 +1,45 @@
+{
+  "id": "CU0510",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Niquero",
+    "en": "Niquero",
+    "slug": "niquero-cu0510"
+  },
+  "code": {
+    "id": "CU0510",
+    "iso": null
+  },
+  "parent": {
+    "id": "CU05",
+    "level": 1,
+    "name": {
+      "local": "Granma",
+      "en": "Granma",
+      "slug": "granma-cu05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CU05",
+      "level": 1,
+      "name": {
+        "local": "Granma",
+        "en": "Granma",
+        "slug": "granma-cu05"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.961",
+    "lon": "-77.545"
+  },
+  "metadata": {},
+  "source": {}
+}

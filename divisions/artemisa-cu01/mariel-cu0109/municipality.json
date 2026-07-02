@@ -1,0 +1,45 @@
+{
+  "id": "CU0109",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Mariel",
+    "en": "Mariel",
+    "slug": "mariel-cu0109"
+  },
+  "code": {
+    "id": "CU0109",
+    "iso": null
+  },
+  "parent": {
+    "id": "CU01",
+    "level": 1,
+    "name": {
+      "local": "Artemisa",
+      "en": "Artemisa",
+      "slug": "artemisa-cu01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CU01",
+      "level": 1,
+      "name": {
+        "local": "Artemisa",
+        "en": "Artemisa",
+        "slug": "artemisa-cu01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.964",
+    "lon": "-82.792"
+  },
+  "metadata": {},
+  "source": {}
+}

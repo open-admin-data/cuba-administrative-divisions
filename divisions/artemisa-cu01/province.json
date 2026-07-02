@@ -1,0 +1,33 @@
+{
+  "id": "CU01",
+  "level": 1,
+  "level_name": {
+    "local": "Provincia",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Artemisa",
+    "en": "Artemisa",
+    "slug": "artemisa-cu01"
+  },
+  "code": {
+    "id": "CU01",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "municipality": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.77",
+    "lon": "-82.871"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/cu/provinces/artemisa-cu01/",
+    "api": "https://openadmindata.org/api/cu/"
+  }
+}

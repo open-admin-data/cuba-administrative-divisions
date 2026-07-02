@@ -1,0 +1,59 @@
+# Guantanamo — Cuba Administrative Divisions
+
+> 10 municipalitys
+> Code: CU06
+> Coordinates: 20.232, -74.786
+> Last updated: 2026-07-02. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Baracoa
+
+Code: CU0601, Coordinates: 20.4, -74.619
+
+
+### Caimanera
+
+Code: CU0602, Coordinates: 19.982, -75.222
+
+
+### El Salvador
+
+Code: CU0603, Coordinates: 20.33, -75.326
+
+
+### Guantánamo (Guantanamo)
+
+Code: CU0604, Coordinates: 20.286, -75.145
+
+
+### Imías (Imias)
+
+Code: CU0605, Coordinates: 20.179, -74.588
+
+
+### Maisí (Maisi)
+
+Code: CU0606, Coordinates: 20.192, -74.287
+
+
+### Manuel Tames
+
+Code: CU0607, Coordinates: 20.162, -74.955
+
+
+### Niceto Pérez (Niceto Perez)
+
+Code: CU0608, Coordinates: 20.075, -75.33
+
+
+### San Antonio del Sur
+
+Code: CU0609, Coordinates: 20.145, -74.795
+
+
+### Yateras
+
+Code: CU0610, Coordinates: 20.393, -74.892
+
+

@@ -1,0 +1,45 @@
+{
+  "id": "CU0913",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Plaza de la Revolución",
+    "en": "Plaza de la Revolucion",
+    "slug": "plaza-de-la-revolucion-cu0913"
+  },
+  "code": {
+    "id": "CU0913",
+    "iso": null
+  },
+  "parent": {
+    "id": "CU09",
+    "level": 1,
+    "name": {
+      "local": "La Habana",
+      "en": "La Habana",
+      "slug": "la-habana-cu09"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CU09",
+      "level": 1,
+      "name": {
+        "local": "La Habana",
+        "en": "La Habana",
+        "slug": "la-habana-cu09"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "23.099",
+    "lon": "-82.424"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,452 @@
+[
+  {
+    "id": "CU0301",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Baraguá",
+      "en": "Baragua",
+      "slug": "baragua-cu0301"
+    },
+    "code": {
+      "id": "CU0301",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU03",
+      "level": 1,
+      "name": {
+        "local": "Ciego de Ávila",
+        "en": "Ciego de Avila",
+        "slug": "ciego-de-avila-cu03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU03",
+        "level": 1,
+        "name": {
+          "local": "Ciego de Ávila",
+          "en": "Ciego de Avila",
+          "slug": "ciego-de-avila-cu03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.691",
+      "lon": "-78.526"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0302",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Bolivia",
+      "en": "Bolivia",
+      "slug": "bolivia-cu0302"
+    },
+    "code": {
+      "id": "CU0302",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU03",
+      "level": 1,
+      "name": {
+        "local": "Ciego de Ávila",
+        "en": "Ciego de Avila",
+        "slug": "ciego-de-avila-cu03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU03",
+        "level": 1,
+        "name": {
+          "local": "Ciego de Ávila",
+          "en": "Ciego de Avila",
+          "slug": "ciego-de-avila-cu03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.071",
+      "lon": "-78.311"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0303",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Chambas",
+      "en": "Chambas",
+      "slug": "chambas-cu0303"
+    },
+    "code": {
+      "id": "CU0303",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU03",
+      "level": 1,
+      "name": {
+        "local": "Ciego de Ávila",
+        "en": "Ciego de Avila",
+        "slug": "ciego-de-avila-cu03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU03",
+        "level": 1,
+        "name": {
+          "local": "Ciego de Ávila",
+          "en": "Ciego de Avila",
+          "slug": "ciego-de-avila-cu03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.048",
+      "lon": "-78.941"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0304",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ciego de ávila",
+      "en": "Ciego de avila",
+      "slug": "ciego-de-avila-cu0304"
+    },
+    "code": {
+      "id": "CU0304",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU03",
+      "level": 1,
+      "name": {
+        "local": "Ciego de Ávila",
+        "en": "Ciego de Avila",
+        "slug": "ciego-de-avila-cu03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU03",
+        "level": 1,
+        "name": {
+          "local": "Ciego de Ávila",
+          "en": "Ciego de Avila",
+          "slug": "ciego-de-avila-cu03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.83",
+      "lon": "-78.809"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0305",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ciro Redodo",
+      "en": "Ciro Redodo",
+      "slug": "ciro-redodo-cu0305"
+    },
+    "code": {
+      "id": "CU0305",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU03",
+      "level": 1,
+      "name": {
+        "local": "Ciego de Ávila",
+        "en": "Ciego de Avila",
+        "slug": "ciego-de-avila-cu03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU03",
+        "level": 1,
+        "name": {
+          "local": "Ciego de Ávila",
+          "en": "Ciego de Avila",
+          "slug": "ciego-de-avila-cu03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.937",
+      "lon": "-78.727"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0306",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Florencia",
+      "en": "Florencia",
+      "slug": "florencia-cu0306"
+    },
+    "code": {
+      "id": "CU0306",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU03",
+      "level": 1,
+      "name": {
+        "local": "Ciego de Ávila",
+        "en": "Ciego de Avila",
+        "slug": "ciego-de-avila-cu03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU03",
+        "level": 1,
+        "name": {
+          "local": "Ciego de Ávila",
+          "en": "Ciego de Avila",
+          "slug": "ciego-de-avila-cu03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.221",
+      "lon": "-78.858"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0307",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Majagua",
+      "en": "Majagua",
+      "slug": "majagua-cu0307"
+    },
+    "code": {
+      "id": "CU0307",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU03",
+      "level": 1,
+      "name": {
+        "local": "Ciego de Ávila",
+        "en": "Ciego de Avila",
+        "slug": "ciego-de-avila-cu03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU03",
+        "level": 1,
+        "name": {
+          "local": "Ciego de Ávila",
+          "en": "Ciego de Avila",
+          "slug": "ciego-de-avila-cu03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.817",
+      "lon": "-79.009"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0308",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Morón",
+      "en": "Moron",
+      "slug": "moron-cu0308"
+    },
+    "code": {
+      "id": "CU0308",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU03",
+      "level": 1,
+      "name": {
+        "local": "Ciego de Ávila",
+        "en": "Ciego de Avila",
+        "slug": "ciego-de-avila-cu03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU03",
+        "level": 1,
+        "name": {
+          "local": "Ciego de Ávila",
+          "en": "Ciego de Avila",
+          "slug": "ciego-de-avila-cu03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.184",
+      "lon": "-78.592"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0309",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Primero de Enero",
+      "en": "Primero de Enero",
+      "slug": "primero-de-enero-cu0309"
+    },
+    "code": {
+      "id": "CU0309",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU03",
+      "level": 1,
+      "name": {
+        "local": "Ciego de Ávila",
+        "en": "Ciego de Avila",
+        "slug": "ciego-de-avila-cu03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU03",
+        "level": 1,
+        "name": {
+          "local": "Ciego de Ávila",
+          "en": "Ciego de Avila",
+          "slug": "ciego-de-avila-cu03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.863",
+      "lon": "-78.39"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0310",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Venezuela",
+      "en": "Venezuela",
+      "slug": "venezuela-cu0310"
+    },
+    "code": {
+      "id": "CU0310",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU03",
+      "level": 1,
+      "name": {
+        "local": "Ciego de Ávila",
+        "en": "Ciego de Avila",
+        "slug": "ciego-de-avila-cu03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU03",
+        "level": 1,
+        "name": {
+          "local": "Ciego de Ávila",
+          "en": "Ciego de Avila",
+          "slug": "ciego-de-avila-cu03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.71",
+      "lon": "-78.837"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

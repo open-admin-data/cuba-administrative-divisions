@@ -1,0 +1,45 @@
+{
+  "id": "CU0904",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Cerro",
+    "en": "Cerro",
+    "slug": "cerro-cu0904"
+  },
+  "code": {
+    "id": "CU0904",
+    "iso": null
+  },
+  "parent": {
+    "id": "CU09",
+    "level": 1,
+    "name": {
+      "local": "La Habana",
+      "en": "La Habana",
+      "slug": "la-habana-cu09"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CU09",
+      "level": 1,
+      "name": {
+        "local": "La Habana",
+        "en": "La Habana",
+        "slug": "la-habana-cu09"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "23.101",
+    "lon": "-82.37"
+  },
+  "metadata": {},
+  "source": {}
+}

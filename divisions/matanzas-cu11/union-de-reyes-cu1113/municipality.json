@@ -1,0 +1,45 @@
+{
+  "id": "CU1113",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Unión de Reyes",
+    "en": "Union de Reyes",
+    "slug": "union-de-reyes-cu1113"
+  },
+  "code": {
+    "id": "CU1113",
+    "iso": null
+  },
+  "parent": {
+    "id": "CU11",
+    "level": 1,
+    "name": {
+      "local": "Matanzas",
+      "en": "Matanzas",
+      "slug": "matanzas-cu11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CU11",
+      "level": 1,
+      "name": {
+        "local": "Matanzas",
+        "en": "Matanzas",
+        "slug": "matanzas-cu11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.677",
+    "lon": "-81.484"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "CU0405",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Cumanayagua",
+    "en": "Cumanayagua",
+    "slug": "cumanayagua-cu0405"
+  },
+  "code": {
+    "id": "CU0405",
+    "iso": null
+  },
+  "parent": {
+    "id": "CU04",
+    "level": 1,
+    "name": {
+      "local": "Cienfuegos",
+      "en": "Cienfuegos",
+      "slug": "cienfuegos-cu04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CU04",
+      "level": 1,
+      "name": {
+        "local": "Cienfuegos",
+        "en": "Cienfuegos",
+        "slug": "cienfuegos-cu04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.997",
+    "lon": "-80.219"
+  },
+  "metadata": {},
+  "source": {}
+}

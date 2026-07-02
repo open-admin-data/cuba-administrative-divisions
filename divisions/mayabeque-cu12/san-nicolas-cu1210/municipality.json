@@ -1,0 +1,45 @@
+{
+  "id": "CU1210",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Nicolás",
+    "en": "San Nicolas",
+    "slug": "san-nicolas-cu1210"
+  },
+  "code": {
+    "id": "CU1210",
+    "iso": null
+  },
+  "parent": {
+    "id": "CU12",
+    "level": 1,
+    "name": {
+      "local": "Mayabeque",
+      "en": "Mayabeque",
+      "slug": "mayabeque-cu12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CU12",
+      "level": 1,
+      "name": {
+        "local": "Mayabeque",
+        "en": "Mayabeque",
+        "slug": "mayabeque-cu12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.771",
+    "lon": "-81.881"
+  },
+  "metadata": {},
+  "source": {}
+}

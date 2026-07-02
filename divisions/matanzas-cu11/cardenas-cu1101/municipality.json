@@ -1,0 +1,45 @@
+{
+  "id": "CU1101",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Cárdenas",
+    "en": "Cardenas",
+    "slug": "cardenas-cu1101"
+  },
+  "code": {
+    "id": "CU1101",
+    "iso": null
+  },
+  "parent": {
+    "id": "CU11",
+    "level": 1,
+    "name": {
+      "local": "Matanzas",
+      "en": "Matanzas",
+      "slug": "matanzas-cu11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CU11",
+      "level": 1,
+      "name": {
+        "local": "Matanzas",
+        "en": "Matanzas",
+        "slug": "matanzas-cu11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.999",
+    "lon": "-81.253"
+  },
+  "metadata": {},
+  "source": {}
+}

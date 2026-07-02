@@ -1,0 +1,362 @@
+[
+  {
+    "id": "CU1401",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cabaiguán",
+      "en": "Cabaiguan",
+      "slug": "cabaiguan-cu1401"
+    },
+    "code": {
+      "id": "CU1401",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU14",
+      "level": 1,
+      "name": {
+        "local": "Sancti Spíritus",
+        "en": "Sancti Spiritus",
+        "slug": "sancti-spiritus-cu14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU14",
+        "level": 1,
+        "name": {
+          "local": "Sancti Spíritus",
+          "en": "Sancti Spiritus",
+          "slug": "sancti-spiritus-cu14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.094",
+      "lon": "-79.527"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1402",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Fomento",
+      "en": "Fomento",
+      "slug": "fomento-cu1402"
+    },
+    "code": {
+      "id": "CU1402",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU14",
+      "level": 1,
+      "name": {
+        "local": "Sancti Spíritus",
+        "en": "Sancti Spiritus",
+        "slug": "sancti-spiritus-cu14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU14",
+        "level": 1,
+        "name": {
+          "local": "Sancti Spíritus",
+          "en": "Sancti Spiritus",
+          "slug": "sancti-spiritus-cu14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.002",
+      "lon": "-79.705"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1403",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Jatibonico",
+      "en": "Jatibonico",
+      "slug": "jatibonico-cu1403"
+    },
+    "code": {
+      "id": "CU1403",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU14",
+      "level": 1,
+      "name": {
+        "local": "Sancti Spíritus",
+        "en": "Sancti Spiritus",
+        "slug": "sancti-spiritus-cu14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU14",
+        "level": 1,
+        "name": {
+          "local": "Sancti Spíritus",
+          "en": "Sancti Spiritus",
+          "slug": "sancti-spiritus-cu14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.913",
+      "lon": "-79.172"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1404",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "La Sierpe",
+      "en": "La Sierpe",
+      "slug": "la-sierpe-cu1404"
+    },
+    "code": {
+      "id": "CU1404",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU14",
+      "level": 1,
+      "name": {
+        "local": "Sancti Spíritus",
+        "en": "Sancti Spiritus",
+        "slug": "sancti-spiritus-cu14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU14",
+        "level": 1,
+        "name": {
+          "local": "Sancti Spíritus",
+          "en": "Sancti Spiritus",
+          "slug": "sancti-spiritus-cu14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.676",
+      "lon": "-79.3"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1405",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Sancti Spíritus",
+      "en": "Sancti Spiritus",
+      "slug": "sancti-spiritus-cu1405"
+    },
+    "code": {
+      "id": "CU1405",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU14",
+      "level": 1,
+      "name": {
+        "local": "Sancti Spíritus",
+        "en": "Sancti Spiritus",
+        "slug": "sancti-spiritus-cu14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU14",
+        "level": 1,
+        "name": {
+          "local": "Sancti Spíritus",
+          "en": "Sancti Spiritus",
+          "slug": "sancti-spiritus-cu14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.8",
+      "lon": "-79.534"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1406",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Taguasco",
+      "en": "Taguasco",
+      "slug": "taguasco-cu1406"
+    },
+    "code": {
+      "id": "CU1406",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU14",
+      "level": 1,
+      "name": {
+        "local": "Sancti Spíritus",
+        "en": "Sancti Spiritus",
+        "slug": "sancti-spiritus-cu14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU14",
+        "level": 1,
+        "name": {
+          "local": "Sancti Spíritus",
+          "en": "Sancti Spiritus",
+          "slug": "sancti-spiritus-cu14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.042",
+      "lon": "-79.321"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1407",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Trinidad",
+      "en": "Trinidad",
+      "slug": "trinidad-cu1407"
+    },
+    "code": {
+      "id": "CU1407",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU14",
+      "level": 1,
+      "name": {
+        "local": "Sancti Spíritus",
+        "en": "Sancti Spiritus",
+        "slug": "sancti-spiritus-cu14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU14",
+        "level": 1,
+        "name": {
+          "local": "Sancti Spíritus",
+          "en": "Sancti Spiritus",
+          "slug": "sancti-spiritus-cu14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.832",
+      "lon": "-79.907"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1408",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Yaguajay",
+      "en": "Yaguajay",
+      "slug": "yaguajay-cu1408"
+    },
+    "code": {
+      "id": "CU1408",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU14",
+      "level": 1,
+      "name": {
+        "local": "Sancti Spíritus",
+        "en": "Sancti Spiritus",
+        "slug": "sancti-spiritus-cu14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU14",
+        "level": 1,
+        "name": {
+          "local": "Sancti Spíritus",
+          "en": "Sancti Spiritus",
+          "slug": "sancti-spiritus-cu14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.263",
+      "lon": "-79.173"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

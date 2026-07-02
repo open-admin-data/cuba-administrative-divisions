@@ -1,0 +1,45 @@
+{
+  "id": "CU0504",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Campechuela",
+    "en": "Campechuela",
+    "slug": "campechuela-cu0504"
+  },
+  "code": {
+    "id": "CU0504",
+    "iso": null
+  },
+  "parent": {
+    "id": "CU05",
+    "level": 1,
+    "name": {
+      "local": "Granma",
+      "en": "Granma",
+      "slug": "granma-cu05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CU05",
+      "level": 1,
+      "name": {
+        "local": "Granma",
+        "en": "Granma",
+        "slug": "granma-cu05"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.127",
+    "lon": "-77.26"
+  },
+  "metadata": {},
+  "source": {}
+}

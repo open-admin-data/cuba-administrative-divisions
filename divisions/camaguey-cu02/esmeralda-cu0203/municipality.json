@@ -1,0 +1,45 @@
+{
+  "id": "CU0203",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Esmeralda",
+    "en": "Esmeralda",
+    "slug": "esmeralda-cu0203"
+  },
+  "code": {
+    "id": "CU0203",
+    "iso": null
+  },
+  "parent": {
+    "id": "CU02",
+    "level": 1,
+    "name": {
+      "local": "Camagüey",
+      "en": "Camaguey",
+      "slug": "camaguey-cu02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CU02",
+      "level": 1,
+      "name": {
+        "local": "Camagüey",
+        "en": "Camaguey",
+        "slug": "camaguey-cu02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.977",
+    "lon": "-77.736"
+  },
+  "metadata": {},
+  "source": {}
+}

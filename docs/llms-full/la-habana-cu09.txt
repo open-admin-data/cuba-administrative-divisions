@@ -1,0 +1,84 @@
+# La Habana — Cuba Administrative Divisions
+
+> 15 municipalitys
+> Code: CU09
+> Coordinates: 23.06, -82.308
+> Last updated: 2026-07-02. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Arroyo Naranjo
+
+Code: CU0901, Coordinates: 22.998, -82.3
+
+
+### Boyeros
+
+Code: CU0902, Coordinates: 22.99, -82.384
+
+
+### Centro Habana
+
+Code: CU0903, Coordinates: 23.129, -82.366
+
+
+### Cerro
+
+Code: CU0904, Coordinates: 23.101, -82.37
+
+
+### Cotorro
+
+Code: CU0905, Coordinates: 22.991, -82.232
+
+
+### Diez de Octubre
+
+Code: CU0906, Coordinates: 23.072, -82.339
+
+
+### Guanabacoa
+
+Code: CU0907, Coordinates: 23.054, -82.281
+
+
+### La Habana del Este
+
+Code: CU0908, Coordinates: 23.102, -82.141
+
+
+### La Habana Vieja
+
+Code: CU0909, Coordinates: 23.151, -82.317
+
+
+### La Lisa
+
+Code: CU0910, Coordinates: 23.019, -82.446
+
+
+### Marianao
+
+Code: CU0911, Coordinates: 23.073, -82.383
+
+
+### Playa
+
+Code: CU0912, Coordinates: 23.043, -82.418
+
+
+### Plaza de la Revolución (Plaza de la Revolucion)
+
+Code: CU0913, Coordinates: 23.099, -82.424
+
+
+### Regla
+
+Code: CU0914, Coordinates: 23.113, -82.317
+
+
+### San Miguel del Padrón (San Miguel del Padron)
+
+Code: CU0915, Coordinates: 23.08, -82.239
+
+

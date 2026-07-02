@@ -1,0 +1,43 @@
+# Cuba Administrative Divisions — Full Reference
+
+> Last updated: 2026-07-02. License: CC-BY-4.0.
+
+## Per-Province Data Files
+
+- [Artemisa](https://github.com/open-admin-data/cuba-administrative-divisions/blob/main/docs/llms-full/artemisa-cu01.txt) — 11 municipalitys
+- [Camaguey](https://github.com/open-admin-data/cuba-administrative-divisions/blob/main/docs/llms-full/camaguey-cu02.txt) — 13 municipalitys
+- [Ciego de Avila](https://github.com/open-admin-data/cuba-administrative-divisions/blob/main/docs/llms-full/ciego-de-avila-cu03.txt) — 10 municipalitys
+- [Cienfuegos](https://github.com/open-admin-data/cuba-administrative-divisions/blob/main/docs/llms-full/cienfuegos-cu04.txt) — 8 municipalitys
+- [Granma](https://github.com/open-admin-data/cuba-administrative-divisions/blob/main/docs/llms-full/granma-cu05.txt) — 13 municipalitys
+- [Guantanamo](https://github.com/open-admin-data/cuba-administrative-divisions/blob/main/docs/llms-full/guantanamo-cu06.txt) — 10 municipalitys
+- [Holguin](https://github.com/open-admin-data/cuba-administrative-divisions/blob/main/docs/llms-full/holguin-cu07.txt) — 14 municipalitys
+- [Isla de la Juventud](https://github.com/open-admin-data/cuba-administrative-divisions/blob/main/docs/llms-full/isla-de-la-juventud-cu08.txt) — 1 municipalitys
+- [La Habana](https://github.com/open-admin-data/cuba-administrative-divisions/blob/main/docs/llms-full/la-habana-cu09.txt) — 15 municipalitys
+- [Las Tunas](https://github.com/open-admin-data/cuba-administrative-divisions/blob/main/docs/llms-full/las-tunas-cu10.txt) — 8 municipalitys
+- [Matanzas](https://github.com/open-admin-data/cuba-administrative-divisions/blob/main/docs/llms-full/matanzas-cu11.txt) — 13 municipalitys
+- [Mayabeque](https://github.com/open-admin-data/cuba-administrative-divisions/blob/main/docs/llms-full/mayabeque-cu12.txt) — 11 municipalitys
+- [Pinar del Rio](https://github.com/open-admin-data/cuba-administrative-divisions/blob/main/docs/llms-full/pinar-del-rio-cu13.txt) — 11 municipalitys
+- [Sancti Spiritus](https://github.com/open-admin-data/cuba-administrative-divisions/blob/main/docs/llms-full/sancti-spiritus-cu14.txt) — 8 municipalitys
+- [Santiago de Cuba](https://github.com/open-admin-data/cuba-administrative-divisions/blob/main/docs/llms-full/santiago-de-cuba-cu15.txt) — 9 municipalitys
+- [Villa Clara](https://github.com/open-admin-data/cuba-administrative-divisions/blob/main/docs/llms-full/villa-clara-cu16.txt) — 13 municipalitys
+
+## Summary
+
+| Province | Municipalitys | 
+|---|---|
+| Artemisa | 11 | 
+| Camaguey | 13 | 
+| Ciego de Avila | 10 | 
+| Cienfuegos | 8 | 
+| Granma | 13 | 
+| Guantanamo | 10 | 
+| Holguin | 14 | 
+| Isla de la Juventud | 1 | 
+| La Habana | 15 | 
+| Las Tunas | 8 | 
+| Matanzas | 13 | 
+| Mayabeque | 11 | 
+| Pinar del Rio | 11 | 
+| Sancti Spiritus | 8 | 
+| Santiago de Cuba | 9 | 
+| Villa Clara | 13 | 

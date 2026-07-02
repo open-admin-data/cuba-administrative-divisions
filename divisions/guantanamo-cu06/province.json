@@ -1,0 +1,33 @@
+{
+  "id": "CU06",
+  "level": 1,
+  "level_name": {
+    "local": "Provincia",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Guantánamo",
+    "en": "Guantanamo",
+    "slug": "guantanamo-cu06"
+  },
+  "code": {
+    "id": "CU06",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "municipality": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.232",
+    "lon": "-74.786"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/cu/provinces/guantanamo-cu06/",
+    "api": "https://openadmindata.org/api/cu/"
+  }
+}

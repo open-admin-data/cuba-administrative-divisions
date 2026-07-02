@@ -1,0 +1,45 @@
+{
+  "id": "CU1108",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Los Arabos",
+    "en": "Los Arabos",
+    "slug": "los-arabos-cu1108"
+  },
+  "code": {
+    "id": "CU1108",
+    "iso": null
+  },
+  "parent": {
+    "id": "CU11",
+    "level": 1,
+    "name": {
+      "local": "Matanzas",
+      "en": "Matanzas",
+      "slug": "matanzas-cu11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CU11",
+      "level": 1,
+      "name": {
+        "local": "Matanzas",
+        "en": "Matanzas",
+        "slug": "matanzas-cu11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.632",
+    "lon": "-80.686"
+  },
+  "metadata": {},
+  "source": {}
+}

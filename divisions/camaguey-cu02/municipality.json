@@ -1,0 +1,587 @@
+[
+  {
+    "id": "CU0201",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Camagüey",
+      "en": "Camaguey",
+      "slug": "camaguey-cu0201"
+    },
+    "code": {
+      "id": "CU0201",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU02",
+      "level": 1,
+      "name": {
+        "local": "Camagüey",
+        "en": "Camaguey",
+        "slug": "camaguey-cu02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU02",
+        "level": 1,
+        "name": {
+          "local": "Camagüey",
+          "en": "Camaguey",
+          "slug": "camaguey-cu02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.417",
+      "lon": "-77.956"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0202",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Carlos Manuel de Céspedes",
+      "en": "Carlos Manuel de Cespedes",
+      "slug": "carlos-manuel-de-cespedes-cu0202"
+    },
+    "code": {
+      "id": "CU0202",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU02",
+      "level": 1,
+      "name": {
+        "local": "Camagüey",
+        "en": "Camaguey",
+        "slug": "camaguey-cu02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU02",
+        "level": 1,
+        "name": {
+          "local": "Camagüey",
+          "en": "Camaguey",
+          "slug": "camaguey-cu02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.671",
+      "lon": "-78.263"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0203",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Esmeralda",
+      "en": "Esmeralda",
+      "slug": "esmeralda-cu0203"
+    },
+    "code": {
+      "id": "CU0203",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU02",
+      "level": 1,
+      "name": {
+        "local": "Camagüey",
+        "en": "Camaguey",
+        "slug": "camaguey-cu02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU02",
+        "level": 1,
+        "name": {
+          "local": "Camagüey",
+          "en": "Camaguey",
+          "slug": "camaguey-cu02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.977",
+      "lon": "-77.736"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0204",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Florida",
+      "en": "Florida",
+      "slug": "florida-cu0204"
+    },
+    "code": {
+      "id": "CU0204",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU02",
+      "level": 1,
+      "name": {
+        "local": "Camagüey",
+        "en": "Camaguey",
+        "slug": "camaguey-cu02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU02",
+        "level": 1,
+        "name": {
+          "local": "Camagüey",
+          "en": "Camaguey",
+          "slug": "camaguey-cu02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.472",
+      "lon": "-78.36"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0205",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Guáimaro",
+      "en": "Guaimaro",
+      "slug": "guaimaro-cu0205"
+    },
+    "code": {
+      "id": "CU0205",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU02",
+      "level": 1,
+      "name": {
+        "local": "Camagüey",
+        "en": "Camaguey",
+        "slug": "camaguey-cu02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU02",
+        "level": 1,
+        "name": {
+          "local": "Camagüey",
+          "en": "Camaguey",
+          "slug": "camaguey-cu02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.258",
+      "lon": "-77.283"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0206",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Jimaguayú",
+      "en": "Jimaguayu",
+      "slug": "jimaguayu-cu0206"
+    },
+    "code": {
+      "id": "CU0206",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU02",
+      "level": 1,
+      "name": {
+        "local": "Camagüey",
+        "en": "Camaguey",
+        "slug": "camaguey-cu02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU02",
+        "level": 1,
+        "name": {
+          "local": "Camagüey",
+          "en": "Camaguey",
+          "slug": "camaguey-cu02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.196",
+      "lon": "-77.946"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0207",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Minas",
+      "en": "Minas",
+      "slug": "minas-cu0207"
+    },
+    "code": {
+      "id": "CU0207",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU02",
+      "level": 1,
+      "name": {
+        "local": "Camagüey",
+        "en": "Camaguey",
+        "slug": "camaguey-cu02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU02",
+        "level": 1,
+        "name": {
+          "local": "Camagüey",
+          "en": "Camaguey",
+          "slug": "camaguey-cu02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.605",
+      "lon": "-77.569"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0208",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Najasa",
+      "en": "Najasa",
+      "slug": "najasa-cu0208"
+    },
+    "code": {
+      "id": "CU0208",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU02",
+      "level": 1,
+      "name": {
+        "local": "Camagüey",
+        "en": "Camaguey",
+        "slug": "camaguey-cu02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU02",
+        "level": 1,
+        "name": {
+          "local": "Camagüey",
+          "en": "Camaguey",
+          "slug": "camaguey-cu02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.033",
+      "lon": "-77.824"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0209",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Nuevitas",
+      "en": "Nuevitas",
+      "slug": "nuevitas-cu0209"
+    },
+    "code": {
+      "id": "CU0209",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU02",
+      "level": 1,
+      "name": {
+        "local": "Camagüey",
+        "en": "Camaguey",
+        "slug": "camaguey-cu02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU02",
+        "level": 1,
+        "name": {
+          "local": "Camagüey",
+          "en": "Camaguey",
+          "slug": "camaguey-cu02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.647",
+      "lon": "-77.251"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0210",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santa Cruz del Sur",
+      "en": "Santa Cruz del Sur",
+      "slug": "santa-cruz-del-sur-cu0210"
+    },
+    "code": {
+      "id": "CU0210",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU02",
+      "level": 1,
+      "name": {
+        "local": "Camagüey",
+        "en": "Camaguey",
+        "slug": "camaguey-cu02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU02",
+        "level": 1,
+        "name": {
+          "local": "Camagüey",
+          "en": "Camaguey",
+          "slug": "camaguey-cu02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.87",
+      "lon": "-78.032"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0211",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Sibanicú",
+      "en": "Sibanicu",
+      "slug": "sibanicu-cu0211"
+    },
+    "code": {
+      "id": "CU0211",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU02",
+      "level": 1,
+      "name": {
+        "local": "Camagüey",
+        "en": "Camaguey",
+        "slug": "camaguey-cu02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU02",
+        "level": 1,
+        "name": {
+          "local": "Camagüey",
+          "en": "Camaguey",
+          "slug": "camaguey-cu02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.256",
+      "lon": "-77.607"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0212",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Sierra de Cubitas",
+      "en": "Sierra de Cubitas",
+      "slug": "sierra-de-cubitas-cu0212"
+    },
+    "code": {
+      "id": "CU0212",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU02",
+      "level": 1,
+      "name": {
+        "local": "Camagüey",
+        "en": "Camaguey",
+        "slug": "camaguey-cu02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU02",
+        "level": 1,
+        "name": {
+          "local": "Camagüey",
+          "en": "Camaguey",
+          "slug": "camaguey-cu02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.683",
+      "lon": "-77.803"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0213",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Vertientes",
+      "en": "Vertientes",
+      "slug": "vertientes-cu0213"
+    },
+    "code": {
+      "id": "CU0213",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU02",
+      "level": 1,
+      "name": {
+        "local": "Camagüey",
+        "en": "Camaguey",
+        "slug": "camaguey-cu02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU02",
+        "level": 1,
+        "name": {
+          "local": "Camagüey",
+          "en": "Camaguey",
+          "slug": "camaguey-cu02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.124",
+      "lon": "-78.326"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

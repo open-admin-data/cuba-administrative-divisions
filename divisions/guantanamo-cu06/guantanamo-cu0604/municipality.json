@@ -1,0 +1,45 @@
+{
+  "id": "CU0604",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Guantánamo",
+    "en": "Guantanamo",
+    "slug": "guantanamo-cu0604"
+  },
+  "code": {
+    "id": "CU0604",
+    "iso": null
+  },
+  "parent": {
+    "id": "CU06",
+    "level": 1,
+    "name": {
+      "local": "Guantánamo",
+      "en": "Guantanamo",
+      "slug": "guantanamo-cu06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CU06",
+      "level": 1,
+      "name": {
+        "local": "Guantánamo",
+        "en": "Guantanamo",
+        "slug": "guantanamo-cu06"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.286",
+    "lon": "-75.145"
+  },
+  "metadata": {},
+  "source": {}
+}

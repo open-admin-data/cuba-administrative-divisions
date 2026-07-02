@@ -1,0 +1,74 @@
+# Camaguey — Cuba Administrative Divisions
+
+> 13 municipalitys
+> Code: CU02
+> Coordinates: 21.505, -77.948
+> Last updated: 2026-07-02. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Camagüey (Camaguey)
+
+Code: CU0201, Coordinates: 21.417, -77.956
+
+
+### Carlos Manuel de Céspedes (Carlos Manuel de Cespedes)
+
+Code: CU0202, Coordinates: 21.671, -78.263
+
+
+### Esmeralda
+
+Code: CU0203, Coordinates: 21.977, -77.736
+
+
+### Florida
+
+Code: CU0204, Coordinates: 21.472, -78.36
+
+
+### Guáimaro (Guaimaro)
+
+Code: CU0205, Coordinates: 21.258, -77.283
+
+
+### Jimaguayú (Jimaguayu)
+
+Code: CU0206, Coordinates: 21.196, -77.946
+
+
+### Minas
+
+Code: CU0207, Coordinates: 21.605, -77.569
+
+
+### Najasa
+
+Code: CU0208, Coordinates: 21.033, -77.824
+
+
+### Nuevitas
+
+Code: CU0209, Coordinates: 21.647, -77.251
+
+
+### Santa Cruz del Sur
+
+Code: CU0210, Coordinates: 20.87, -78.032
+
+
+### Sibanicú (Sibanicu)
+
+Code: CU0211, Coordinates: 21.256, -77.607
+
+
+### Sierra de Cubitas
+
+Code: CU0212, Coordinates: 21.683, -77.803
+
+
+### Vertientes
+
+Code: CU0213, Coordinates: 21.124, -78.326
+
+

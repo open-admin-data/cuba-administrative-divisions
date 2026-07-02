@@ -1,0 +1,45 @@
+{
+  "id": "CU1005",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Las Tunas",
+    "en": "Las Tunas",
+    "slug": "las-tunas-cu1005"
+  },
+  "code": {
+    "id": "CU1005",
+    "iso": null
+  },
+  "parent": {
+    "id": "CU10",
+    "level": 1,
+    "name": {
+      "local": "Las Tunas",
+      "en": "Las Tunas",
+      "slug": "las-tunas-cu10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CU10",
+      "level": 1,
+      "name": {
+        "local": "Las Tunas",
+        "en": "Las Tunas",
+        "slug": "las-tunas-cu10"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.952",
+    "lon": "-77.009"
+  },
+  "metadata": {},
+  "source": {}
+}

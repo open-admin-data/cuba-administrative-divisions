@@ -1,0 +1,7562 @@
+[
+  {
+    "id": "CU0201",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Camagüey",
+      "en": "Camaguey",
+      "slug": "camaguey-cu0201"
+    },
+    "code": {
+      "id": "CU0201",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU02",
+      "level": 1,
+      "name": {
+        "local": "Camagüey",
+        "en": "Camaguey",
+        "slug": "camaguey-cu02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU02",
+        "level": 1,
+        "name": {
+          "local": "Camagüey",
+          "en": "Camaguey",
+          "slug": "camaguey-cu02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.417",
+      "lon": "-77.956"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0202",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Carlos Manuel de Céspedes",
+      "en": "Carlos Manuel de Cespedes",
+      "slug": "carlos-manuel-de-cespedes-cu0202"
+    },
+    "code": {
+      "id": "CU0202",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU02",
+      "level": 1,
+      "name": {
+        "local": "Camagüey",
+        "en": "Camaguey",
+        "slug": "camaguey-cu02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU02",
+        "level": 1,
+        "name": {
+          "local": "Camagüey",
+          "en": "Camaguey",
+          "slug": "camaguey-cu02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.671",
+      "lon": "-78.263"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0203",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Esmeralda",
+      "en": "Esmeralda",
+      "slug": "esmeralda-cu0203"
+    },
+    "code": {
+      "id": "CU0203",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU02",
+      "level": 1,
+      "name": {
+        "local": "Camagüey",
+        "en": "Camaguey",
+        "slug": "camaguey-cu02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU02",
+        "level": 1,
+        "name": {
+          "local": "Camagüey",
+          "en": "Camaguey",
+          "slug": "camaguey-cu02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.977",
+      "lon": "-77.736"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0204",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Florida",
+      "en": "Florida",
+      "slug": "florida-cu0204"
+    },
+    "code": {
+      "id": "CU0204",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU02",
+      "level": 1,
+      "name": {
+        "local": "Camagüey",
+        "en": "Camaguey",
+        "slug": "camaguey-cu02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU02",
+        "level": 1,
+        "name": {
+          "local": "Camagüey",
+          "en": "Camaguey",
+          "slug": "camaguey-cu02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.472",
+      "lon": "-78.36"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0205",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Guáimaro",
+      "en": "Guaimaro",
+      "slug": "guaimaro-cu0205"
+    },
+    "code": {
+      "id": "CU0205",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU02",
+      "level": 1,
+      "name": {
+        "local": "Camagüey",
+        "en": "Camaguey",
+        "slug": "camaguey-cu02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU02",
+        "level": 1,
+        "name": {
+          "local": "Camagüey",
+          "en": "Camaguey",
+          "slug": "camaguey-cu02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.258",
+      "lon": "-77.283"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0206",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Jimaguayú",
+      "en": "Jimaguayu",
+      "slug": "jimaguayu-cu0206"
+    },
+    "code": {
+      "id": "CU0206",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU02",
+      "level": 1,
+      "name": {
+        "local": "Camagüey",
+        "en": "Camaguey",
+        "slug": "camaguey-cu02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU02",
+        "level": 1,
+        "name": {
+          "local": "Camagüey",
+          "en": "Camaguey",
+          "slug": "camaguey-cu02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.196",
+      "lon": "-77.946"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0207",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Minas",
+      "en": "Minas",
+      "slug": "minas-cu0207"
+    },
+    "code": {
+      "id": "CU0207",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU02",
+      "level": 1,
+      "name": {
+        "local": "Camagüey",
+        "en": "Camaguey",
+        "slug": "camaguey-cu02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU02",
+        "level": 1,
+        "name": {
+          "local": "Camagüey",
+          "en": "Camaguey",
+          "slug": "camaguey-cu02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.605",
+      "lon": "-77.569"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0208",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Najasa",
+      "en": "Najasa",
+      "slug": "najasa-cu0208"
+    },
+    "code": {
+      "id": "CU0208",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU02",
+      "level": 1,
+      "name": {
+        "local": "Camagüey",
+        "en": "Camaguey",
+        "slug": "camaguey-cu02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU02",
+        "level": 1,
+        "name": {
+          "local": "Camagüey",
+          "en": "Camaguey",
+          "slug": "camaguey-cu02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.033",
+      "lon": "-77.824"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0209",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Nuevitas",
+      "en": "Nuevitas",
+      "slug": "nuevitas-cu0209"
+    },
+    "code": {
+      "id": "CU0209",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU02",
+      "level": 1,
+      "name": {
+        "local": "Camagüey",
+        "en": "Camaguey",
+        "slug": "camaguey-cu02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU02",
+        "level": 1,
+        "name": {
+          "local": "Camagüey",
+          "en": "Camaguey",
+          "slug": "camaguey-cu02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.647",
+      "lon": "-77.251"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0210",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santa Cruz del Sur",
+      "en": "Santa Cruz del Sur",
+      "slug": "santa-cruz-del-sur-cu0210"
+    },
+    "code": {
+      "id": "CU0210",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU02",
+      "level": 1,
+      "name": {
+        "local": "Camagüey",
+        "en": "Camaguey",
+        "slug": "camaguey-cu02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU02",
+        "level": 1,
+        "name": {
+          "local": "Camagüey",
+          "en": "Camaguey",
+          "slug": "camaguey-cu02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.87",
+      "lon": "-78.032"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0211",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Sibanicú",
+      "en": "Sibanicu",
+      "slug": "sibanicu-cu0211"
+    },
+    "code": {
+      "id": "CU0211",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU02",
+      "level": 1,
+      "name": {
+        "local": "Camagüey",
+        "en": "Camaguey",
+        "slug": "camaguey-cu02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU02",
+        "level": 1,
+        "name": {
+          "local": "Camagüey",
+          "en": "Camaguey",
+          "slug": "camaguey-cu02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.256",
+      "lon": "-77.607"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0212",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Sierra de Cubitas",
+      "en": "Sierra de Cubitas",
+      "slug": "sierra-de-cubitas-cu0212"
+    },
+    "code": {
+      "id": "CU0212",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU02",
+      "level": 1,
+      "name": {
+        "local": "Camagüey",
+        "en": "Camaguey",
+        "slug": "camaguey-cu02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU02",
+        "level": 1,
+        "name": {
+          "local": "Camagüey",
+          "en": "Camaguey",
+          "slug": "camaguey-cu02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.683",
+      "lon": "-77.803"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0213",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Vertientes",
+      "en": "Vertientes",
+      "slug": "vertientes-cu0213"
+    },
+    "code": {
+      "id": "CU0213",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU02",
+      "level": 1,
+      "name": {
+        "local": "Camagüey",
+        "en": "Camaguey",
+        "slug": "camaguey-cu02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU02",
+        "level": 1,
+        "name": {
+          "local": "Camagüey",
+          "en": "Camaguey",
+          "slug": "camaguey-cu02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.124",
+      "lon": "-78.326"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0301",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Baraguá",
+      "en": "Baragua",
+      "slug": "baragua-cu0301"
+    },
+    "code": {
+      "id": "CU0301",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU03",
+      "level": 1,
+      "name": {
+        "local": "Ciego de Ávila",
+        "en": "Ciego de Avila",
+        "slug": "ciego-de-avila-cu03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU03",
+        "level": 1,
+        "name": {
+          "local": "Ciego de Ávila",
+          "en": "Ciego de Avila",
+          "slug": "ciego-de-avila-cu03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.691",
+      "lon": "-78.526"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0302",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Bolivia",
+      "en": "Bolivia",
+      "slug": "bolivia-cu0302"
+    },
+    "code": {
+      "id": "CU0302",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU03",
+      "level": 1,
+      "name": {
+        "local": "Ciego de Ávila",
+        "en": "Ciego de Avila",
+        "slug": "ciego-de-avila-cu03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU03",
+        "level": 1,
+        "name": {
+          "local": "Ciego de Ávila",
+          "en": "Ciego de Avila",
+          "slug": "ciego-de-avila-cu03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.071",
+      "lon": "-78.311"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0303",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Chambas",
+      "en": "Chambas",
+      "slug": "chambas-cu0303"
+    },
+    "code": {
+      "id": "CU0303",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU03",
+      "level": 1,
+      "name": {
+        "local": "Ciego de Ávila",
+        "en": "Ciego de Avila",
+        "slug": "ciego-de-avila-cu03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU03",
+        "level": 1,
+        "name": {
+          "local": "Ciego de Ávila",
+          "en": "Ciego de Avila",
+          "slug": "ciego-de-avila-cu03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.048",
+      "lon": "-78.941"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0304",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ciego de ávila",
+      "en": "Ciego de avila",
+      "slug": "ciego-de-avila-cu0304"
+    },
+    "code": {
+      "id": "CU0304",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU03",
+      "level": 1,
+      "name": {
+        "local": "Ciego de Ávila",
+        "en": "Ciego de Avila",
+        "slug": "ciego-de-avila-cu03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU03",
+        "level": 1,
+        "name": {
+          "local": "Ciego de Ávila",
+          "en": "Ciego de Avila",
+          "slug": "ciego-de-avila-cu03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.83",
+      "lon": "-78.809"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0305",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ciro Redodo",
+      "en": "Ciro Redodo",
+      "slug": "ciro-redodo-cu0305"
+    },
+    "code": {
+      "id": "CU0305",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU03",
+      "level": 1,
+      "name": {
+        "local": "Ciego de Ávila",
+        "en": "Ciego de Avila",
+        "slug": "ciego-de-avila-cu03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU03",
+        "level": 1,
+        "name": {
+          "local": "Ciego de Ávila",
+          "en": "Ciego de Avila",
+          "slug": "ciego-de-avila-cu03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.937",
+      "lon": "-78.727"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0306",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Florencia",
+      "en": "Florencia",
+      "slug": "florencia-cu0306"
+    },
+    "code": {
+      "id": "CU0306",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU03",
+      "level": 1,
+      "name": {
+        "local": "Ciego de Ávila",
+        "en": "Ciego de Avila",
+        "slug": "ciego-de-avila-cu03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU03",
+        "level": 1,
+        "name": {
+          "local": "Ciego de Ávila",
+          "en": "Ciego de Avila",
+          "slug": "ciego-de-avila-cu03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.221",
+      "lon": "-78.858"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0307",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Majagua",
+      "en": "Majagua",
+      "slug": "majagua-cu0307"
+    },
+    "code": {
+      "id": "CU0307",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU03",
+      "level": 1,
+      "name": {
+        "local": "Ciego de Ávila",
+        "en": "Ciego de Avila",
+        "slug": "ciego-de-avila-cu03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU03",
+        "level": 1,
+        "name": {
+          "local": "Ciego de Ávila",
+          "en": "Ciego de Avila",
+          "slug": "ciego-de-avila-cu03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.817",
+      "lon": "-79.009"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0308",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Morón",
+      "en": "Moron",
+      "slug": "moron-cu0308"
+    },
+    "code": {
+      "id": "CU0308",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU03",
+      "level": 1,
+      "name": {
+        "local": "Ciego de Ávila",
+        "en": "Ciego de Avila",
+        "slug": "ciego-de-avila-cu03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU03",
+        "level": 1,
+        "name": {
+          "local": "Ciego de Ávila",
+          "en": "Ciego de Avila",
+          "slug": "ciego-de-avila-cu03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.184",
+      "lon": "-78.592"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0309",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Primero de Enero",
+      "en": "Primero de Enero",
+      "slug": "primero-de-enero-cu0309"
+    },
+    "code": {
+      "id": "CU0309",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU03",
+      "level": 1,
+      "name": {
+        "local": "Ciego de Ávila",
+        "en": "Ciego de Avila",
+        "slug": "ciego-de-avila-cu03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU03",
+        "level": 1,
+        "name": {
+          "local": "Ciego de Ávila",
+          "en": "Ciego de Avila",
+          "slug": "ciego-de-avila-cu03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.863",
+      "lon": "-78.39"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0310",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Venezuela",
+      "en": "Venezuela",
+      "slug": "venezuela-cu0310"
+    },
+    "code": {
+      "id": "CU0310",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU03",
+      "level": 1,
+      "name": {
+        "local": "Ciego de Ávila",
+        "en": "Ciego de Avila",
+        "slug": "ciego-de-avila-cu03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU03",
+        "level": 1,
+        "name": {
+          "local": "Ciego de Ávila",
+          "en": "Ciego de Avila",
+          "slug": "ciego-de-avila-cu03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.71",
+      "lon": "-78.837"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0401",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Abreus",
+      "en": "Abreus",
+      "slug": "abreus-cu0401"
+    },
+    "code": {
+      "id": "CU0401",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU04",
+      "level": 1,
+      "name": {
+        "local": "Cienfuegos",
+        "en": "Cienfuegos",
+        "slug": "cienfuegos-cu04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU04",
+        "level": 1,
+        "name": {
+          "local": "Cienfuegos",
+          "en": "Cienfuegos",
+          "slug": "cienfuegos-cu04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.186",
+      "lon": "-80.734"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0402",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Aguada de Pasajeros",
+      "en": "Aguada de Pasajeros",
+      "slug": "aguada-de-pasajeros-cu0402"
+    },
+    "code": {
+      "id": "CU0402",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU04",
+      "level": 1,
+      "name": {
+        "local": "Cienfuegos",
+        "en": "Cienfuegos",
+        "slug": "cienfuegos-cu04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU04",
+        "level": 1,
+        "name": {
+          "local": "Cienfuegos",
+          "en": "Cienfuegos",
+          "slug": "cienfuegos-cu04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.324",
+      "lon": "-80.77"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0403",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ciefuegos",
+      "en": "Ciefuegos",
+      "slug": "ciefuegos-cu0403"
+    },
+    "code": {
+      "id": "CU0403",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU04",
+      "level": 1,
+      "name": {
+        "local": "Cienfuegos",
+        "en": "Cienfuegos",
+        "slug": "cienfuegos-cu04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU04",
+        "level": 1,
+        "name": {
+          "local": "Cienfuegos",
+          "en": "Cienfuegos",
+          "slug": "cienfuegos-cu04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.1",
+      "lon": "-80.537"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0404",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cruces",
+      "en": "Cruces",
+      "slug": "cruces-cu0404"
+    },
+    "code": {
+      "id": "CU0404",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU04",
+      "level": 1,
+      "name": {
+        "local": "Cienfuegos",
+        "en": "Cienfuegos",
+        "slug": "cienfuegos-cu04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU04",
+        "level": 1,
+        "name": {
+          "local": "Cienfuegos",
+          "en": "Cienfuegos",
+          "slug": "cienfuegos-cu04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.246",
+      "lon": "-80.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0405",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cumanayagua",
+      "en": "Cumanayagua",
+      "slug": "cumanayagua-cu0405"
+    },
+    "code": {
+      "id": "CU0405",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU04",
+      "level": 1,
+      "name": {
+        "local": "Cienfuegos",
+        "en": "Cienfuegos",
+        "slug": "cienfuegos-cu04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU04",
+        "level": 1,
+        "name": {
+          "local": "Cienfuegos",
+          "en": "Cienfuegos",
+          "slug": "cienfuegos-cu04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.997",
+      "lon": "-80.219"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0406",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Lajas",
+      "en": "Lajas",
+      "slug": "lajas-cu0406"
+    },
+    "code": {
+      "id": "CU0406",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU04",
+      "level": 1,
+      "name": {
+        "local": "Cienfuegos",
+        "en": "Cienfuegos",
+        "slug": "cienfuegos-cu04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU04",
+        "level": 1,
+        "name": {
+          "local": "Cienfuegos",
+          "en": "Cienfuegos",
+          "slug": "cienfuegos-cu04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.415",
+      "lon": "-80.339"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0407",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Palmira",
+      "en": "Palmira",
+      "slug": "palmira-cu0407"
+    },
+    "code": {
+      "id": "CU0407",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU04",
+      "level": 1,
+      "name": {
+        "local": "Cienfuegos",
+        "en": "Cienfuegos",
+        "slug": "cienfuegos-cu04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU04",
+        "level": 1,
+        "name": {
+          "local": "Cienfuegos",
+          "en": "Cienfuegos",
+          "slug": "cienfuegos-cu04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.288",
+      "lon": "-80.442"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0408",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Rodas",
+      "en": "Rodas",
+      "slug": "rodas-cu0408"
+    },
+    "code": {
+      "id": "CU0408",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU04",
+      "level": 1,
+      "name": {
+        "local": "Cienfuegos",
+        "en": "Cienfuegos",
+        "slug": "cienfuegos-cu04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU04",
+        "level": 1,
+        "name": {
+          "local": "Cienfuegos",
+          "en": "Cienfuegos",
+          "slug": "cienfuegos-cu04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.352",
+      "lon": "-80.589"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0901",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Arroyo Naranjo",
+      "en": "Arroyo Naranjo",
+      "slug": "arroyo-naranjo-cu0901"
+    },
+    "code": {
+      "id": "CU0901",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU09",
+      "level": 1,
+      "name": {
+        "local": "La Habana",
+        "en": "La Habana",
+        "slug": "la-habana-cu09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU09",
+        "level": 1,
+        "name": {
+          "local": "La Habana",
+          "en": "La Habana",
+          "slug": "la-habana-cu09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.998",
+      "lon": "-82.3"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0902",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Boyeros",
+      "en": "Boyeros",
+      "slug": "boyeros-cu0902"
+    },
+    "code": {
+      "id": "CU0902",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU09",
+      "level": 1,
+      "name": {
+        "local": "La Habana",
+        "en": "La Habana",
+        "slug": "la-habana-cu09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU09",
+        "level": 1,
+        "name": {
+          "local": "La Habana",
+          "en": "La Habana",
+          "slug": "la-habana-cu09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.99",
+      "lon": "-82.384"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0903",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Centro Habana",
+      "en": "Centro Habana",
+      "slug": "centro-habana-cu0903"
+    },
+    "code": {
+      "id": "CU0903",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU09",
+      "level": 1,
+      "name": {
+        "local": "La Habana",
+        "en": "La Habana",
+        "slug": "la-habana-cu09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU09",
+        "level": 1,
+        "name": {
+          "local": "La Habana",
+          "en": "La Habana",
+          "slug": "la-habana-cu09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.129",
+      "lon": "-82.366"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0904",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cerro",
+      "en": "Cerro",
+      "slug": "cerro-cu0904"
+    },
+    "code": {
+      "id": "CU0904",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU09",
+      "level": 1,
+      "name": {
+        "local": "La Habana",
+        "en": "La Habana",
+        "slug": "la-habana-cu09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU09",
+        "level": 1,
+        "name": {
+          "local": "La Habana",
+          "en": "La Habana",
+          "slug": "la-habana-cu09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.101",
+      "lon": "-82.37"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0905",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cotorro",
+      "en": "Cotorro",
+      "slug": "cotorro-cu0905"
+    },
+    "code": {
+      "id": "CU0905",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU09",
+      "level": 1,
+      "name": {
+        "local": "La Habana",
+        "en": "La Habana",
+        "slug": "la-habana-cu09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU09",
+        "level": 1,
+        "name": {
+          "local": "La Habana",
+          "en": "La Habana",
+          "slug": "la-habana-cu09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.991",
+      "lon": "-82.232"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0906",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Diez de Octubre",
+      "en": "Diez de Octubre",
+      "slug": "diez-de-octubre-cu0906"
+    },
+    "code": {
+      "id": "CU0906",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU09",
+      "level": 1,
+      "name": {
+        "local": "La Habana",
+        "en": "La Habana",
+        "slug": "la-habana-cu09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU09",
+        "level": 1,
+        "name": {
+          "local": "La Habana",
+          "en": "La Habana",
+          "slug": "la-habana-cu09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.072",
+      "lon": "-82.339"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0907",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Guanabacoa",
+      "en": "Guanabacoa",
+      "slug": "guanabacoa-cu0907"
+    },
+    "code": {
+      "id": "CU0907",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU09",
+      "level": 1,
+      "name": {
+        "local": "La Habana",
+        "en": "La Habana",
+        "slug": "la-habana-cu09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU09",
+        "level": 1,
+        "name": {
+          "local": "La Habana",
+          "en": "La Habana",
+          "slug": "la-habana-cu09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.054",
+      "lon": "-82.281"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0908",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "La Habana del Este",
+      "en": "La Habana del Este",
+      "slug": "la-habana-del-este-cu0908"
+    },
+    "code": {
+      "id": "CU0908",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU09",
+      "level": 1,
+      "name": {
+        "local": "La Habana",
+        "en": "La Habana",
+        "slug": "la-habana-cu09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU09",
+        "level": 1,
+        "name": {
+          "local": "La Habana",
+          "en": "La Habana",
+          "slug": "la-habana-cu09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.102",
+      "lon": "-82.141"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0909",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "La Habana Vieja",
+      "en": "La Habana Vieja",
+      "slug": "la-habana-vieja-cu0909"
+    },
+    "code": {
+      "id": "CU0909",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU09",
+      "level": 1,
+      "name": {
+        "local": "La Habana",
+        "en": "La Habana",
+        "slug": "la-habana-cu09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU09",
+        "level": 1,
+        "name": {
+          "local": "La Habana",
+          "en": "La Habana",
+          "slug": "la-habana-cu09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.151",
+      "lon": "-82.317"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0910",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "La Lisa",
+      "en": "La Lisa",
+      "slug": "la-lisa-cu0910"
+    },
+    "code": {
+      "id": "CU0910",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU09",
+      "level": 1,
+      "name": {
+        "local": "La Habana",
+        "en": "La Habana",
+        "slug": "la-habana-cu09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU09",
+        "level": 1,
+        "name": {
+          "local": "La Habana",
+          "en": "La Habana",
+          "slug": "la-habana-cu09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.019",
+      "lon": "-82.446"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0911",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Marianao",
+      "en": "Marianao",
+      "slug": "marianao-cu0911"
+    },
+    "code": {
+      "id": "CU0911",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU09",
+      "level": 1,
+      "name": {
+        "local": "La Habana",
+        "en": "La Habana",
+        "slug": "la-habana-cu09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU09",
+        "level": 1,
+        "name": {
+          "local": "La Habana",
+          "en": "La Habana",
+          "slug": "la-habana-cu09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.073",
+      "lon": "-82.383"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0912",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Playa",
+      "en": "Playa",
+      "slug": "playa-cu0912"
+    },
+    "code": {
+      "id": "CU0912",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU09",
+      "level": 1,
+      "name": {
+        "local": "La Habana",
+        "en": "La Habana",
+        "slug": "la-habana-cu09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU09",
+        "level": 1,
+        "name": {
+          "local": "La Habana",
+          "en": "La Habana",
+          "slug": "la-habana-cu09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.043",
+      "lon": "-82.418"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0913",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Plaza de la Revolución",
+      "en": "Plaza de la Revolucion",
+      "slug": "plaza-de-la-revolucion-cu0913"
+    },
+    "code": {
+      "id": "CU0913",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU09",
+      "level": 1,
+      "name": {
+        "local": "La Habana",
+        "en": "La Habana",
+        "slug": "la-habana-cu09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU09",
+        "level": 1,
+        "name": {
+          "local": "La Habana",
+          "en": "La Habana",
+          "slug": "la-habana-cu09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.099",
+      "lon": "-82.424"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0914",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Regla",
+      "en": "Regla",
+      "slug": "regla-cu0914"
+    },
+    "code": {
+      "id": "CU0914",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU09",
+      "level": 1,
+      "name": {
+        "local": "La Habana",
+        "en": "La Habana",
+        "slug": "la-habana-cu09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU09",
+        "level": 1,
+        "name": {
+          "local": "La Habana",
+          "en": "La Habana",
+          "slug": "la-habana-cu09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.113",
+      "lon": "-82.317"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0915",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Miguel del Padrón",
+      "en": "San Miguel del Padron",
+      "slug": "san-miguel-del-padron-cu0915"
+    },
+    "code": {
+      "id": "CU0915",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU09",
+      "level": 1,
+      "name": {
+        "local": "La Habana",
+        "en": "La Habana",
+        "slug": "la-habana-cu09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU09",
+        "level": 1,
+        "name": {
+          "local": "La Habana",
+          "en": "La Habana",
+          "slug": "la-habana-cu09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.08",
+      "lon": "-82.239"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0501",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Bartolomé Masó",
+      "en": "Bartolome Maso",
+      "slug": "bartolome-maso-cu0501"
+    },
+    "code": {
+      "id": "CU0501",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU05",
+      "level": 1,
+      "name": {
+        "local": "Granma",
+        "en": "Granma",
+        "slug": "granma-cu05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU05",
+        "level": 1,
+        "name": {
+          "local": "Granma",
+          "en": "Granma",
+          "slug": "granma-cu05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.071",
+      "lon": "-76.951"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0502",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Bayamo",
+      "en": "Bayamo",
+      "slug": "bayamo-cu0502"
+    },
+    "code": {
+      "id": "CU0502",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU05",
+      "level": 1,
+      "name": {
+        "local": "Granma",
+        "en": "Granma",
+        "slug": "granma-cu05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU05",
+        "level": 1,
+        "name": {
+          "local": "Granma",
+          "en": "Granma",
+          "slug": "granma-cu05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.423",
+      "lon": "-76.664"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0503",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Buey Arriba",
+      "en": "Buey Arriba",
+      "slug": "buey-arriba-cu0503"
+    },
+    "code": {
+      "id": "CU0503",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU05",
+      "level": 1,
+      "name": {
+        "local": "Granma",
+        "en": "Granma",
+        "slug": "granma-cu05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU05",
+        "level": 1,
+        "name": {
+          "local": "Granma",
+          "en": "Granma",
+          "slug": "granma-cu05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.133",
+      "lon": "-76.719"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0504",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Campechuela",
+      "en": "Campechuela",
+      "slug": "campechuela-cu0504"
+    },
+    "code": {
+      "id": "CU0504",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU05",
+      "level": 1,
+      "name": {
+        "local": "Granma",
+        "en": "Granma",
+        "slug": "granma-cu05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU05",
+        "level": 1,
+        "name": {
+          "local": "Granma",
+          "en": "Granma",
+          "slug": "granma-cu05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.127",
+      "lon": "-77.26"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0505",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cauto Cristo",
+      "en": "Cauto Cristo",
+      "slug": "cauto-cristo-cu0505"
+    },
+    "code": {
+      "id": "CU0505",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU05",
+      "level": 1,
+      "name": {
+        "local": "Granma",
+        "en": "Granma",
+        "slug": "granma-cu05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU05",
+        "level": 1,
+        "name": {
+          "local": "Granma",
+          "en": "Granma",
+          "slug": "granma-cu05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.621",
+      "lon": "-76.617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0506",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Guisa",
+      "en": "Guisa",
+      "slug": "guisa-cu0506"
+    },
+    "code": {
+      "id": "CU0506",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU05",
+      "level": 1,
+      "name": {
+        "local": "Granma",
+        "en": "Granma",
+        "slug": "granma-cu05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU05",
+        "level": 1,
+        "name": {
+          "local": "Granma",
+          "en": "Granma",
+          "slug": "granma-cu05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.185",
+      "lon": "-76.508"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0507",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Jiguaní",
+      "en": "Jiguani",
+      "slug": "jiguani-cu0507"
+    },
+    "code": {
+      "id": "CU0507",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU05",
+      "level": 1,
+      "name": {
+        "local": "Granma",
+        "en": "Granma",
+        "slug": "granma-cu05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU05",
+        "level": 1,
+        "name": {
+          "local": "Granma",
+          "en": "Granma",
+          "slug": "granma-cu05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.406",
+      "lon": "-76.392"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0508",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Manzanillo",
+      "en": "Manzanillo",
+      "slug": "manzanillo-cu0508"
+    },
+    "code": {
+      "id": "CU0508",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU05",
+      "level": 1,
+      "name": {
+        "local": "Granma",
+        "en": "Granma",
+        "slug": "granma-cu05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU05",
+        "level": 1,
+        "name": {
+          "local": "Granma",
+          "en": "Granma",
+          "slug": "granma-cu05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.247",
+      "lon": "-77.132"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0509",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Media Luna",
+      "en": "Media Luna",
+      "slug": "media-luna-cu0509"
+    },
+    "code": {
+      "id": "CU0509",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU05",
+      "level": 1,
+      "name": {
+        "local": "Granma",
+        "en": "Granma",
+        "slug": "granma-cu05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU05",
+        "level": 1,
+        "name": {
+          "local": "Granma",
+          "en": "Granma",
+          "slug": "granma-cu05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.082",
+      "lon": "-77.414"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0510",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Niquero",
+      "en": "Niquero",
+      "slug": "niquero-cu0510"
+    },
+    "code": {
+      "id": "CU0510",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU05",
+      "level": 1,
+      "name": {
+        "local": "Granma",
+        "en": "Granma",
+        "slug": "granma-cu05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU05",
+        "level": 1,
+        "name": {
+          "local": "Granma",
+          "en": "Granma",
+          "slug": "granma-cu05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.961",
+      "lon": "-77.545"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0511",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Pilón",
+      "en": "Pilon",
+      "slug": "pilon-cu0511"
+    },
+    "code": {
+      "id": "CU0511",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU05",
+      "level": 1,
+      "name": {
+        "local": "Granma",
+        "en": "Granma",
+        "slug": "granma-cu05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU05",
+        "level": 1,
+        "name": {
+          "local": "Granma",
+          "en": "Granma",
+          "slug": "granma-cu05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.944",
+      "lon": "-77.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0512",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Río Cauto",
+      "en": "Rio Cauto",
+      "slug": "rio-cauto-cu0512"
+    },
+    "code": {
+      "id": "CU0512",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU05",
+      "level": 1,
+      "name": {
+        "local": "Granma",
+        "en": "Granma",
+        "slug": "granma-cu05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU05",
+        "level": 1,
+        "name": {
+          "local": "Granma",
+          "en": "Granma",
+          "slug": "granma-cu05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.574",
+      "lon": "-76.99"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0513",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Yara",
+      "en": "Yara",
+      "slug": "yara-cu0513"
+    },
+    "code": {
+      "id": "CU0513",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU05",
+      "level": 1,
+      "name": {
+        "local": "Granma",
+        "en": "Granma",
+        "slug": "granma-cu05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU05",
+        "level": 1,
+        "name": {
+          "local": "Granma",
+          "en": "Granma",
+          "slug": "granma-cu05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.367",
+      "lon": "-76.923"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0601",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Baracoa",
+      "en": "Baracoa",
+      "slug": "baracoa-cu0601"
+    },
+    "code": {
+      "id": "CU0601",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU06",
+      "level": 1,
+      "name": {
+        "local": "Guantánamo",
+        "en": "Guantanamo",
+        "slug": "guantanamo-cu06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU06",
+        "level": 1,
+        "name": {
+          "local": "Guantánamo",
+          "en": "Guantanamo",
+          "slug": "guantanamo-cu06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.4",
+      "lon": "-74.619"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0602",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Caimanera",
+      "en": "Caimanera",
+      "slug": "caimanera-cu0602"
+    },
+    "code": {
+      "id": "CU0602",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU06",
+      "level": 1,
+      "name": {
+        "local": "Guantánamo",
+        "en": "Guantanamo",
+        "slug": "guantanamo-cu06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU06",
+        "level": 1,
+        "name": {
+          "local": "Guantánamo",
+          "en": "Guantanamo",
+          "slug": "guantanamo-cu06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.982",
+      "lon": "-75.222"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0603",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "El Salvador",
+      "en": "El Salvador",
+      "slug": "el-salvador-cu0603"
+    },
+    "code": {
+      "id": "CU0603",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU06",
+      "level": 1,
+      "name": {
+        "local": "Guantánamo",
+        "en": "Guantanamo",
+        "slug": "guantanamo-cu06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU06",
+        "level": 1,
+        "name": {
+          "local": "Guantánamo",
+          "en": "Guantanamo",
+          "slug": "guantanamo-cu06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.33",
+      "lon": "-75.326"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0604",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Guantánamo",
+      "en": "Guantanamo",
+      "slug": "guantanamo-cu0604"
+    },
+    "code": {
+      "id": "CU0604",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU06",
+      "level": 1,
+      "name": {
+        "local": "Guantánamo",
+        "en": "Guantanamo",
+        "slug": "guantanamo-cu06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU06",
+        "level": 1,
+        "name": {
+          "local": "Guantánamo",
+          "en": "Guantanamo",
+          "slug": "guantanamo-cu06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.286",
+      "lon": "-75.145"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0605",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Imías",
+      "en": "Imias",
+      "slug": "imias-cu0605"
+    },
+    "code": {
+      "id": "CU0605",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU06",
+      "level": 1,
+      "name": {
+        "local": "Guantánamo",
+        "en": "Guantanamo",
+        "slug": "guantanamo-cu06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU06",
+        "level": 1,
+        "name": {
+          "local": "Guantánamo",
+          "en": "Guantanamo",
+          "slug": "guantanamo-cu06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.179",
+      "lon": "-74.588"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0606",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Maisí",
+      "en": "Maisi",
+      "slug": "maisi-cu0606"
+    },
+    "code": {
+      "id": "CU0606",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU06",
+      "level": 1,
+      "name": {
+        "local": "Guantánamo",
+        "en": "Guantanamo",
+        "slug": "guantanamo-cu06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU06",
+        "level": 1,
+        "name": {
+          "local": "Guantánamo",
+          "en": "Guantanamo",
+          "slug": "guantanamo-cu06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.192",
+      "lon": "-74.287"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0607",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Manuel Tames",
+      "en": "Manuel Tames",
+      "slug": "manuel-tames-cu0607"
+    },
+    "code": {
+      "id": "CU0607",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU06",
+      "level": 1,
+      "name": {
+        "local": "Guantánamo",
+        "en": "Guantanamo",
+        "slug": "guantanamo-cu06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU06",
+        "level": 1,
+        "name": {
+          "local": "Guantánamo",
+          "en": "Guantanamo",
+          "slug": "guantanamo-cu06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.162",
+      "lon": "-74.955"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0608",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Niceto Pérez",
+      "en": "Niceto Perez",
+      "slug": "niceto-perez-cu0608"
+    },
+    "code": {
+      "id": "CU0608",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU06",
+      "level": 1,
+      "name": {
+        "local": "Guantánamo",
+        "en": "Guantanamo",
+        "slug": "guantanamo-cu06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU06",
+        "level": 1,
+        "name": {
+          "local": "Guantánamo",
+          "en": "Guantanamo",
+          "slug": "guantanamo-cu06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.075",
+      "lon": "-75.33"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0609",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Antonio del Sur",
+      "en": "San Antonio del Sur",
+      "slug": "san-antonio-del-sur-cu0609"
+    },
+    "code": {
+      "id": "CU0609",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU06",
+      "level": 1,
+      "name": {
+        "local": "Guantánamo",
+        "en": "Guantanamo",
+        "slug": "guantanamo-cu06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU06",
+        "level": 1,
+        "name": {
+          "local": "Guantánamo",
+          "en": "Guantanamo",
+          "slug": "guantanamo-cu06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.145",
+      "lon": "-74.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0610",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Yateras",
+      "en": "Yateras",
+      "slug": "yateras-cu0610"
+    },
+    "code": {
+      "id": "CU0610",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU06",
+      "level": 1,
+      "name": {
+        "local": "Guantánamo",
+        "en": "Guantanamo",
+        "slug": "guantanamo-cu06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU06",
+        "level": 1,
+        "name": {
+          "local": "Guantánamo",
+          "en": "Guantanamo",
+          "slug": "guantanamo-cu06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.393",
+      "lon": "-74.892"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0701",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Antilla",
+      "en": "Antilla",
+      "slug": "antilla-cu0701"
+    },
+    "code": {
+      "id": "CU0701",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU07",
+      "level": 1,
+      "name": {
+        "local": "Holguín",
+        "en": "Holguin",
+        "slug": "holguin-cu07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU07",
+        "level": 1,
+        "name": {
+          "local": "Holguín",
+          "en": "Holguin",
+          "slug": "holguin-cu07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.843",
+      "lon": "-75.708"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0702",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Báguanos",
+      "en": "Baguanos",
+      "slug": "baguanos-cu0702"
+    },
+    "code": {
+      "id": "CU0702",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU07",
+      "level": 1,
+      "name": {
+        "local": "Holguín",
+        "en": "Holguin",
+        "slug": "holguin-cu07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU07",
+        "level": 1,
+        "name": {
+          "local": "Holguín",
+          "en": "Holguin",
+          "slug": "holguin-cu07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.816",
+      "lon": "-76.05"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0703",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Banes",
+      "en": "Banes",
+      "slug": "banes-cu0703"
+    },
+    "code": {
+      "id": "CU0703",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU07",
+      "level": 1,
+      "name": {
+        "local": "Holguín",
+        "en": "Holguin",
+        "slug": "holguin-cu07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU07",
+        "level": 1,
+        "name": {
+          "local": "Holguín",
+          "en": "Holguin",
+          "slug": "holguin-cu07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.961",
+      "lon": "-75.739"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0704",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cacocum",
+      "en": "Cacocum",
+      "slug": "cacocum-cu0704"
+    },
+    "code": {
+      "id": "CU0704",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU07",
+      "level": 1,
+      "name": {
+        "local": "Holguín",
+        "en": "Holguin",
+        "slug": "holguin-cu07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU07",
+        "level": 1,
+        "name": {
+          "local": "Holguín",
+          "en": "Holguin",
+          "slug": "holguin-cu07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.753",
+      "lon": "-76.47"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0705",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Calixto García",
+      "en": "Calixto Garcia",
+      "slug": "calixto-garcia-cu0705"
+    },
+    "code": {
+      "id": "CU0705",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU07",
+      "level": 1,
+      "name": {
+        "local": "Holguín",
+        "en": "Holguin",
+        "slug": "holguin-cu07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU07",
+        "level": 1,
+        "name": {
+          "local": "Holguín",
+          "en": "Holguin",
+          "slug": "holguin-cu07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.868",
+      "lon": "-76.603"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0706",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cueto",
+      "en": "Cueto",
+      "slug": "cueto-cu0706"
+    },
+    "code": {
+      "id": "CU0706",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU07",
+      "level": 1,
+      "name": {
+        "local": "Holguín",
+        "en": "Holguin",
+        "slug": "holguin-cu07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU07",
+        "level": 1,
+        "name": {
+          "local": "Holguín",
+          "en": "Holguin",
+          "slug": "holguin-cu07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.615",
+      "lon": "-75.94"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0707",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Frak País",
+      "en": "Frak Pais",
+      "slug": "frak-pais-cu0707"
+    },
+    "code": {
+      "id": "CU0707",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU07",
+      "level": 1,
+      "name": {
+        "local": "Holguín",
+        "en": "Holguin",
+        "slug": "holguin-cu07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU07",
+        "level": 1,
+        "name": {
+          "local": "Holguín",
+          "en": "Holguin",
+          "slug": "holguin-cu07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.669",
+      "lon": "-75.171"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0708",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Gibara",
+      "en": "Gibara",
+      "slug": "gibara-cu0708"
+    },
+    "code": {
+      "id": "CU0708",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU07",
+      "level": 1,
+      "name": {
+        "local": "Holguín",
+        "en": "Holguin",
+        "slug": "holguin-cu07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU07",
+        "level": 1,
+        "name": {
+          "local": "Holguín",
+          "en": "Holguin",
+          "slug": "holguin-cu07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.12",
+      "lon": "-76.254"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0709",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Holguín",
+      "en": "Holguin",
+      "slug": "holguin-cu0709"
+    },
+    "code": {
+      "id": "CU0709",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU07",
+      "level": 1,
+      "name": {
+        "local": "Holguín",
+        "en": "Holguin",
+        "slug": "holguin-cu07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU07",
+        "level": 1,
+        "name": {
+          "local": "Holguín",
+          "en": "Holguin",
+          "slug": "holguin-cu07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.899",
+      "lon": "-76.29"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0710",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Mayarí",
+      "en": "Mayari",
+      "slug": "mayari-cu0710"
+    },
+    "code": {
+      "id": "CU0710",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU07",
+      "level": 1,
+      "name": {
+        "local": "Holguín",
+        "en": "Holguin",
+        "slug": "holguin-cu07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU07",
+        "level": 1,
+        "name": {
+          "local": "Holguín",
+          "en": "Holguin",
+          "slug": "holguin-cu07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.633",
+      "lon": "-75.633"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0711",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Moa",
+      "en": "Moa",
+      "slug": "moa-cu0711"
+    },
+    "code": {
+      "id": "CU0711",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU07",
+      "level": 1,
+      "name": {
+        "local": "Holguín",
+        "en": "Holguin",
+        "slug": "holguin-cu07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU07",
+        "level": 1,
+        "name": {
+          "local": "Holguín",
+          "en": "Holguin",
+          "slug": "holguin-cu07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.568",
+      "lon": "-74.877"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0712",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Rafael Freyre",
+      "en": "Rafael Freyre",
+      "slug": "rafael-freyre-cu0712"
+    },
+    "code": {
+      "id": "CU0712",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU07",
+      "level": 1,
+      "name": {
+        "local": "Holguín",
+        "en": "Holguin",
+        "slug": "holguin-cu07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU07",
+        "level": 1,
+        "name": {
+          "local": "Holguín",
+          "en": "Holguin",
+          "slug": "holguin-cu07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.006",
+      "lon": "-76.019"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0713",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Sagua de Tánamo",
+      "en": "Sagua de Tanamo",
+      "slug": "sagua-de-tanamo-cu0713"
+    },
+    "code": {
+      "id": "CU0713",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU07",
+      "level": 1,
+      "name": {
+        "local": "Holguín",
+        "en": "Holguin",
+        "slug": "holguin-cu07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU07",
+        "level": 1,
+        "name": {
+          "local": "Holguín",
+          "en": "Holguin",
+          "slug": "holguin-cu07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.526",
+      "lon": "-75.173"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0714",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Urbano Noris",
+      "en": "Urbano Noris",
+      "slug": "urbano-noris-cu0714"
+    },
+    "code": {
+      "id": "CU0714",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU07",
+      "level": 1,
+      "name": {
+        "local": "Holguín",
+        "en": "Holguin",
+        "slug": "holguin-cu07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU07",
+        "level": 1,
+        "name": {
+          "local": "Holguín",
+          "en": "Holguin",
+          "slug": "holguin-cu07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.608",
+      "lon": "-76.254"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0801",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Isla de la Juventud",
+      "en": "Isla de la Juventud",
+      "slug": "isla-de-la-juventud-cu0801"
+    },
+    "code": {
+      "id": "CU0801",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU08",
+      "level": 1,
+      "name": {
+        "local": "Isla de la Juventud",
+        "en": "Isla de la Juventud",
+        "slug": "isla-de-la-juventud-cu08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU08",
+        "level": 1,
+        "name": {
+          "local": "Isla de la Juventud",
+          "en": "Isla de la Juventud",
+          "slug": "isla-de-la-juventud-cu08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.691",
+      "lon": "-82.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0101",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Alquízar",
+      "en": "Alquizar",
+      "slug": "alquizar-cu0101"
+    },
+    "code": {
+      "id": "CU0101",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU01",
+      "level": 1,
+      "name": {
+        "local": "Artemisa",
+        "en": "Artemisa",
+        "slug": "artemisa-cu01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU01",
+        "level": 1,
+        "name": {
+          "local": "Artemisa",
+          "en": "Artemisa",
+          "slug": "artemisa-cu01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.748",
+      "lon": "-82.605"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0102",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Artemisa",
+      "en": "Artemisa",
+      "slug": "artemisa-cu0102"
+    },
+    "code": {
+      "id": "CU0102",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU01",
+      "level": 1,
+      "name": {
+        "local": "Artemisa",
+        "en": "Artemisa",
+        "slug": "artemisa-cu01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU01",
+        "level": 1,
+        "name": {
+          "local": "Artemisa",
+          "en": "Artemisa",
+          "slug": "artemisa-cu01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.752",
+      "lon": "-82.799"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0104",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Bauta",
+      "en": "Bauta",
+      "slug": "bauta-cu0104"
+    },
+    "code": {
+      "id": "CU0104",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU01",
+      "level": 1,
+      "name": {
+        "local": "Artemisa",
+        "en": "Artemisa",
+        "slug": "artemisa-cu01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU01",
+        "level": 1,
+        "name": {
+          "local": "Artemisa",
+          "en": "Artemisa",
+          "slug": "artemisa-cu01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.981",
+      "lon": "-82.522"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0105",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Caimito",
+      "en": "Caimito",
+      "slug": "caimito-cu0105"
+    },
+    "code": {
+      "id": "CU0105",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU01",
+      "level": 1,
+      "name": {
+        "local": "Artemisa",
+        "en": "Artemisa",
+        "slug": "artemisa-cu01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU01",
+        "level": 1,
+        "name": {
+          "local": "Artemisa",
+          "en": "Artemisa",
+          "slug": "artemisa-cu01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.921",
+      "lon": "-82.604"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0108",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Güira de Melena",
+      "en": "Guira de Melena",
+      "slug": "guira-de-melena-cu0108"
+    },
+    "code": {
+      "id": "CU0108",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU01",
+      "level": 1,
+      "name": {
+        "local": "Artemisa",
+        "en": "Artemisa",
+        "slug": "artemisa-cu01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU01",
+        "level": 1,
+        "name": {
+          "local": "Artemisa",
+          "en": "Artemisa",
+          "slug": "artemisa-cu01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.741",
+      "lon": "-82.481"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0107",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Guanajay",
+      "en": "Guanajay",
+      "slug": "guanajay-cu0107"
+    },
+    "code": {
+      "id": "CU0107",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU01",
+      "level": 1,
+      "name": {
+        "local": "Artemisa",
+        "en": "Artemisa",
+        "slug": "artemisa-cu01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU01",
+        "level": 1,
+        "name": {
+          "local": "Artemisa",
+          "en": "Artemisa",
+          "slug": "artemisa-cu01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.902",
+      "lon": "-82.709"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0109",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Mariel",
+      "en": "Mariel",
+      "slug": "mariel-cu0109"
+    },
+    "code": {
+      "id": "CU0109",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU01",
+      "level": 1,
+      "name": {
+        "local": "Artemisa",
+        "en": "Artemisa",
+        "slug": "artemisa-cu01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU01",
+        "level": 1,
+        "name": {
+          "local": "Artemisa",
+          "en": "Artemisa",
+          "slug": "artemisa-cu01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.964",
+      "lon": "-82.792"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0110",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Antonio de los Baños",
+      "en": "San Antonio de los Banos",
+      "slug": "san-antonio-de-los-banos-cu0110"
+    },
+    "code": {
+      "id": "CU0110",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU01",
+      "level": 1,
+      "name": {
+        "local": "Artemisa",
+        "en": "Artemisa",
+        "slug": "artemisa-cu01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU01",
+        "level": 1,
+        "name": {
+          "local": "Artemisa",
+          "en": "Artemisa",
+          "slug": "artemisa-cu01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.87",
+      "lon": "-82.492"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1001",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Amancio",
+      "en": "Amancio",
+      "slug": "amancio-cu1001"
+    },
+    "code": {
+      "id": "CU1001",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU10",
+      "level": 1,
+      "name": {
+        "local": "Las Tunas",
+        "en": "Las Tunas",
+        "slug": "las-tunas-cu10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU10",
+        "level": 1,
+        "name": {
+          "local": "Las Tunas",
+          "en": "Las Tunas",
+          "slug": "las-tunas-cu10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.834",
+      "lon": "-77.653"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1002",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Colombia",
+      "en": "Colombia",
+      "slug": "colombia-cu1002"
+    },
+    "code": {
+      "id": "CU1002",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU10",
+      "level": 1,
+      "name": {
+        "local": "Las Tunas",
+        "en": "Las Tunas",
+        "slug": "las-tunas-cu10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU10",
+        "level": 1,
+        "name": {
+          "local": "Las Tunas",
+          "en": "Las Tunas",
+          "slug": "las-tunas-cu10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.854",
+      "lon": "-77.466"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1003",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Jesús Menéndez",
+      "en": "Jesus Menendez",
+      "slug": "jesus-menendez-cu1003"
+    },
+    "code": {
+      "id": "CU1003",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU10",
+      "level": 1,
+      "name": {
+        "local": "Las Tunas",
+        "en": "Las Tunas",
+        "slug": "las-tunas-cu10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU10",
+        "level": 1,
+        "name": {
+          "local": "Las Tunas",
+          "en": "Las Tunas",
+          "slug": "las-tunas-cu10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.091",
+      "lon": "-76.535"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1004",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Jobabo",
+      "en": "Jobabo",
+      "slug": "jobabo-cu1004"
+    },
+    "code": {
+      "id": "CU1004",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU10",
+      "level": 1,
+      "name": {
+        "local": "Las Tunas",
+        "en": "Las Tunas",
+        "slug": "las-tunas-cu10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU10",
+        "level": 1,
+        "name": {
+          "local": "Las Tunas",
+          "en": "Las Tunas",
+          "slug": "las-tunas-cu10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.829",
+      "lon": "-77.256"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1005",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Las Tunas",
+      "en": "Las Tunas",
+      "slug": "las-tunas-cu1005"
+    },
+    "code": {
+      "id": "CU1005",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU10",
+      "level": 1,
+      "name": {
+        "local": "Las Tunas",
+        "en": "Las Tunas",
+        "slug": "las-tunas-cu10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU10",
+        "level": 1,
+        "name": {
+          "local": "Las Tunas",
+          "en": "Las Tunas",
+          "slug": "las-tunas-cu10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.952",
+      "lon": "-77.009"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1006",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Majibacoa",
+      "en": "Majibacoa",
+      "slug": "majibacoa-cu1006"
+    },
+    "code": {
+      "id": "CU1006",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU10",
+      "level": 1,
+      "name": {
+        "local": "Las Tunas",
+        "en": "Las Tunas",
+        "slug": "las-tunas-cu10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU10",
+        "level": 1,
+        "name": {
+          "local": "Las Tunas",
+          "en": "Las Tunas",
+          "slug": "las-tunas-cu10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.843",
+      "lon": "-76.792"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1007",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Manatí",
+      "en": "Manati",
+      "slug": "manati-cu1007"
+    },
+    "code": {
+      "id": "CU1007",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU10",
+      "level": 1,
+      "name": {
+        "local": "Las Tunas",
+        "en": "Las Tunas",
+        "slug": "las-tunas-cu10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU10",
+        "level": 1,
+        "name": {
+          "local": "Las Tunas",
+          "en": "Las Tunas",
+          "slug": "las-tunas-cu10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.259",
+      "lon": "-77"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1008",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Puerto Padre",
+      "en": "Puerto Padre",
+      "slug": "puerto-padre-cu1008"
+    },
+    "code": {
+      "id": "CU1008",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU10",
+      "level": 1,
+      "name": {
+        "local": "Las Tunas",
+        "en": "Las Tunas",
+        "slug": "las-tunas-cu10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU10",
+        "level": 1,
+        "name": {
+          "local": "Las Tunas",
+          "en": "Las Tunas",
+          "slug": "las-tunas-cu10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.156",
+      "lon": "-76.722"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1101",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cárdenas",
+      "en": "Cardenas",
+      "slug": "cardenas-cu1101"
+    },
+    "code": {
+      "id": "CU1101",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU11",
+      "level": 1,
+      "name": {
+        "local": "Matanzas",
+        "en": "Matanzas",
+        "slug": "matanzas-cu11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU11",
+        "level": 1,
+        "name": {
+          "local": "Matanzas",
+          "en": "Matanzas",
+          "slug": "matanzas-cu11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.999",
+      "lon": "-81.253"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1102",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Calimete",
+      "en": "Calimete",
+      "slug": "calimete-cu1102"
+    },
+    "code": {
+      "id": "CU1102",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU11",
+      "level": 1,
+      "name": {
+        "local": "Matanzas",
+        "en": "Matanzas",
+        "slug": "matanzas-cu11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU11",
+        "level": 1,
+        "name": {
+          "local": "Matanzas",
+          "en": "Matanzas",
+          "slug": "matanzas-cu11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.369",
+      "lon": "-81.001"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1103",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ciénaga de Zapata",
+      "en": "Cienaga de Zapata",
+      "slug": "cienaga-de-zapata-cu1103"
+    },
+    "code": {
+      "id": "CU1103",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU11",
+      "level": 1,
+      "name": {
+        "local": "Matanzas",
+        "en": "Matanzas",
+        "slug": "matanzas-cu11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU11",
+        "level": 1,
+        "name": {
+          "local": "Matanzas",
+          "en": "Matanzas",
+          "slug": "matanzas-cu11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.304",
+      "lon": "-81.541"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1104",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Colón",
+      "en": "Colon",
+      "slug": "colon-cu1104"
+    },
+    "code": {
+      "id": "CU1104",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU11",
+      "level": 1,
+      "name": {
+        "local": "Matanzas",
+        "en": "Matanzas",
+        "slug": "matanzas-cu11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU11",
+        "level": 1,
+        "name": {
+          "local": "Matanzas",
+          "en": "Matanzas",
+          "slug": "matanzas-cu11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.752",
+      "lon": "-80.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1105",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Jagüey Grande",
+      "en": "Jaguey Grande",
+      "slug": "jaguey-grande-cu1105"
+    },
+    "code": {
+      "id": "CU1105",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU11",
+      "level": 1,
+      "name": {
+        "local": "Matanzas",
+        "en": "Matanzas",
+        "slug": "matanzas-cu11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU11",
+        "level": 1,
+        "name": {
+          "local": "Matanzas",
+          "en": "Matanzas",
+          "slug": "matanzas-cu11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.562",
+      "lon": "-81.16"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1106",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Jovellanos",
+      "en": "Jovellanos",
+      "slug": "jovellanos-cu1106"
+    },
+    "code": {
+      "id": "CU1106",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU11",
+      "level": 1,
+      "name": {
+        "local": "Matanzas",
+        "en": "Matanzas",
+        "slug": "matanzas-cu11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU11",
+        "level": 1,
+        "name": {
+          "local": "Matanzas",
+          "en": "Matanzas",
+          "slug": "matanzas-cu11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.79",
+      "lon": "-81.188"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1107",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Limonar",
+      "en": "Limonar",
+      "slug": "limonar-cu1107"
+    },
+    "code": {
+      "id": "CU1107",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU11",
+      "level": 1,
+      "name": {
+        "local": "Matanzas",
+        "en": "Matanzas",
+        "slug": "matanzas-cu11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU11",
+        "level": 1,
+        "name": {
+          "local": "Matanzas",
+          "en": "Matanzas",
+          "slug": "matanzas-cu11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.88",
+      "lon": "-81.485"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1108",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Los Arabos",
+      "en": "Los Arabos",
+      "slug": "los-arabos-cu1108"
+    },
+    "code": {
+      "id": "CU1108",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU11",
+      "level": 1,
+      "name": {
+        "local": "Matanzas",
+        "en": "Matanzas",
+        "slug": "matanzas-cu11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU11",
+        "level": 1,
+        "name": {
+          "local": "Matanzas",
+          "en": "Matanzas",
+          "slug": "matanzas-cu11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.632",
+      "lon": "-80.686"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1109",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Martí",
+      "en": "Marti",
+      "slug": "marti-cu1109"
+    },
+    "code": {
+      "id": "CU1109",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU11",
+      "level": 1,
+      "name": {
+        "local": "Matanzas",
+        "en": "Matanzas",
+        "slug": "matanzas-cu11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU11",
+        "level": 1,
+        "name": {
+          "local": "Matanzas",
+          "en": "Matanzas",
+          "slug": "matanzas-cu11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.99",
+      "lon": "-80.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1110",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Matanzas",
+      "en": "Matanzas",
+      "slug": "matanzas-cu1110"
+    },
+    "code": {
+      "id": "CU1110",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU11",
+      "level": 1,
+      "name": {
+        "local": "Matanzas",
+        "en": "Matanzas",
+        "slug": "matanzas-cu11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU11",
+        "level": 1,
+        "name": {
+          "local": "Matanzas",
+          "en": "Matanzas",
+          "slug": "matanzas-cu11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.046",
+      "lon": "-81.613"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1111",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Pedro Betancourt",
+      "en": "Pedro Betancourt",
+      "slug": "pedro-betancourt-cu1111"
+    },
+    "code": {
+      "id": "CU1111",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU11",
+      "level": 1,
+      "name": {
+        "local": "Matanzas",
+        "en": "Matanzas",
+        "slug": "matanzas-cu11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU11",
+        "level": 1,
+        "name": {
+          "local": "Matanzas",
+          "en": "Matanzas",
+          "slug": "matanzas-cu11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.69",
+      "lon": "-81.317"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1112",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Perico",
+      "en": "Perico",
+      "slug": "perico-cu1112"
+    },
+    "code": {
+      "id": "CU1112",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU11",
+      "level": 1,
+      "name": {
+        "local": "Matanzas",
+        "en": "Matanzas",
+        "slug": "matanzas-cu11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU11",
+        "level": 1,
+        "name": {
+          "local": "Matanzas",
+          "en": "Matanzas",
+          "slug": "matanzas-cu11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.787",
+      "lon": "-80.995"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1113",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Unión de Reyes",
+      "en": "Union de Reyes",
+      "slug": "union-de-reyes-cu1113"
+    },
+    "code": {
+      "id": "CU1113",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU11",
+      "level": 1,
+      "name": {
+        "local": "Matanzas",
+        "en": "Matanzas",
+        "slug": "matanzas-cu11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU11",
+        "level": 1,
+        "name": {
+          "local": "Matanzas",
+          "en": "Matanzas",
+          "slug": "matanzas-cu11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.677",
+      "lon": "-81.484"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1201",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Batabanó",
+      "en": "Batabano",
+      "slug": "batabano-cu1201"
+    },
+    "code": {
+      "id": "CU1201",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU12",
+      "level": 1,
+      "name": {
+        "local": "Mayabeque",
+        "en": "Mayabeque",
+        "slug": "mayabeque-cu12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU12",
+        "level": 1,
+        "name": {
+          "local": "Mayabeque",
+          "en": "Mayabeque",
+          "slug": "mayabeque-cu12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.755",
+      "lon": "-82.274"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1202",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Bejucal",
+      "en": "Bejucal",
+      "slug": "bejucal-cu1202"
+    },
+    "code": {
+      "id": "CU1202",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU12",
+      "level": 1,
+      "name": {
+        "local": "Mayabeque",
+        "en": "Mayabeque",
+        "slug": "mayabeque-cu12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU12",
+        "level": 1,
+        "name": {
+          "local": "Mayabeque",
+          "en": "Mayabeque",
+          "slug": "mayabeque-cu12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.909",
+      "lon": "-82.339"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1203",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Güines",
+      "en": "Guines",
+      "slug": "guines-cu1203"
+    },
+    "code": {
+      "id": "CU1203",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU12",
+      "level": 1,
+      "name": {
+        "local": "Mayabeque",
+        "en": "Mayabeque",
+        "slug": "mayabeque-cu12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU12",
+        "level": 1,
+        "name": {
+          "local": "Mayabeque",
+          "en": "Mayabeque",
+          "slug": "mayabeque-cu12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.794",
+      "lon": "-82"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1204",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Jaruco",
+      "en": "Jaruco",
+      "slug": "jaruco-cu1204"
+    },
+    "code": {
+      "id": "CU1204",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU12",
+      "level": 1,
+      "name": {
+        "local": "Mayabeque",
+        "en": "Mayabeque",
+        "slug": "mayabeque-cu12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU12",
+        "level": 1,
+        "name": {
+          "local": "Mayabeque",
+          "en": "Mayabeque",
+          "slug": "mayabeque-cu12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.057",
+      "lon": "-81.98"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1205",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Madruga",
+      "en": "Madruga",
+      "slug": "madruga-cu1205"
+    },
+    "code": {
+      "id": "CU1205",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU12",
+      "level": 1,
+      "name": {
+        "local": "Mayabeque",
+        "en": "Mayabeque",
+        "slug": "mayabeque-cu12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU12",
+        "level": 1,
+        "name": {
+          "local": "Mayabeque",
+          "en": "Mayabeque",
+          "slug": "mayabeque-cu12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.911",
+      "lon": "-81.797"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1206",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Melena del Sur",
+      "en": "Melena del Sur",
+      "slug": "melena-del-sur-cu1206"
+    },
+    "code": {
+      "id": "CU1206",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU12",
+      "level": 1,
+      "name": {
+        "local": "Mayabeque",
+        "en": "Mayabeque",
+        "slug": "mayabeque-cu12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU12",
+        "level": 1,
+        "name": {
+          "local": "Mayabeque",
+          "en": "Mayabeque",
+          "slug": "mayabeque-cu12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.772",
+      "lon": "-82.151"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1207",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Nueva Paz",
+      "en": "Nueva Paz",
+      "slug": "nueva-paz-cu1207"
+    },
+    "code": {
+      "id": "CU1207",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU12",
+      "level": 1,
+      "name": {
+        "local": "Mayabeque",
+        "en": "Mayabeque",
+        "slug": "mayabeque-cu12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU12",
+        "level": 1,
+        "name": {
+          "local": "Mayabeque",
+          "en": "Mayabeque",
+          "slug": "mayabeque-cu12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.688",
+      "lon": "-81.711"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1208",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Quivicán",
+      "en": "Quivican",
+      "slug": "quivican-cu1208"
+    },
+    "code": {
+      "id": "CU1208",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU12",
+      "level": 1,
+      "name": {
+        "local": "Mayabeque",
+        "en": "Mayabeque",
+        "slug": "mayabeque-cu12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU12",
+        "level": 1,
+        "name": {
+          "local": "Mayabeque",
+          "en": "Mayabeque",
+          "slug": "mayabeque-cu12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.787",
+      "lon": "-82.372"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1209",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San José de las Lajas",
+      "en": "San Jose de las Lajas",
+      "slug": "san-jose-de-las-lajas-cu1209"
+    },
+    "code": {
+      "id": "CU1209",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU12",
+      "level": 1,
+      "name": {
+        "local": "Mayabeque",
+        "en": "Mayabeque",
+        "slug": "mayabeque-cu12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU12",
+        "level": 1,
+        "name": {
+          "local": "Mayabeque",
+          "en": "Mayabeque",
+          "slug": "mayabeque-cu12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.904",
+      "lon": "-82.136"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1210",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Nicolás",
+      "en": "San Nicolas",
+      "slug": "san-nicolas-cu1210"
+    },
+    "code": {
+      "id": "CU1210",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU12",
+      "level": 1,
+      "name": {
+        "local": "Mayabeque",
+        "en": "Mayabeque",
+        "slug": "mayabeque-cu12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU12",
+        "level": 1,
+        "name": {
+          "local": "Mayabeque",
+          "en": "Mayabeque",
+          "slug": "mayabeque-cu12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.771",
+      "lon": "-81.881"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1211",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santa Cruz del Norte",
+      "en": "Santa Cruz del Norte",
+      "slug": "santa-cruz-del-norte-cu1211"
+    },
+    "code": {
+      "id": "CU1211",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU12",
+      "level": 1,
+      "name": {
+        "local": "Mayabeque",
+        "en": "Mayabeque",
+        "slug": "mayabeque-cu12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU12",
+        "level": 1,
+        "name": {
+          "local": "Mayabeque",
+          "en": "Mayabeque",
+          "slug": "mayabeque-cu12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.089",
+      "lon": "-81.771"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0103",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Bahía Honda",
+      "en": "Bahia Honda",
+      "slug": "bahia-honda-cu0103"
+    },
+    "code": {
+      "id": "CU0103",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU01",
+      "level": 1,
+      "name": {
+        "local": "Artemisa",
+        "en": "Artemisa",
+        "slug": "artemisa-cu01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU01",
+        "level": 1,
+        "name": {
+          "local": "Artemisa",
+          "en": "Artemisa",
+          "slug": "artemisa-cu01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.897",
+      "lon": "-83.134"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0106",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Candelaria",
+      "en": "Candelaria",
+      "slug": "candelaria-cu0106"
+    },
+    "code": {
+      "id": "CU0106",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU01",
+      "level": 1,
+      "name": {
+        "local": "Artemisa",
+        "en": "Artemisa",
+        "slug": "artemisa-cu01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU01",
+        "level": 1,
+        "name": {
+          "local": "Artemisa",
+          "en": "Artemisa",
+          "slug": "artemisa-cu01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.729",
+      "lon": "-82.942"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1301",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Consolación del Sur",
+      "en": "Consolacion del Sur",
+      "slug": "consolacion-del-sur-cu1301"
+    },
+    "code": {
+      "id": "CU1301",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU13",
+      "level": 1,
+      "name": {
+        "local": "Pinar del Río",
+        "en": "Pinar del Rio",
+        "slug": "pinar-del-rio-cu13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU13",
+        "level": 1,
+        "name": {
+          "local": "Pinar del Río",
+          "en": "Pinar del Rio",
+          "slug": "pinar-del-rio-cu13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.418",
+      "lon": "-83.421"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1302",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Guane",
+      "en": "Guane",
+      "slug": "guane-cu1302"
+    },
+    "code": {
+      "id": "CU1302",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU13",
+      "level": 1,
+      "name": {
+        "local": "Pinar del Río",
+        "en": "Pinar del Rio",
+        "slug": "pinar-del-rio-cu13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU13",
+        "level": 1,
+        "name": {
+          "local": "Pinar del Río",
+          "en": "Pinar del Rio",
+          "slug": "pinar-del-rio-cu13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.229",
+      "lon": "-84.066"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1303",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "La Palma",
+      "en": "La Palma",
+      "slug": "la-palma-cu1303"
+    },
+    "code": {
+      "id": "CU1303",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU13",
+      "level": 1,
+      "name": {
+        "local": "Pinar del Río",
+        "en": "Pinar del Rio",
+        "slug": "pinar-del-rio-cu13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU13",
+        "level": 1,
+        "name": {
+          "local": "Pinar del Río",
+          "en": "Pinar del Rio",
+          "slug": "pinar-del-rio-cu13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.731",
+      "lon": "-83.479"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1304",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Los Palacios",
+      "en": "Los Palacios",
+      "slug": "los-palacios-cu1304"
+    },
+    "code": {
+      "id": "CU1304",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU13",
+      "level": 1,
+      "name": {
+        "local": "Pinar del Río",
+        "en": "Pinar del Rio",
+        "slug": "pinar-del-rio-cu13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU13",
+        "level": 1,
+        "name": {
+          "local": "Pinar del Río",
+          "en": "Pinar del Rio",
+          "slug": "pinar-del-rio-cu13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.515",
+      "lon": "-83.209"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1305",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Mantua",
+      "en": "Mantua",
+      "slug": "mantua-cu1305"
+    },
+    "code": {
+      "id": "CU1305",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU13",
+      "level": 1,
+      "name": {
+        "local": "Pinar del Río",
+        "en": "Pinar del Rio",
+        "slug": "pinar-del-rio-cu13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU13",
+        "level": 1,
+        "name": {
+          "local": "Pinar del Río",
+          "en": "Pinar del Rio",
+          "slug": "pinar-del-rio-cu13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.335",
+      "lon": "-84.249"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1306",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Minas de Matahambre",
+      "en": "Minas de Matahambre",
+      "slug": "minas-de-matahambre-cu1306"
+    },
+    "code": {
+      "id": "CU1306",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU13",
+      "level": 1,
+      "name": {
+        "local": "Pinar del Río",
+        "en": "Pinar del Rio",
+        "slug": "pinar-del-rio-cu13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU13",
+        "level": 1,
+        "name": {
+          "local": "Pinar del Río",
+          "en": "Pinar del Rio",
+          "slug": "pinar-del-rio-cu13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.545",
+      "lon": "-83.981"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1307",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Pinar del Río",
+      "en": "Pinar del Rio",
+      "slug": "pinar-del-rio-cu1307"
+    },
+    "code": {
+      "id": "CU1307",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU13",
+      "level": 1,
+      "name": {
+        "local": "Pinar del Río",
+        "en": "Pinar del Rio",
+        "slug": "pinar-del-rio-cu13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU13",
+        "level": 1,
+        "name": {
+          "local": "Pinar del Río",
+          "en": "Pinar del Rio",
+          "slug": "pinar-del-rio-cu13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.355",
+      "lon": "-83.573"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0111",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Cristóbal",
+      "en": "San Cristobal",
+      "slug": "san-cristobal-cu0111"
+    },
+    "code": {
+      "id": "CU0111",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU01",
+      "level": 1,
+      "name": {
+        "local": "Artemisa",
+        "en": "Artemisa",
+        "slug": "artemisa-cu01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU01",
+        "level": 1,
+        "name": {
+          "local": "Artemisa",
+          "en": "Artemisa",
+          "slug": "artemisa-cu01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.645",
+      "lon": "-83.047"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1308",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Juan y Martínez",
+      "en": "San Juan y Martinez",
+      "slug": "san-juan-y-martinez-cu1308"
+    },
+    "code": {
+      "id": "CU1308",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU13",
+      "level": 1,
+      "name": {
+        "local": "Pinar del Río",
+        "en": "Pinar del Rio",
+        "slug": "pinar-del-rio-cu13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU13",
+        "level": 1,
+        "name": {
+          "local": "Pinar del Río",
+          "en": "Pinar del Rio",
+          "slug": "pinar-del-rio-cu13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.316",
+      "lon": "-83.84"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1309",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Luis",
+      "en": "San Luis",
+      "slug": "san-luis-cu1309"
+    },
+    "code": {
+      "id": "CU1309",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU13",
+      "level": 1,
+      "name": {
+        "local": "Pinar del Río",
+        "en": "Pinar del Rio",
+        "slug": "pinar-del-rio-cu13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU13",
+        "level": 1,
+        "name": {
+          "local": "Pinar del Río",
+          "en": "Pinar del Rio",
+          "slug": "pinar-del-rio-cu13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.265",
+      "lon": "-83.673"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1310",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Sandino",
+      "en": "Sandino",
+      "slug": "sandino-cu1310"
+    },
+    "code": {
+      "id": "CU1310",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU13",
+      "level": 1,
+      "name": {
+        "local": "Pinar del Río",
+        "en": "Pinar del Rio",
+        "slug": "pinar-del-rio-cu13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU13",
+        "level": 1,
+        "name": {
+          "local": "Pinar del Río",
+          "en": "Pinar del Rio",
+          "slug": "pinar-del-rio-cu13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.956",
+      "lon": "-84.35"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1311",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Viñales",
+      "en": "Vinales",
+      "slug": "vinales-cu1311"
+    },
+    "code": {
+      "id": "CU1311",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU13",
+      "level": 1,
+      "name": {
+        "local": "Pinar del Río",
+        "en": "Pinar del Rio",
+        "slug": "pinar-del-rio-cu13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU13",
+        "level": 1,
+        "name": {
+          "local": "Pinar del Río",
+          "en": "Pinar del Rio",
+          "slug": "pinar-del-rio-cu13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.623",
+      "lon": "-83.703"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1401",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cabaiguán",
+      "en": "Cabaiguan",
+      "slug": "cabaiguan-cu1401"
+    },
+    "code": {
+      "id": "CU1401",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU14",
+      "level": 1,
+      "name": {
+        "local": "Sancti Spíritus",
+        "en": "Sancti Spiritus",
+        "slug": "sancti-spiritus-cu14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU14",
+        "level": 1,
+        "name": {
+          "local": "Sancti Spíritus",
+          "en": "Sancti Spiritus",
+          "slug": "sancti-spiritus-cu14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.094",
+      "lon": "-79.527"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1402",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Fomento",
+      "en": "Fomento",
+      "slug": "fomento-cu1402"
+    },
+    "code": {
+      "id": "CU1402",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU14",
+      "level": 1,
+      "name": {
+        "local": "Sancti Spíritus",
+        "en": "Sancti Spiritus",
+        "slug": "sancti-spiritus-cu14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU14",
+        "level": 1,
+        "name": {
+          "local": "Sancti Spíritus",
+          "en": "Sancti Spiritus",
+          "slug": "sancti-spiritus-cu14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.002",
+      "lon": "-79.705"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1403",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Jatibonico",
+      "en": "Jatibonico",
+      "slug": "jatibonico-cu1403"
+    },
+    "code": {
+      "id": "CU1403",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU14",
+      "level": 1,
+      "name": {
+        "local": "Sancti Spíritus",
+        "en": "Sancti Spiritus",
+        "slug": "sancti-spiritus-cu14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU14",
+        "level": 1,
+        "name": {
+          "local": "Sancti Spíritus",
+          "en": "Sancti Spiritus",
+          "slug": "sancti-spiritus-cu14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.913",
+      "lon": "-79.172"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1404",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "La Sierpe",
+      "en": "La Sierpe",
+      "slug": "la-sierpe-cu1404"
+    },
+    "code": {
+      "id": "CU1404",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU14",
+      "level": 1,
+      "name": {
+        "local": "Sancti Spíritus",
+        "en": "Sancti Spiritus",
+        "slug": "sancti-spiritus-cu14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU14",
+        "level": 1,
+        "name": {
+          "local": "Sancti Spíritus",
+          "en": "Sancti Spiritus",
+          "slug": "sancti-spiritus-cu14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.676",
+      "lon": "-79.3"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1405",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Sancti Spíritus",
+      "en": "Sancti Spiritus",
+      "slug": "sancti-spiritus-cu1405"
+    },
+    "code": {
+      "id": "CU1405",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU14",
+      "level": 1,
+      "name": {
+        "local": "Sancti Spíritus",
+        "en": "Sancti Spiritus",
+        "slug": "sancti-spiritus-cu14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU14",
+        "level": 1,
+        "name": {
+          "local": "Sancti Spíritus",
+          "en": "Sancti Spiritus",
+          "slug": "sancti-spiritus-cu14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.8",
+      "lon": "-79.534"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1406",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Taguasco",
+      "en": "Taguasco",
+      "slug": "taguasco-cu1406"
+    },
+    "code": {
+      "id": "CU1406",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU14",
+      "level": 1,
+      "name": {
+        "local": "Sancti Spíritus",
+        "en": "Sancti Spiritus",
+        "slug": "sancti-spiritus-cu14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU14",
+        "level": 1,
+        "name": {
+          "local": "Sancti Spíritus",
+          "en": "Sancti Spiritus",
+          "slug": "sancti-spiritus-cu14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.042",
+      "lon": "-79.321"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1407",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Trinidad",
+      "en": "Trinidad",
+      "slug": "trinidad-cu1407"
+    },
+    "code": {
+      "id": "CU1407",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU14",
+      "level": 1,
+      "name": {
+        "local": "Sancti Spíritus",
+        "en": "Sancti Spiritus",
+        "slug": "sancti-spiritus-cu14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU14",
+        "level": 1,
+        "name": {
+          "local": "Sancti Spíritus",
+          "en": "Sancti Spiritus",
+          "slug": "sancti-spiritus-cu14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.832",
+      "lon": "-79.907"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1408",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Yaguajay",
+      "en": "Yaguajay",
+      "slug": "yaguajay-cu1408"
+    },
+    "code": {
+      "id": "CU1408",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU14",
+      "level": 1,
+      "name": {
+        "local": "Sancti Spíritus",
+        "en": "Sancti Spiritus",
+        "slug": "sancti-spiritus-cu14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU14",
+        "level": 1,
+        "name": {
+          "local": "Sancti Spíritus",
+          "en": "Sancti Spiritus",
+          "slug": "sancti-spiritus-cu14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.263",
+      "lon": "-79.173"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1501",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Contramaestre",
+      "en": "Contramaestre",
+      "slug": "contramaestre-cu1501"
+    },
+    "code": {
+      "id": "CU1501",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU15",
+      "level": 1,
+      "name": {
+        "local": "Santiago de Cuba",
+        "en": "Santiago de Cuba",
+        "slug": "santiago-de-cuba-cu15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU15",
+        "level": 1,
+        "name": {
+          "local": "Santiago de Cuba",
+          "en": "Santiago de Cuba",
+          "slug": "santiago-de-cuba-cu15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.323",
+      "lon": "-76.224"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1502",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Guamá",
+      "en": "Guama",
+      "slug": "guama-cu1502"
+    },
+    "code": {
+      "id": "CU1502",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU15",
+      "level": 1,
+      "name": {
+        "local": "Santiago de Cuba",
+        "en": "Santiago de Cuba",
+        "slug": "santiago-de-cuba-cu15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU15",
+        "level": 1,
+        "name": {
+          "local": "Santiago de Cuba",
+          "en": "Santiago de Cuba",
+          "slug": "santiago-de-cuba-cu15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.994",
+      "lon": "-76.522"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1503",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Mella",
+      "en": "Mella",
+      "slug": "mella-cu1503"
+    },
+    "code": {
+      "id": "CU1503",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU15",
+      "level": 1,
+      "name": {
+        "local": "Santiago de Cuba",
+        "en": "Santiago de Cuba",
+        "slug": "santiago-de-cuba-cu15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU15",
+        "level": 1,
+        "name": {
+          "local": "Santiago de Cuba",
+          "en": "Santiago de Cuba",
+          "slug": "santiago-de-cuba-cu15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.461",
+      "lon": "-75.951"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1504",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Palma Soriano",
+      "en": "Palma Soriano",
+      "slug": "palma-soriano-cu1504"
+    },
+    "code": {
+      "id": "CU1504",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU15",
+      "level": 1,
+      "name": {
+        "local": "Santiago de Cuba",
+        "en": "Santiago de Cuba",
+        "slug": "santiago-de-cuba-cu15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU15",
+        "level": 1,
+        "name": {
+          "local": "Santiago de Cuba",
+          "en": "Santiago de Cuba",
+          "slug": "santiago-de-cuba-cu15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.238",
+      "lon": "-76.069"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1505",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Luis",
+      "en": "San Luis",
+      "slug": "san-luis-cu1505"
+    },
+    "code": {
+      "id": "CU1505",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU15",
+      "level": 1,
+      "name": {
+        "local": "Santiago de Cuba",
+        "en": "Santiago de Cuba",
+        "slug": "santiago-de-cuba-cu15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU15",
+        "level": 1,
+        "name": {
+          "local": "Santiago de Cuba",
+          "en": "Santiago de Cuba",
+          "slug": "santiago-de-cuba-cu15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.272",
+      "lon": "-75.831"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1506",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santiago de Cuba",
+      "en": "Santiago de Cuba",
+      "slug": "santiago-de-cuba-cu1506"
+    },
+    "code": {
+      "id": "CU1506",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU15",
+      "level": 1,
+      "name": {
+        "local": "Santiago de Cuba",
+        "en": "Santiago de Cuba",
+        "slug": "santiago-de-cuba-cu15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU15",
+        "level": 1,
+        "name": {
+          "local": "Santiago de Cuba",
+          "en": "Santiago de Cuba",
+          "slug": "santiago-de-cuba-cu15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.016",
+      "lon": "-75.669"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1507",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Segundo Frente",
+      "en": "Segundo Frente",
+      "slug": "segundo-frente-cu1507"
+    },
+    "code": {
+      "id": "CU1507",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU15",
+      "level": 1,
+      "name": {
+        "local": "Santiago de Cuba",
+        "en": "Santiago de Cuba",
+        "slug": "santiago-de-cuba-cu15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU15",
+        "level": 1,
+        "name": {
+          "local": "Santiago de Cuba",
+          "en": "Santiago de Cuba",
+          "slug": "santiago-de-cuba-cu15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.449",
+      "lon": "-75.479"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1508",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Songo-La Maya",
+      "en": "Songo-La Maya",
+      "slug": "songo-la-maya-cu1508"
+    },
+    "code": {
+      "id": "CU1508",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU15",
+      "level": 1,
+      "name": {
+        "local": "Santiago de Cuba",
+        "en": "Santiago de Cuba",
+        "slug": "santiago-de-cuba-cu15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU15",
+        "level": 1,
+        "name": {
+          "local": "Santiago de Cuba",
+          "en": "Santiago de Cuba",
+          "slug": "santiago-de-cuba-cu15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.21",
+      "lon": "-75.593"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1509",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tercer Frente",
+      "en": "Tercer Frente",
+      "slug": "tercer-frente-cu1509"
+    },
+    "code": {
+      "id": "CU1509",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU15",
+      "level": 1,
+      "name": {
+        "local": "Santiago de Cuba",
+        "en": "Santiago de Cuba",
+        "slug": "santiago-de-cuba-cu15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU15",
+        "level": 1,
+        "name": {
+          "local": "Santiago de Cuba",
+          "en": "Santiago de Cuba",
+          "slug": "santiago-de-cuba-cu15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.155",
+      "lon": "-76.266"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1601",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Caibarién",
+      "en": "Caibarien",
+      "slug": "caibarien-cu1601"
+    },
+    "code": {
+      "id": "CU1601",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU16",
+      "level": 1,
+      "name": {
+        "local": "Villa Clara",
+        "en": "Villa Clara",
+        "slug": "villa-clara-cu16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU16",
+        "level": 1,
+        "name": {
+          "local": "Villa Clara",
+          "en": "Villa Clara",
+          "slug": "villa-clara-cu16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.491",
+      "lon": "-79.539"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1602",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Camajuaní",
+      "en": "Camajuani",
+      "slug": "camajuani-cu1602"
+    },
+    "code": {
+      "id": "CU1602",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU16",
+      "level": 1,
+      "name": {
+        "local": "Villa Clara",
+        "en": "Villa Clara",
+        "slug": "villa-clara-cu16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU16",
+        "level": 1,
+        "name": {
+          "local": "Villa Clara",
+          "en": "Villa Clara",
+          "slug": "villa-clara-cu16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.513",
+      "lon": "-79.763"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1603",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cifuentes",
+      "en": "Cifuentes",
+      "slug": "cifuentes-cu1603"
+    },
+    "code": {
+      "id": "CU1603",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU16",
+      "level": 1,
+      "name": {
+        "local": "Villa Clara",
+        "en": "Villa Clara",
+        "slug": "villa-clara-cu16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU16",
+        "level": 1,
+        "name": {
+          "local": "Villa Clara",
+          "en": "Villa Clara",
+          "slug": "villa-clara-cu16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.586",
+      "lon": "-80.019"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1604",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Corralillo",
+      "en": "Corralillo",
+      "slug": "corralillo-cu1604"
+    },
+    "code": {
+      "id": "CU1604",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU16",
+      "level": 1,
+      "name": {
+        "local": "Villa Clara",
+        "en": "Villa Clara",
+        "slug": "villa-clara-cu16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU16",
+        "level": 1,
+        "name": {
+          "local": "Villa Clara",
+          "en": "Villa Clara",
+          "slug": "villa-clara-cu16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.879",
+      "lon": "-80.518"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1605",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Encrucijada",
+      "en": "Encrucijada",
+      "slug": "encrucijada-cu1605"
+    },
+    "code": {
+      "id": "CU1605",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU16",
+      "level": 1,
+      "name": {
+        "local": "Villa Clara",
+        "en": "Villa Clara",
+        "slug": "villa-clara-cu16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU16",
+        "level": 1,
+        "name": {
+          "local": "Villa Clara",
+          "en": "Villa Clara",
+          "slug": "villa-clara-cu16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.66",
+      "lon": "-79.811"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1606",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Manicaragua",
+      "en": "Manicaragua",
+      "slug": "manicaragua-cu1606"
+    },
+    "code": {
+      "id": "CU1606",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU16",
+      "level": 1,
+      "name": {
+        "local": "Villa Clara",
+        "en": "Villa Clara",
+        "slug": "villa-clara-cu16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU16",
+        "level": 1,
+        "name": {
+          "local": "Villa Clara",
+          "en": "Villa Clara",
+          "slug": "villa-clara-cu16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.101",
+      "lon": "-79.948"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1607",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Placetas",
+      "en": "Placetas",
+      "slug": "placetas-cu1607"
+    },
+    "code": {
+      "id": "CU1607",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU16",
+      "level": 1,
+      "name": {
+        "local": "Villa Clara",
+        "en": "Villa Clara",
+        "slug": "villa-clara-cu16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU16",
+        "level": 1,
+        "name": {
+          "local": "Villa Clara",
+          "en": "Villa Clara",
+          "slug": "villa-clara-cu16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.15",
+      "lon": "-79.609"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1608",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Quemado de Güines",
+      "en": "Quemado de Guines",
+      "slug": "quemado-de-guines-cu1608"
+    },
+    "code": {
+      "id": "CU1608",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU16",
+      "level": 1,
+      "name": {
+        "local": "Villa Clara",
+        "en": "Villa Clara",
+        "slug": "villa-clara-cu16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU16",
+        "level": 1,
+        "name": {
+          "local": "Villa Clara",
+          "en": "Villa Clara",
+          "slug": "villa-clara-cu16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.805",
+      "lon": "-80.288"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1609",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ranchuelo",
+      "en": "Ranchuelo",
+      "slug": "ranchuelo-cu1609"
+    },
+    "code": {
+      "id": "CU1609",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU16",
+      "level": 1,
+      "name": {
+        "local": "Villa Clara",
+        "en": "Villa Clara",
+        "slug": "villa-clara-cu16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU16",
+        "level": 1,
+        "name": {
+          "local": "Villa Clara",
+          "en": "Villa Clara",
+          "slug": "villa-clara-cu16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.379",
+      "lon": "-80.137"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1610",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Remedios",
+      "en": "Remedios",
+      "slug": "remedios-cu1610"
+    },
+    "code": {
+      "id": "CU1610",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU16",
+      "level": 1,
+      "name": {
+        "local": "Villa Clara",
+        "en": "Villa Clara",
+        "slug": "villa-clara-cu16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU16",
+        "level": 1,
+        "name": {
+          "local": "Villa Clara",
+          "en": "Villa Clara",
+          "slug": "villa-clara-cu16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.322",
+      "lon": "-79.549"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1611",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Sagua la Grande",
+      "en": "Sagua la Grande",
+      "slug": "sagua-la-grande-cu1611"
+    },
+    "code": {
+      "id": "CU1611",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU16",
+      "level": 1,
+      "name": {
+        "local": "Villa Clara",
+        "en": "Villa Clara",
+        "slug": "villa-clara-cu16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU16",
+        "level": 1,
+        "name": {
+          "local": "Villa Clara",
+          "en": "Villa Clara",
+          "slug": "villa-clara-cu16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.805",
+      "lon": "-80.057"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1612",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santa Clara",
+      "en": "Santa Clara",
+      "slug": "santa-clara-cu1612"
+    },
+    "code": {
+      "id": "CU1612",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU16",
+      "level": 1,
+      "name": {
+        "local": "Villa Clara",
+        "en": "Villa Clara",
+        "slug": "villa-clara-cu16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU16",
+        "level": 1,
+        "name": {
+          "local": "Villa Clara",
+          "en": "Villa Clara",
+          "slug": "villa-clara-cu16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.345",
+      "lon": "-79.942"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1613",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santo Domingo",
+      "en": "Santo Domingo",
+      "slug": "santo-domingo-cu1613"
+    },
+    "code": {
+      "id": "CU1613",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU16",
+      "level": 1,
+      "name": {
+        "local": "Villa Clara",
+        "en": "Villa Clara",
+        "slug": "villa-clara-cu16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU16",
+        "level": 1,
+        "name": {
+          "local": "Villa Clara",
+          "en": "Villa Clara",
+          "slug": "villa-clara-cu16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.608",
+      "lon": "-80.35"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "id": "CU0714",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Urbano Noris",
+    "en": "Urbano Noris",
+    "slug": "urbano-noris-cu0714"
+  },
+  "code": {
+    "id": "CU0714",
+    "iso": null
+  },
+  "parent": {
+    "id": "CU07",
+    "level": 1,
+    "name": {
+      "local": "Holguín",
+      "en": "Holguin",
+      "slug": "holguin-cu07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CU07",
+      "level": 1,
+      "name": {
+        "local": "Holguín",
+        "en": "Holguin",
+        "slug": "holguin-cu07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.608",
+    "lon": "-76.254"
+  },
+  "metadata": {},
+  "source": {}
+}

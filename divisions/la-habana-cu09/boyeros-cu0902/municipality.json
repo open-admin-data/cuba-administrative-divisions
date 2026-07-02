@@ -1,0 +1,45 @@
+{
+  "id": "CU0902",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Boyeros",
+    "en": "Boyeros",
+    "slug": "boyeros-cu0902"
+  },
+  "code": {
+    "id": "CU0902",
+    "iso": null
+  },
+  "parent": {
+    "id": "CU09",
+    "level": 1,
+    "name": {
+      "local": "La Habana",
+      "en": "La Habana",
+      "slug": "la-habana-cu09"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CU09",
+      "level": 1,
+      "name": {
+        "local": "La Habana",
+        "en": "La Habana",
+        "slug": "la-habana-cu09"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.99",
+    "lon": "-82.384"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "CU1403",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Jatibonico",
+    "en": "Jatibonico",
+    "slug": "jatibonico-cu1403"
+  },
+  "code": {
+    "id": "CU1403",
+    "iso": null
+  },
+  "parent": {
+    "id": "CU14",
+    "level": 1,
+    "name": {
+      "local": "Sancti Spíritus",
+      "en": "Sancti Spiritus",
+      "slug": "sancti-spiritus-cu14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CU14",
+      "level": 1,
+      "name": {
+        "local": "Sancti Spíritus",
+        "en": "Sancti Spiritus",
+        "slug": "sancti-spiritus-cu14"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.913",
+    "lon": "-79.172"
+  },
+  "metadata": {},
+  "source": {}
+}

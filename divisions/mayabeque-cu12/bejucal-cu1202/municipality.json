@@ -1,0 +1,45 @@
+{
+  "id": "CU1202",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Bejucal",
+    "en": "Bejucal",
+    "slug": "bejucal-cu1202"
+  },
+  "code": {
+    "id": "CU1202",
+    "iso": null
+  },
+  "parent": {
+    "id": "CU12",
+    "level": 1,
+    "name": {
+      "local": "Mayabeque",
+      "en": "Mayabeque",
+      "slug": "mayabeque-cu12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CU12",
+      "level": 1,
+      "name": {
+        "local": "Mayabeque",
+        "en": "Mayabeque",
+        "slug": "mayabeque-cu12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.909",
+    "lon": "-82.339"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "CU0301",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Baraguá",
+    "en": "Baragua",
+    "slug": "baragua-cu0301"
+  },
+  "code": {
+    "id": "CU0301",
+    "iso": null
+  },
+  "parent": {
+    "id": "CU03",
+    "level": 1,
+    "name": {
+      "local": "Ciego de Ávila",
+      "en": "Ciego de Avila",
+      "slug": "ciego-de-avila-cu03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CU03",
+      "level": 1,
+      "name": {
+        "local": "Ciego de Ávila",
+        "en": "Ciego de Avila",
+        "slug": "ciego-de-avila-cu03"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.691",
+    "lon": "-78.526"
+  },
+  "metadata": {},
+  "source": {}
+}

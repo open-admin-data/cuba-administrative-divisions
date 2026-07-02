@@ -1,0 +1,45 @@
+{
+  "id": "CU1201",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Batabanó",
+    "en": "Batabano",
+    "slug": "batabano-cu1201"
+  },
+  "code": {
+    "id": "CU1201",
+    "iso": null
+  },
+  "parent": {
+    "id": "CU12",
+    "level": 1,
+    "name": {
+      "local": "Mayabeque",
+      "en": "Mayabeque",
+      "slug": "mayabeque-cu12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CU12",
+      "level": 1,
+      "name": {
+        "local": "Mayabeque",
+        "en": "Mayabeque",
+        "slug": "mayabeque-cu12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.755",
+    "lon": "-82.274"
+  },
+  "metadata": {},
+  "source": {}
+}

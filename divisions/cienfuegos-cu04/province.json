@@ -1,0 +1,33 @@
+{
+  "id": "CU04",
+  "level": 1,
+  "level_name": {
+    "local": "Provincia",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Cienfuegos",
+    "en": "Cienfuegos",
+    "slug": "cienfuegos-cu04"
+  },
+  "code": {
+    "id": "CU04",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "municipality": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.185",
+    "lon": "-80.488"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/cu/provinces/cienfuegos-cu04/",
+    "api": "https://openadmindata.org/api/cu/"
+  }
+}

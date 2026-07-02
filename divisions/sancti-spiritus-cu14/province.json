@@ -1,0 +1,33 @@
+{
+  "id": "CU14",
+  "level": 1,
+  "level_name": {
+    "local": "Provincia",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Sancti Spíritus",
+    "en": "Sancti Spiritus",
+    "slug": "sancti-spiritus-cu14"
+  },
+  "code": {
+    "id": "CU14",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "municipality": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "22",
+    "lon": "-79.359"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/cu/provinces/sancti-spiritus-cu14/",
+    "api": "https://openadmindata.org/api/cu/"
+  }
+}

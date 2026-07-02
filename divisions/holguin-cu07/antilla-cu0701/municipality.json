@@ -1,0 +1,45 @@
+{
+  "id": "CU0701",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Antilla",
+    "en": "Antilla",
+    "slug": "antilla-cu0701"
+  },
+  "code": {
+    "id": "CU0701",
+    "iso": null
+  },
+  "parent": {
+    "id": "CU07",
+    "level": 1,
+    "name": {
+      "local": "Holguín",
+      "en": "Holguin",
+      "slug": "holguin-cu07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CU07",
+      "level": 1,
+      "name": {
+        "local": "Holguín",
+        "en": "Holguin",
+        "slug": "holguin-cu07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.843",
+    "lon": "-75.708"
+  },
+  "metadata": {},
+  "source": {}
+}

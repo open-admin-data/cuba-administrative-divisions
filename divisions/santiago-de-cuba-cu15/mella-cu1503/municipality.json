@@ -1,0 +1,45 @@
+{
+  "id": "CU1503",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Mella",
+    "en": "Mella",
+    "slug": "mella-cu1503"
+  },
+  "code": {
+    "id": "CU1503",
+    "iso": null
+  },
+  "parent": {
+    "id": "CU15",
+    "level": 1,
+    "name": {
+      "local": "Santiago de Cuba",
+      "en": "Santiago de Cuba",
+      "slug": "santiago-de-cuba-cu15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CU15",
+      "level": 1,
+      "name": {
+        "local": "Santiago de Cuba",
+        "en": "Santiago de Cuba",
+        "slug": "santiago-de-cuba-cu15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.461",
+    "lon": "-75.951"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,59 @@
+# Ciego de Avila — Cuba Administrative Divisions
+
+> 10 municipalitys
+> Code: CU03
+> Coordinates: 21.955, -78.58
+> Last updated: 2026-07-02. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Baraguá (Baragua)
+
+Code: CU0301, Coordinates: 21.691, -78.526
+
+
+### Bolivia
+
+Code: CU0302, Coordinates: 22.071, -78.311
+
+
+### Chambas
+
+Code: CU0303, Coordinates: 22.048, -78.941
+
+
+### Ciego de ávila (Ciego de avila)
+
+Code: CU0304, Coordinates: 21.83, -78.809
+
+
+### Ciro Redodo
+
+Code: CU0305, Coordinates: 21.937, -78.727
+
+
+### Florencia
+
+Code: CU0306, Coordinates: 22.221, -78.858
+
+
+### Majagua
+
+Code: CU0307, Coordinates: 21.817, -79.009
+
+
+### Morón (Moron)
+
+Code: CU0308, Coordinates: 22.184, -78.592
+
+
+### Primero de Enero
+
+Code: CU0309, Coordinates: 21.863, -78.39
+
+
+### Venezuela
+
+Code: CU0310, Coordinates: 21.71, -78.837
+
+

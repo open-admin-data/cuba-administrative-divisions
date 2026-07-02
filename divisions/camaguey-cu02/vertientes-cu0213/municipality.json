@@ -1,0 +1,45 @@
+{
+  "id": "CU0213",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Vertientes",
+    "en": "Vertientes",
+    "slug": "vertientes-cu0213"
+  },
+  "code": {
+    "id": "CU0213",
+    "iso": null
+  },
+  "parent": {
+    "id": "CU02",
+    "level": 1,
+    "name": {
+      "local": "Camagüey",
+      "en": "Camaguey",
+      "slug": "camaguey-cu02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CU02",
+      "level": 1,
+      "name": {
+        "local": "Camagüey",
+        "en": "Camaguey",
+        "slug": "camaguey-cu02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.124",
+    "lon": "-78.326"
+  },
+  "metadata": {},
+  "source": {}
+}

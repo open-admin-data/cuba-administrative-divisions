@@ -1,0 +1,45 @@
+{
+  "id": "CU0107",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Guanajay",
+    "en": "Guanajay",
+    "slug": "guanajay-cu0107"
+  },
+  "code": {
+    "id": "CU0107",
+    "iso": null
+  },
+  "parent": {
+    "id": "CU01",
+    "level": 1,
+    "name": {
+      "local": "Artemisa",
+      "en": "Artemisa",
+      "slug": "artemisa-cu01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CU01",
+      "level": 1,
+      "name": {
+        "local": "Artemisa",
+        "en": "Artemisa",
+        "slug": "artemisa-cu01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.902",
+    "lon": "-82.709"
+  },
+  "metadata": {},
+  "source": {}
+}

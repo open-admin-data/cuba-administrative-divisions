@@ -1,0 +1,45 @@
+{
+  "id": "CU1008",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Puerto Padre",
+    "en": "Puerto Padre",
+    "slug": "puerto-padre-cu1008"
+  },
+  "code": {
+    "id": "CU1008",
+    "iso": null
+  },
+  "parent": {
+    "id": "CU10",
+    "level": 1,
+    "name": {
+      "local": "Las Tunas",
+      "en": "Las Tunas",
+      "slug": "las-tunas-cu10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CU10",
+      "level": 1,
+      "name": {
+        "local": "Las Tunas",
+        "en": "Las Tunas",
+        "slug": "las-tunas-cu10"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.156",
+    "lon": "-76.722"
+  },
+  "metadata": {},
+  "source": {}
+}

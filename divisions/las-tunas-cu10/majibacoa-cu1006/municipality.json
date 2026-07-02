@@ -1,0 +1,45 @@
+{
+  "id": "CU1006",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Majibacoa",
+    "en": "Majibacoa",
+    "slug": "majibacoa-cu1006"
+  },
+  "code": {
+    "id": "CU1006",
+    "iso": null
+  },
+  "parent": {
+    "id": "CU10",
+    "level": 1,
+    "name": {
+      "local": "Las Tunas",
+      "en": "Las Tunas",
+      "slug": "las-tunas-cu10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CU10",
+      "level": 1,
+      "name": {
+        "local": "Las Tunas",
+        "en": "Las Tunas",
+        "slug": "las-tunas-cu10"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.843",
+    "lon": "-76.792"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "CU1407",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Trinidad",
+    "en": "Trinidad",
+    "slug": "trinidad-cu1407"
+  },
+  "code": {
+    "id": "CU1407",
+    "iso": null
+  },
+  "parent": {
+    "id": "CU14",
+    "level": 1,
+    "name": {
+      "local": "Sancti Spíritus",
+      "en": "Sancti Spiritus",
+      "slug": "sancti-spiritus-cu14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CU14",
+      "level": 1,
+      "name": {
+        "local": "Sancti Spíritus",
+        "en": "Sancti Spiritus",
+        "slug": "sancti-spiritus-cu14"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.832",
+    "lon": "-79.907"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,407 @@
+[
+  {
+    "id": "CU1501",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Contramaestre",
+      "en": "Contramaestre",
+      "slug": "contramaestre-cu1501"
+    },
+    "code": {
+      "id": "CU1501",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU15",
+      "level": 1,
+      "name": {
+        "local": "Santiago de Cuba",
+        "en": "Santiago de Cuba",
+        "slug": "santiago-de-cuba-cu15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU15",
+        "level": 1,
+        "name": {
+          "local": "Santiago de Cuba",
+          "en": "Santiago de Cuba",
+          "slug": "santiago-de-cuba-cu15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.323",
+      "lon": "-76.224"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1502",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Guamá",
+      "en": "Guama",
+      "slug": "guama-cu1502"
+    },
+    "code": {
+      "id": "CU1502",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU15",
+      "level": 1,
+      "name": {
+        "local": "Santiago de Cuba",
+        "en": "Santiago de Cuba",
+        "slug": "santiago-de-cuba-cu15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU15",
+        "level": 1,
+        "name": {
+          "local": "Santiago de Cuba",
+          "en": "Santiago de Cuba",
+          "slug": "santiago-de-cuba-cu15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.994",
+      "lon": "-76.522"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1503",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Mella",
+      "en": "Mella",
+      "slug": "mella-cu1503"
+    },
+    "code": {
+      "id": "CU1503",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU15",
+      "level": 1,
+      "name": {
+        "local": "Santiago de Cuba",
+        "en": "Santiago de Cuba",
+        "slug": "santiago-de-cuba-cu15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU15",
+        "level": 1,
+        "name": {
+          "local": "Santiago de Cuba",
+          "en": "Santiago de Cuba",
+          "slug": "santiago-de-cuba-cu15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.461",
+      "lon": "-75.951"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1504",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Palma Soriano",
+      "en": "Palma Soriano",
+      "slug": "palma-soriano-cu1504"
+    },
+    "code": {
+      "id": "CU1504",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU15",
+      "level": 1,
+      "name": {
+        "local": "Santiago de Cuba",
+        "en": "Santiago de Cuba",
+        "slug": "santiago-de-cuba-cu15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU15",
+        "level": 1,
+        "name": {
+          "local": "Santiago de Cuba",
+          "en": "Santiago de Cuba",
+          "slug": "santiago-de-cuba-cu15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.238",
+      "lon": "-76.069"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1505",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Luis",
+      "en": "San Luis",
+      "slug": "san-luis-cu1505"
+    },
+    "code": {
+      "id": "CU1505",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU15",
+      "level": 1,
+      "name": {
+        "local": "Santiago de Cuba",
+        "en": "Santiago de Cuba",
+        "slug": "santiago-de-cuba-cu15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU15",
+        "level": 1,
+        "name": {
+          "local": "Santiago de Cuba",
+          "en": "Santiago de Cuba",
+          "slug": "santiago-de-cuba-cu15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.272",
+      "lon": "-75.831"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1506",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santiago de Cuba",
+      "en": "Santiago de Cuba",
+      "slug": "santiago-de-cuba-cu1506"
+    },
+    "code": {
+      "id": "CU1506",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU15",
+      "level": 1,
+      "name": {
+        "local": "Santiago de Cuba",
+        "en": "Santiago de Cuba",
+        "slug": "santiago-de-cuba-cu15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU15",
+        "level": 1,
+        "name": {
+          "local": "Santiago de Cuba",
+          "en": "Santiago de Cuba",
+          "slug": "santiago-de-cuba-cu15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.016",
+      "lon": "-75.669"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1507",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Segundo Frente",
+      "en": "Segundo Frente",
+      "slug": "segundo-frente-cu1507"
+    },
+    "code": {
+      "id": "CU1507",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU15",
+      "level": 1,
+      "name": {
+        "local": "Santiago de Cuba",
+        "en": "Santiago de Cuba",
+        "slug": "santiago-de-cuba-cu15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU15",
+        "level": 1,
+        "name": {
+          "local": "Santiago de Cuba",
+          "en": "Santiago de Cuba",
+          "slug": "santiago-de-cuba-cu15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.449",
+      "lon": "-75.479"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1508",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Songo-La Maya",
+      "en": "Songo-La Maya",
+      "slug": "songo-la-maya-cu1508"
+    },
+    "code": {
+      "id": "CU1508",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU15",
+      "level": 1,
+      "name": {
+        "local": "Santiago de Cuba",
+        "en": "Santiago de Cuba",
+        "slug": "santiago-de-cuba-cu15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU15",
+        "level": 1,
+        "name": {
+          "local": "Santiago de Cuba",
+          "en": "Santiago de Cuba",
+          "slug": "santiago-de-cuba-cu15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.21",
+      "lon": "-75.593"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1509",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tercer Frente",
+      "en": "Tercer Frente",
+      "slug": "tercer-frente-cu1509"
+    },
+    "code": {
+      "id": "CU1509",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU15",
+      "level": 1,
+      "name": {
+        "local": "Santiago de Cuba",
+        "en": "Santiago de Cuba",
+        "slug": "santiago-de-cuba-cu15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU15",
+        "level": 1,
+        "name": {
+          "local": "Santiago de Cuba",
+          "en": "Santiago de Cuba",
+          "slug": "santiago-de-cuba-cu15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.155",
+      "lon": "-76.266"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,33 @@
+{
+  "id": "CU05",
+  "level": 1,
+  "level_name": {
+    "local": "Provincia",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Granma",
+    "en": "Granma",
+    "slug": "granma-cu05"
+  },
+  "code": {
+    "id": "CU05",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "municipality": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.29",
+    "lon": "-76.763"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/cu/provinces/granma-cu05/",
+    "api": "https://openadmindata.org/api/cu/"
+  }
+}

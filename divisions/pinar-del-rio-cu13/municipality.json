@@ -1,0 +1,497 @@
+[
+  {
+    "id": "CU1301",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Consolación del Sur",
+      "en": "Consolacion del Sur",
+      "slug": "consolacion-del-sur-cu1301"
+    },
+    "code": {
+      "id": "CU1301",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU13",
+      "level": 1,
+      "name": {
+        "local": "Pinar del Río",
+        "en": "Pinar del Rio",
+        "slug": "pinar-del-rio-cu13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU13",
+        "level": 1,
+        "name": {
+          "local": "Pinar del Río",
+          "en": "Pinar del Rio",
+          "slug": "pinar-del-rio-cu13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.418",
+      "lon": "-83.421"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1302",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Guane",
+      "en": "Guane",
+      "slug": "guane-cu1302"
+    },
+    "code": {
+      "id": "CU1302",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU13",
+      "level": 1,
+      "name": {
+        "local": "Pinar del Río",
+        "en": "Pinar del Rio",
+        "slug": "pinar-del-rio-cu13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU13",
+        "level": 1,
+        "name": {
+          "local": "Pinar del Río",
+          "en": "Pinar del Rio",
+          "slug": "pinar-del-rio-cu13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.229",
+      "lon": "-84.066"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1303",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "La Palma",
+      "en": "La Palma",
+      "slug": "la-palma-cu1303"
+    },
+    "code": {
+      "id": "CU1303",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU13",
+      "level": 1,
+      "name": {
+        "local": "Pinar del Río",
+        "en": "Pinar del Rio",
+        "slug": "pinar-del-rio-cu13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU13",
+        "level": 1,
+        "name": {
+          "local": "Pinar del Río",
+          "en": "Pinar del Rio",
+          "slug": "pinar-del-rio-cu13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.731",
+      "lon": "-83.479"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1304",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Los Palacios",
+      "en": "Los Palacios",
+      "slug": "los-palacios-cu1304"
+    },
+    "code": {
+      "id": "CU1304",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU13",
+      "level": 1,
+      "name": {
+        "local": "Pinar del Río",
+        "en": "Pinar del Rio",
+        "slug": "pinar-del-rio-cu13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU13",
+        "level": 1,
+        "name": {
+          "local": "Pinar del Río",
+          "en": "Pinar del Rio",
+          "slug": "pinar-del-rio-cu13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.515",
+      "lon": "-83.209"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1305",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Mantua",
+      "en": "Mantua",
+      "slug": "mantua-cu1305"
+    },
+    "code": {
+      "id": "CU1305",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU13",
+      "level": 1,
+      "name": {
+        "local": "Pinar del Río",
+        "en": "Pinar del Rio",
+        "slug": "pinar-del-rio-cu13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU13",
+        "level": 1,
+        "name": {
+          "local": "Pinar del Río",
+          "en": "Pinar del Rio",
+          "slug": "pinar-del-rio-cu13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.335",
+      "lon": "-84.249"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1306",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Minas de Matahambre",
+      "en": "Minas de Matahambre",
+      "slug": "minas-de-matahambre-cu1306"
+    },
+    "code": {
+      "id": "CU1306",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU13",
+      "level": 1,
+      "name": {
+        "local": "Pinar del Río",
+        "en": "Pinar del Rio",
+        "slug": "pinar-del-rio-cu13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU13",
+        "level": 1,
+        "name": {
+          "local": "Pinar del Río",
+          "en": "Pinar del Rio",
+          "slug": "pinar-del-rio-cu13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.545",
+      "lon": "-83.981"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1307",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Pinar del Río",
+      "en": "Pinar del Rio",
+      "slug": "pinar-del-rio-cu1307"
+    },
+    "code": {
+      "id": "CU1307",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU13",
+      "level": 1,
+      "name": {
+        "local": "Pinar del Río",
+        "en": "Pinar del Rio",
+        "slug": "pinar-del-rio-cu13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU13",
+        "level": 1,
+        "name": {
+          "local": "Pinar del Río",
+          "en": "Pinar del Rio",
+          "slug": "pinar-del-rio-cu13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.355",
+      "lon": "-83.573"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1308",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Juan y Martínez",
+      "en": "San Juan y Martinez",
+      "slug": "san-juan-y-martinez-cu1308"
+    },
+    "code": {
+      "id": "CU1308",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU13",
+      "level": 1,
+      "name": {
+        "local": "Pinar del Río",
+        "en": "Pinar del Rio",
+        "slug": "pinar-del-rio-cu13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU13",
+        "level": 1,
+        "name": {
+          "local": "Pinar del Río",
+          "en": "Pinar del Rio",
+          "slug": "pinar-del-rio-cu13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.316",
+      "lon": "-83.84"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1309",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Luis",
+      "en": "San Luis",
+      "slug": "san-luis-cu1309"
+    },
+    "code": {
+      "id": "CU1309",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU13",
+      "level": 1,
+      "name": {
+        "local": "Pinar del Río",
+        "en": "Pinar del Rio",
+        "slug": "pinar-del-rio-cu13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU13",
+        "level": 1,
+        "name": {
+          "local": "Pinar del Río",
+          "en": "Pinar del Rio",
+          "slug": "pinar-del-rio-cu13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.265",
+      "lon": "-83.673"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1310",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Sandino",
+      "en": "Sandino",
+      "slug": "sandino-cu1310"
+    },
+    "code": {
+      "id": "CU1310",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU13",
+      "level": 1,
+      "name": {
+        "local": "Pinar del Río",
+        "en": "Pinar del Rio",
+        "slug": "pinar-del-rio-cu13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU13",
+        "level": 1,
+        "name": {
+          "local": "Pinar del Río",
+          "en": "Pinar del Rio",
+          "slug": "pinar-del-rio-cu13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.956",
+      "lon": "-84.35"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU1311",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Viñales",
+      "en": "Vinales",
+      "slug": "vinales-cu1311"
+    },
+    "code": {
+      "id": "CU1311",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU13",
+      "level": 1,
+      "name": {
+        "local": "Pinar del Río",
+        "en": "Pinar del Rio",
+        "slug": "pinar-del-rio-cu13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU13",
+        "level": 1,
+        "name": {
+          "local": "Pinar del Río",
+          "en": "Pinar del Rio",
+          "slug": "pinar-del-rio-cu13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.623",
+      "lon": "-83.703"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

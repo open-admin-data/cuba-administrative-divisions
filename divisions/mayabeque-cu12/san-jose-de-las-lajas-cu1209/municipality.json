@@ -1,0 +1,45 @@
+{
+  "id": "CU1209",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San José de las Lajas",
+    "en": "San Jose de las Lajas",
+    "slug": "san-jose-de-las-lajas-cu1209"
+  },
+  "code": {
+    "id": "CU1209",
+    "iso": null
+  },
+  "parent": {
+    "id": "CU12",
+    "level": 1,
+    "name": {
+      "local": "Mayabeque",
+      "en": "Mayabeque",
+      "slug": "mayabeque-cu12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CU12",
+      "level": 1,
+      "name": {
+        "local": "Mayabeque",
+        "en": "Mayabeque",
+        "slug": "mayabeque-cu12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.904",
+    "lon": "-82.136"
+  },
+  "metadata": {},
+  "source": {}
+}

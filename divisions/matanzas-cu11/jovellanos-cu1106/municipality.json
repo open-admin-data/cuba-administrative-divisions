@@ -1,0 +1,45 @@
+{
+  "id": "CU1106",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Jovellanos",
+    "en": "Jovellanos",
+    "slug": "jovellanos-cu1106"
+  },
+  "code": {
+    "id": "CU1106",
+    "iso": null
+  },
+  "parent": {
+    "id": "CU11",
+    "level": 1,
+    "name": {
+      "local": "Matanzas",
+      "en": "Matanzas",
+      "slug": "matanzas-cu11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CU11",
+      "level": 1,
+      "name": {
+        "local": "Matanzas",
+        "en": "Matanzas",
+        "slug": "matanzas-cu11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.79",
+    "lon": "-81.188"
+  },
+  "metadata": {},
+  "source": {}
+}

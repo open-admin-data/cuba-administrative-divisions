@@ -1,0 +1,2245 @@
+{
+  "_attribution": "Data from Open Admin Data (https://openadmindata.org/cu/) — CC-BY-4.0. Please cite: https://github.com/open-admin-data/cuba-administrative-divisions",
+  "data": [
+    {
+      "id": "CU01",
+      "name": {
+        "local": "Artemisa",
+        "en": "Artemisa",
+        "slug": "artemisa-cu01"
+      },
+      "code": {
+        "id": "CU01",
+        "iso": null
+      },
+      "municipality": [
+        {
+          "id": "CU0101",
+          "name": {
+            "local": "Alquízar",
+            "en": "Alquizar",
+            "slug": "alquizar-cu0101"
+          },
+          "code": {
+            "id": "CU0101",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU0102",
+          "name": {
+            "local": "Artemisa",
+            "en": "Artemisa",
+            "slug": "artemisa-cu0102"
+          },
+          "code": {
+            "id": "CU0102",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU0104",
+          "name": {
+            "local": "Bauta",
+            "en": "Bauta",
+            "slug": "bauta-cu0104"
+          },
+          "code": {
+            "id": "CU0104",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU0105",
+          "name": {
+            "local": "Caimito",
+            "en": "Caimito",
+            "slug": "caimito-cu0105"
+          },
+          "code": {
+            "id": "CU0105",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU0108",
+          "name": {
+            "local": "Güira de Melena",
+            "en": "Guira de Melena",
+            "slug": "guira-de-melena-cu0108"
+          },
+          "code": {
+            "id": "CU0108",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU0107",
+          "name": {
+            "local": "Guanajay",
+            "en": "Guanajay",
+            "slug": "guanajay-cu0107"
+          },
+          "code": {
+            "id": "CU0107",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU0109",
+          "name": {
+            "local": "Mariel",
+            "en": "Mariel",
+            "slug": "mariel-cu0109"
+          },
+          "code": {
+            "id": "CU0109",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU0110",
+          "name": {
+            "local": "San Antonio de los Baños",
+            "en": "San Antonio de los Banos",
+            "slug": "san-antonio-de-los-banos-cu0110"
+          },
+          "code": {
+            "id": "CU0110",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU0103",
+          "name": {
+            "local": "Bahía Honda",
+            "en": "Bahia Honda",
+            "slug": "bahia-honda-cu0103"
+          },
+          "code": {
+            "id": "CU0103",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU0106",
+          "name": {
+            "local": "Candelaria",
+            "en": "Candelaria",
+            "slug": "candelaria-cu0106"
+          },
+          "code": {
+            "id": "CU0106",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU0111",
+          "name": {
+            "local": "San Cristóbal",
+            "en": "San Cristobal",
+            "slug": "san-cristobal-cu0111"
+          },
+          "code": {
+            "id": "CU0111",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "CU02",
+      "name": {
+        "local": "Camagüey",
+        "en": "Camaguey",
+        "slug": "camaguey-cu02"
+      },
+      "code": {
+        "id": "CU02",
+        "iso": null
+      },
+      "municipality": [
+        {
+          "id": "CU0201",
+          "name": {
+            "local": "Camagüey",
+            "en": "Camaguey",
+            "slug": "camaguey-cu0201"
+          },
+          "code": {
+            "id": "CU0201",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU0202",
+          "name": {
+            "local": "Carlos Manuel de Céspedes",
+            "en": "Carlos Manuel de Cespedes",
+            "slug": "carlos-manuel-de-cespedes-cu0202"
+          },
+          "code": {
+            "id": "CU0202",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU0203",
+          "name": {
+            "local": "Esmeralda",
+            "en": "Esmeralda",
+            "slug": "esmeralda-cu0203"
+          },
+          "code": {
+            "id": "CU0203",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU0204",
+          "name": {
+            "local": "Florida",
+            "en": "Florida",
+            "slug": "florida-cu0204"
+          },
+          "code": {
+            "id": "CU0204",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU0205",
+          "name": {
+            "local": "Guáimaro",
+            "en": "Guaimaro",
+            "slug": "guaimaro-cu0205"
+          },
+          "code": {
+            "id": "CU0205",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU0206",
+          "name": {
+            "local": "Jimaguayú",
+            "en": "Jimaguayu",
+            "slug": "jimaguayu-cu0206"
+          },
+          "code": {
+            "id": "CU0206",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU0207",
+          "name": {
+            "local": "Minas",
+            "en": "Minas",
+            "slug": "minas-cu0207"
+          },
+          "code": {
+            "id": "CU0207",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU0208",
+          "name": {
+            "local": "Najasa",
+            "en": "Najasa",
+            "slug": "najasa-cu0208"
+          },
+          "code": {
+            "id": "CU0208",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU0209",
+          "name": {
+            "local": "Nuevitas",
+            "en": "Nuevitas",
+            "slug": "nuevitas-cu0209"
+          },
+          "code": {
+            "id": "CU0209",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU0210",
+          "name": {
+            "local": "Santa Cruz del Sur",
+            "en": "Santa Cruz del Sur",
+            "slug": "santa-cruz-del-sur-cu0210"
+          },
+          "code": {
+            "id": "CU0210",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU0211",
+          "name": {
+            "local": "Sibanicú",
+            "en": "Sibanicu",
+            "slug": "sibanicu-cu0211"
+          },
+          "code": {
+            "id": "CU0211",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU0212",
+          "name": {
+            "local": "Sierra de Cubitas",
+            "en": "Sierra de Cubitas",
+            "slug": "sierra-de-cubitas-cu0212"
+          },
+          "code": {
+            "id": "CU0212",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU0213",
+          "name": {
+            "local": "Vertientes",
+            "en": "Vertientes",
+            "slug": "vertientes-cu0213"
+          },
+          "code": {
+            "id": "CU0213",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "CU03",
+      "name": {
+        "local": "Ciego de Ávila",
+        "en": "Ciego de Avila",
+        "slug": "ciego-de-avila-cu03"
+      },
+      "code": {
+        "id": "CU03",
+        "iso": null
+      },
+      "municipality": [
+        {
+          "id": "CU0301",
+          "name": {
+            "local": "Baraguá",
+            "en": "Baragua",
+            "slug": "baragua-cu0301"
+          },
+          "code": {
+            "id": "CU0301",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU0302",
+          "name": {
+            "local": "Bolivia",
+            "en": "Bolivia",
+            "slug": "bolivia-cu0302"
+          },
+          "code": {
+            "id": "CU0302",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU0303",
+          "name": {
+            "local": "Chambas",
+            "en": "Chambas",
+            "slug": "chambas-cu0303"
+          },
+          "code": {
+            "id": "CU0303",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU0304",
+          "name": {
+            "local": "Ciego de ávila",
+            "en": "Ciego de avila",
+            "slug": "ciego-de-avila-cu0304"
+          },
+          "code": {
+            "id": "CU0304",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU0305",
+          "name": {
+            "local": "Ciro Redodo",
+            "en": "Ciro Redodo",
+            "slug": "ciro-redodo-cu0305"
+          },
+          "code": {
+            "id": "CU0305",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU0306",
+          "name": {
+            "local": "Florencia",
+            "en": "Florencia",
+            "slug": "florencia-cu0306"
+          },
+          "code": {
+            "id": "CU0306",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU0307",
+          "name": {
+            "local": "Majagua",
+            "en": "Majagua",
+            "slug": "majagua-cu0307"
+          },
+          "code": {
+            "id": "CU0307",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU0308",
+          "name": {
+            "local": "Morón",
+            "en": "Moron",
+            "slug": "moron-cu0308"
+          },
+          "code": {
+            "id": "CU0308",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU0309",
+          "name": {
+            "local": "Primero de Enero",
+            "en": "Primero de Enero",
+            "slug": "primero-de-enero-cu0309"
+          },
+          "code": {
+            "id": "CU0309",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU0310",
+          "name": {
+            "local": "Venezuela",
+            "en": "Venezuela",
+            "slug": "venezuela-cu0310"
+          },
+          "code": {
+            "id": "CU0310",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "CU04",
+      "name": {
+        "local": "Cienfuegos",
+        "en": "Cienfuegos",
+        "slug": "cienfuegos-cu04"
+      },
+      "code": {
+        "id": "CU04",
+        "iso": null
+      },
+      "municipality": [
+        {
+          "id": "CU0401",
+          "name": {
+            "local": "Abreus",
+            "en": "Abreus",
+            "slug": "abreus-cu0401"
+          },
+          "code": {
+            "id": "CU0401",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU0402",
+          "name": {
+            "local": "Aguada de Pasajeros",
+            "en": "Aguada de Pasajeros",
+            "slug": "aguada-de-pasajeros-cu0402"
+          },
+          "code": {
+            "id": "CU0402",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU0403",
+          "name": {
+            "local": "Ciefuegos",
+            "en": "Ciefuegos",
+            "slug": "ciefuegos-cu0403"
+          },
+          "code": {
+            "id": "CU0403",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU0404",
+          "name": {
+            "local": "Cruces",
+            "en": "Cruces",
+            "slug": "cruces-cu0404"
+          },
+          "code": {
+            "id": "CU0404",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU0405",
+          "name": {
+            "local": "Cumanayagua",
+            "en": "Cumanayagua",
+            "slug": "cumanayagua-cu0405"
+          },
+          "code": {
+            "id": "CU0405",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU0406",
+          "name": {
+            "local": "Lajas",
+            "en": "Lajas",
+            "slug": "lajas-cu0406"
+          },
+          "code": {
+            "id": "CU0406",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU0407",
+          "name": {
+            "local": "Palmira",
+            "en": "Palmira",
+            "slug": "palmira-cu0407"
+          },
+          "code": {
+            "id": "CU0407",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU0408",
+          "name": {
+            "local": "Rodas",
+            "en": "Rodas",
+            "slug": "rodas-cu0408"
+          },
+          "code": {
+            "id": "CU0408",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "CU05",
+      "name": {
+        "local": "Granma",
+        "en": "Granma",
+        "slug": "granma-cu05"
+      },
+      "code": {
+        "id": "CU05",
+        "iso": null
+      },
+      "municipality": [
+        {
+          "id": "CU0501",
+          "name": {
+            "local": "Bartolomé Masó",
+            "en": "Bartolome Maso",
+            "slug": "bartolome-maso-cu0501"
+          },
+          "code": {
+            "id": "CU0501",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU0502",
+          "name": {
+            "local": "Bayamo",
+            "en": "Bayamo",
+            "slug": "bayamo-cu0502"
+          },
+          "code": {
+            "id": "CU0502",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU0503",
+          "name": {
+            "local": "Buey Arriba",
+            "en": "Buey Arriba",
+            "slug": "buey-arriba-cu0503"
+          },
+          "code": {
+            "id": "CU0503",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU0504",
+          "name": {
+            "local": "Campechuela",
+            "en": "Campechuela",
+            "slug": "campechuela-cu0504"
+          },
+          "code": {
+            "id": "CU0504",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU0505",
+          "name": {
+            "local": "Cauto Cristo",
+            "en": "Cauto Cristo",
+            "slug": "cauto-cristo-cu0505"
+          },
+          "code": {
+            "id": "CU0505",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU0506",
+          "name": {
+            "local": "Guisa",
+            "en": "Guisa",
+            "slug": "guisa-cu0506"
+          },
+          "code": {
+            "id": "CU0506",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU0507",
+          "name": {
+            "local": "Jiguaní",
+            "en": "Jiguani",
+            "slug": "jiguani-cu0507"
+          },
+          "code": {
+            "id": "CU0507",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU0508",
+          "name": {
+            "local": "Manzanillo",
+            "en": "Manzanillo",
+            "slug": "manzanillo-cu0508"
+          },
+          "code": {
+            "id": "CU0508",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU0509",
+          "name": {
+            "local": "Media Luna",
+            "en": "Media Luna",
+            "slug": "media-luna-cu0509"
+          },
+          "code": {
+            "id": "CU0509",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU0510",
+          "name": {
+            "local": "Niquero",
+            "en": "Niquero",
+            "slug": "niquero-cu0510"
+          },
+          "code": {
+            "id": "CU0510",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU0511",
+          "name": {
+            "local": "Pilón",
+            "en": "Pilon",
+            "slug": "pilon-cu0511"
+          },
+          "code": {
+            "id": "CU0511",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU0512",
+          "name": {
+            "local": "Río Cauto",
+            "en": "Rio Cauto",
+            "slug": "rio-cauto-cu0512"
+          },
+          "code": {
+            "id": "CU0512",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU0513",
+          "name": {
+            "local": "Yara",
+            "en": "Yara",
+            "slug": "yara-cu0513"
+          },
+          "code": {
+            "id": "CU0513",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "CU06",
+      "name": {
+        "local": "Guantánamo",
+        "en": "Guantanamo",
+        "slug": "guantanamo-cu06"
+      },
+      "code": {
+        "id": "CU06",
+        "iso": null
+      },
+      "municipality": [
+        {
+          "id": "CU0601",
+          "name": {
+            "local": "Baracoa",
+            "en": "Baracoa",
+            "slug": "baracoa-cu0601"
+          },
+          "code": {
+            "id": "CU0601",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU0602",
+          "name": {
+            "local": "Caimanera",
+            "en": "Caimanera",
+            "slug": "caimanera-cu0602"
+          },
+          "code": {
+            "id": "CU0602",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU0603",
+          "name": {
+            "local": "El Salvador",
+            "en": "El Salvador",
+            "slug": "el-salvador-cu0603"
+          },
+          "code": {
+            "id": "CU0603",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU0604",
+          "name": {
+            "local": "Guantánamo",
+            "en": "Guantanamo",
+            "slug": "guantanamo-cu0604"
+          },
+          "code": {
+            "id": "CU0604",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU0605",
+          "name": {
+            "local": "Imías",
+            "en": "Imias",
+            "slug": "imias-cu0605"
+          },
+          "code": {
+            "id": "CU0605",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU0606",
+          "name": {
+            "local": "Maisí",
+            "en": "Maisi",
+            "slug": "maisi-cu0606"
+          },
+          "code": {
+            "id": "CU0606",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU0607",
+          "name": {
+            "local": "Manuel Tames",
+            "en": "Manuel Tames",
+            "slug": "manuel-tames-cu0607"
+          },
+          "code": {
+            "id": "CU0607",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU0608",
+          "name": {
+            "local": "Niceto Pérez",
+            "en": "Niceto Perez",
+            "slug": "niceto-perez-cu0608"
+          },
+          "code": {
+            "id": "CU0608",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU0609",
+          "name": {
+            "local": "San Antonio del Sur",
+            "en": "San Antonio del Sur",
+            "slug": "san-antonio-del-sur-cu0609"
+          },
+          "code": {
+            "id": "CU0609",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU0610",
+          "name": {
+            "local": "Yateras",
+            "en": "Yateras",
+            "slug": "yateras-cu0610"
+          },
+          "code": {
+            "id": "CU0610",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "CU07",
+      "name": {
+        "local": "Holguín",
+        "en": "Holguin",
+        "slug": "holguin-cu07"
+      },
+      "code": {
+        "id": "CU07",
+        "iso": null
+      },
+      "municipality": [
+        {
+          "id": "CU0701",
+          "name": {
+            "local": "Antilla",
+            "en": "Antilla",
+            "slug": "antilla-cu0701"
+          },
+          "code": {
+            "id": "CU0701",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU0702",
+          "name": {
+            "local": "Báguanos",
+            "en": "Baguanos",
+            "slug": "baguanos-cu0702"
+          },
+          "code": {
+            "id": "CU0702",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU0703",
+          "name": {
+            "local": "Banes",
+            "en": "Banes",
+            "slug": "banes-cu0703"
+          },
+          "code": {
+            "id": "CU0703",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU0704",
+          "name": {
+            "local": "Cacocum",
+            "en": "Cacocum",
+            "slug": "cacocum-cu0704"
+          },
+          "code": {
+            "id": "CU0704",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU0705",
+          "name": {
+            "local": "Calixto García",
+            "en": "Calixto Garcia",
+            "slug": "calixto-garcia-cu0705"
+          },
+          "code": {
+            "id": "CU0705",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU0706",
+          "name": {
+            "local": "Cueto",
+            "en": "Cueto",
+            "slug": "cueto-cu0706"
+          },
+          "code": {
+            "id": "CU0706",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU0707",
+          "name": {
+            "local": "Frak País",
+            "en": "Frak Pais",
+            "slug": "frak-pais-cu0707"
+          },
+          "code": {
+            "id": "CU0707",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU0708",
+          "name": {
+            "local": "Gibara",
+            "en": "Gibara",
+            "slug": "gibara-cu0708"
+          },
+          "code": {
+            "id": "CU0708",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU0709",
+          "name": {
+            "local": "Holguín",
+            "en": "Holguin",
+            "slug": "holguin-cu0709"
+          },
+          "code": {
+            "id": "CU0709",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU0710",
+          "name": {
+            "local": "Mayarí",
+            "en": "Mayari",
+            "slug": "mayari-cu0710"
+          },
+          "code": {
+            "id": "CU0710",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU0711",
+          "name": {
+            "local": "Moa",
+            "en": "Moa",
+            "slug": "moa-cu0711"
+          },
+          "code": {
+            "id": "CU0711",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU0712",
+          "name": {
+            "local": "Rafael Freyre",
+            "en": "Rafael Freyre",
+            "slug": "rafael-freyre-cu0712"
+          },
+          "code": {
+            "id": "CU0712",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU0713",
+          "name": {
+            "local": "Sagua de Tánamo",
+            "en": "Sagua de Tanamo",
+            "slug": "sagua-de-tanamo-cu0713"
+          },
+          "code": {
+            "id": "CU0713",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU0714",
+          "name": {
+            "local": "Urbano Noris",
+            "en": "Urbano Noris",
+            "slug": "urbano-noris-cu0714"
+          },
+          "code": {
+            "id": "CU0714",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "CU08",
+      "name": {
+        "local": "Isla de la Juventud",
+        "en": "Isla de la Juventud",
+        "slug": "isla-de-la-juventud-cu08"
+      },
+      "code": {
+        "id": "CU08",
+        "iso": null
+      },
+      "municipality": [
+        {
+          "id": "CU0801",
+          "name": {
+            "local": "Isla de la Juventud",
+            "en": "Isla de la Juventud",
+            "slug": "isla-de-la-juventud-cu0801"
+          },
+          "code": {
+            "id": "CU0801",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "CU09",
+      "name": {
+        "local": "La Habana",
+        "en": "La Habana",
+        "slug": "la-habana-cu09"
+      },
+      "code": {
+        "id": "CU09",
+        "iso": null
+      },
+      "municipality": [
+        {
+          "id": "CU0901",
+          "name": {
+            "local": "Arroyo Naranjo",
+            "en": "Arroyo Naranjo",
+            "slug": "arroyo-naranjo-cu0901"
+          },
+          "code": {
+            "id": "CU0901",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU0902",
+          "name": {
+            "local": "Boyeros",
+            "en": "Boyeros",
+            "slug": "boyeros-cu0902"
+          },
+          "code": {
+            "id": "CU0902",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU0903",
+          "name": {
+            "local": "Centro Habana",
+            "en": "Centro Habana",
+            "slug": "centro-habana-cu0903"
+          },
+          "code": {
+            "id": "CU0903",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU0904",
+          "name": {
+            "local": "Cerro",
+            "en": "Cerro",
+            "slug": "cerro-cu0904"
+          },
+          "code": {
+            "id": "CU0904",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU0905",
+          "name": {
+            "local": "Cotorro",
+            "en": "Cotorro",
+            "slug": "cotorro-cu0905"
+          },
+          "code": {
+            "id": "CU0905",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU0906",
+          "name": {
+            "local": "Diez de Octubre",
+            "en": "Diez de Octubre",
+            "slug": "diez-de-octubre-cu0906"
+          },
+          "code": {
+            "id": "CU0906",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU0907",
+          "name": {
+            "local": "Guanabacoa",
+            "en": "Guanabacoa",
+            "slug": "guanabacoa-cu0907"
+          },
+          "code": {
+            "id": "CU0907",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU0908",
+          "name": {
+            "local": "La Habana del Este",
+            "en": "La Habana del Este",
+            "slug": "la-habana-del-este-cu0908"
+          },
+          "code": {
+            "id": "CU0908",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU0909",
+          "name": {
+            "local": "La Habana Vieja",
+            "en": "La Habana Vieja",
+            "slug": "la-habana-vieja-cu0909"
+          },
+          "code": {
+            "id": "CU0909",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU0910",
+          "name": {
+            "local": "La Lisa",
+            "en": "La Lisa",
+            "slug": "la-lisa-cu0910"
+          },
+          "code": {
+            "id": "CU0910",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU0911",
+          "name": {
+            "local": "Marianao",
+            "en": "Marianao",
+            "slug": "marianao-cu0911"
+          },
+          "code": {
+            "id": "CU0911",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU0912",
+          "name": {
+            "local": "Playa",
+            "en": "Playa",
+            "slug": "playa-cu0912"
+          },
+          "code": {
+            "id": "CU0912",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU0913",
+          "name": {
+            "local": "Plaza de la Revolución",
+            "en": "Plaza de la Revolucion",
+            "slug": "plaza-de-la-revolucion-cu0913"
+          },
+          "code": {
+            "id": "CU0913",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU0914",
+          "name": {
+            "local": "Regla",
+            "en": "Regla",
+            "slug": "regla-cu0914"
+          },
+          "code": {
+            "id": "CU0914",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU0915",
+          "name": {
+            "local": "San Miguel del Padrón",
+            "en": "San Miguel del Padron",
+            "slug": "san-miguel-del-padron-cu0915"
+          },
+          "code": {
+            "id": "CU0915",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "CU10",
+      "name": {
+        "local": "Las Tunas",
+        "en": "Las Tunas",
+        "slug": "las-tunas-cu10"
+      },
+      "code": {
+        "id": "CU10",
+        "iso": null
+      },
+      "municipality": [
+        {
+          "id": "CU1001",
+          "name": {
+            "local": "Amancio",
+            "en": "Amancio",
+            "slug": "amancio-cu1001"
+          },
+          "code": {
+            "id": "CU1001",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU1002",
+          "name": {
+            "local": "Colombia",
+            "en": "Colombia",
+            "slug": "colombia-cu1002"
+          },
+          "code": {
+            "id": "CU1002",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU1003",
+          "name": {
+            "local": "Jesús Menéndez",
+            "en": "Jesus Menendez",
+            "slug": "jesus-menendez-cu1003"
+          },
+          "code": {
+            "id": "CU1003",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU1004",
+          "name": {
+            "local": "Jobabo",
+            "en": "Jobabo",
+            "slug": "jobabo-cu1004"
+          },
+          "code": {
+            "id": "CU1004",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU1005",
+          "name": {
+            "local": "Las Tunas",
+            "en": "Las Tunas",
+            "slug": "las-tunas-cu1005"
+          },
+          "code": {
+            "id": "CU1005",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU1006",
+          "name": {
+            "local": "Majibacoa",
+            "en": "Majibacoa",
+            "slug": "majibacoa-cu1006"
+          },
+          "code": {
+            "id": "CU1006",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU1007",
+          "name": {
+            "local": "Manatí",
+            "en": "Manati",
+            "slug": "manati-cu1007"
+          },
+          "code": {
+            "id": "CU1007",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU1008",
+          "name": {
+            "local": "Puerto Padre",
+            "en": "Puerto Padre",
+            "slug": "puerto-padre-cu1008"
+          },
+          "code": {
+            "id": "CU1008",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "CU11",
+      "name": {
+        "local": "Matanzas",
+        "en": "Matanzas",
+        "slug": "matanzas-cu11"
+      },
+      "code": {
+        "id": "CU11",
+        "iso": null
+      },
+      "municipality": [
+        {
+          "id": "CU1101",
+          "name": {
+            "local": "Cárdenas",
+            "en": "Cardenas",
+            "slug": "cardenas-cu1101"
+          },
+          "code": {
+            "id": "CU1101",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU1102",
+          "name": {
+            "local": "Calimete",
+            "en": "Calimete",
+            "slug": "calimete-cu1102"
+          },
+          "code": {
+            "id": "CU1102",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU1103",
+          "name": {
+            "local": "Ciénaga de Zapata",
+            "en": "Cienaga de Zapata",
+            "slug": "cienaga-de-zapata-cu1103"
+          },
+          "code": {
+            "id": "CU1103",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU1104",
+          "name": {
+            "local": "Colón",
+            "en": "Colon",
+            "slug": "colon-cu1104"
+          },
+          "code": {
+            "id": "CU1104",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU1105",
+          "name": {
+            "local": "Jagüey Grande",
+            "en": "Jaguey Grande",
+            "slug": "jaguey-grande-cu1105"
+          },
+          "code": {
+            "id": "CU1105",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU1106",
+          "name": {
+            "local": "Jovellanos",
+            "en": "Jovellanos",
+            "slug": "jovellanos-cu1106"
+          },
+          "code": {
+            "id": "CU1106",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU1107",
+          "name": {
+            "local": "Limonar",
+            "en": "Limonar",
+            "slug": "limonar-cu1107"
+          },
+          "code": {
+            "id": "CU1107",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU1108",
+          "name": {
+            "local": "Los Arabos",
+            "en": "Los Arabos",
+            "slug": "los-arabos-cu1108"
+          },
+          "code": {
+            "id": "CU1108",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU1109",
+          "name": {
+            "local": "Martí",
+            "en": "Marti",
+            "slug": "marti-cu1109"
+          },
+          "code": {
+            "id": "CU1109",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU1110",
+          "name": {
+            "local": "Matanzas",
+            "en": "Matanzas",
+            "slug": "matanzas-cu1110"
+          },
+          "code": {
+            "id": "CU1110",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU1111",
+          "name": {
+            "local": "Pedro Betancourt",
+            "en": "Pedro Betancourt",
+            "slug": "pedro-betancourt-cu1111"
+          },
+          "code": {
+            "id": "CU1111",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU1112",
+          "name": {
+            "local": "Perico",
+            "en": "Perico",
+            "slug": "perico-cu1112"
+          },
+          "code": {
+            "id": "CU1112",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU1113",
+          "name": {
+            "local": "Unión de Reyes",
+            "en": "Union de Reyes",
+            "slug": "union-de-reyes-cu1113"
+          },
+          "code": {
+            "id": "CU1113",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "CU12",
+      "name": {
+        "local": "Mayabeque",
+        "en": "Mayabeque",
+        "slug": "mayabeque-cu12"
+      },
+      "code": {
+        "id": "CU12",
+        "iso": null
+      },
+      "municipality": [
+        {
+          "id": "CU1201",
+          "name": {
+            "local": "Batabanó",
+            "en": "Batabano",
+            "slug": "batabano-cu1201"
+          },
+          "code": {
+            "id": "CU1201",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU1202",
+          "name": {
+            "local": "Bejucal",
+            "en": "Bejucal",
+            "slug": "bejucal-cu1202"
+          },
+          "code": {
+            "id": "CU1202",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU1203",
+          "name": {
+            "local": "Güines",
+            "en": "Guines",
+            "slug": "guines-cu1203"
+          },
+          "code": {
+            "id": "CU1203",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU1204",
+          "name": {
+            "local": "Jaruco",
+            "en": "Jaruco",
+            "slug": "jaruco-cu1204"
+          },
+          "code": {
+            "id": "CU1204",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU1205",
+          "name": {
+            "local": "Madruga",
+            "en": "Madruga",
+            "slug": "madruga-cu1205"
+          },
+          "code": {
+            "id": "CU1205",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU1206",
+          "name": {
+            "local": "Melena del Sur",
+            "en": "Melena del Sur",
+            "slug": "melena-del-sur-cu1206"
+          },
+          "code": {
+            "id": "CU1206",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU1207",
+          "name": {
+            "local": "Nueva Paz",
+            "en": "Nueva Paz",
+            "slug": "nueva-paz-cu1207"
+          },
+          "code": {
+            "id": "CU1207",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU1208",
+          "name": {
+            "local": "Quivicán",
+            "en": "Quivican",
+            "slug": "quivican-cu1208"
+          },
+          "code": {
+            "id": "CU1208",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU1209",
+          "name": {
+            "local": "San José de las Lajas",
+            "en": "San Jose de las Lajas",
+            "slug": "san-jose-de-las-lajas-cu1209"
+          },
+          "code": {
+            "id": "CU1209",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU1210",
+          "name": {
+            "local": "San Nicolás",
+            "en": "San Nicolas",
+            "slug": "san-nicolas-cu1210"
+          },
+          "code": {
+            "id": "CU1210",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU1211",
+          "name": {
+            "local": "Santa Cruz del Norte",
+            "en": "Santa Cruz del Norte",
+            "slug": "santa-cruz-del-norte-cu1211"
+          },
+          "code": {
+            "id": "CU1211",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "CU13",
+      "name": {
+        "local": "Pinar del Río",
+        "en": "Pinar del Rio",
+        "slug": "pinar-del-rio-cu13"
+      },
+      "code": {
+        "id": "CU13",
+        "iso": null
+      },
+      "municipality": [
+        {
+          "id": "CU1301",
+          "name": {
+            "local": "Consolación del Sur",
+            "en": "Consolacion del Sur",
+            "slug": "consolacion-del-sur-cu1301"
+          },
+          "code": {
+            "id": "CU1301",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU1302",
+          "name": {
+            "local": "Guane",
+            "en": "Guane",
+            "slug": "guane-cu1302"
+          },
+          "code": {
+            "id": "CU1302",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU1303",
+          "name": {
+            "local": "La Palma",
+            "en": "La Palma",
+            "slug": "la-palma-cu1303"
+          },
+          "code": {
+            "id": "CU1303",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU1304",
+          "name": {
+            "local": "Los Palacios",
+            "en": "Los Palacios",
+            "slug": "los-palacios-cu1304"
+          },
+          "code": {
+            "id": "CU1304",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU1305",
+          "name": {
+            "local": "Mantua",
+            "en": "Mantua",
+            "slug": "mantua-cu1305"
+          },
+          "code": {
+            "id": "CU1305",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU1306",
+          "name": {
+            "local": "Minas de Matahambre",
+            "en": "Minas de Matahambre",
+            "slug": "minas-de-matahambre-cu1306"
+          },
+          "code": {
+            "id": "CU1306",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU1307",
+          "name": {
+            "local": "Pinar del Río",
+            "en": "Pinar del Rio",
+            "slug": "pinar-del-rio-cu1307"
+          },
+          "code": {
+            "id": "CU1307",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU1308",
+          "name": {
+            "local": "San Juan y Martínez",
+            "en": "San Juan y Martinez",
+            "slug": "san-juan-y-martinez-cu1308"
+          },
+          "code": {
+            "id": "CU1308",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU1309",
+          "name": {
+            "local": "San Luis",
+            "en": "San Luis",
+            "slug": "san-luis-cu1309"
+          },
+          "code": {
+            "id": "CU1309",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU1310",
+          "name": {
+            "local": "Sandino",
+            "en": "Sandino",
+            "slug": "sandino-cu1310"
+          },
+          "code": {
+            "id": "CU1310",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU1311",
+          "name": {
+            "local": "Viñales",
+            "en": "Vinales",
+            "slug": "vinales-cu1311"
+          },
+          "code": {
+            "id": "CU1311",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "CU14",
+      "name": {
+        "local": "Sancti Spíritus",
+        "en": "Sancti Spiritus",
+        "slug": "sancti-spiritus-cu14"
+      },
+      "code": {
+        "id": "CU14",
+        "iso": null
+      },
+      "municipality": [
+        {
+          "id": "CU1401",
+          "name": {
+            "local": "Cabaiguán",
+            "en": "Cabaiguan",
+            "slug": "cabaiguan-cu1401"
+          },
+          "code": {
+            "id": "CU1401",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU1402",
+          "name": {
+            "local": "Fomento",
+            "en": "Fomento",
+            "slug": "fomento-cu1402"
+          },
+          "code": {
+            "id": "CU1402",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU1403",
+          "name": {
+            "local": "Jatibonico",
+            "en": "Jatibonico",
+            "slug": "jatibonico-cu1403"
+          },
+          "code": {
+            "id": "CU1403",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU1404",
+          "name": {
+            "local": "La Sierpe",
+            "en": "La Sierpe",
+            "slug": "la-sierpe-cu1404"
+          },
+          "code": {
+            "id": "CU1404",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU1405",
+          "name": {
+            "local": "Sancti Spíritus",
+            "en": "Sancti Spiritus",
+            "slug": "sancti-spiritus-cu1405"
+          },
+          "code": {
+            "id": "CU1405",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU1406",
+          "name": {
+            "local": "Taguasco",
+            "en": "Taguasco",
+            "slug": "taguasco-cu1406"
+          },
+          "code": {
+            "id": "CU1406",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU1407",
+          "name": {
+            "local": "Trinidad",
+            "en": "Trinidad",
+            "slug": "trinidad-cu1407"
+          },
+          "code": {
+            "id": "CU1407",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU1408",
+          "name": {
+            "local": "Yaguajay",
+            "en": "Yaguajay",
+            "slug": "yaguajay-cu1408"
+          },
+          "code": {
+            "id": "CU1408",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "CU15",
+      "name": {
+        "local": "Santiago de Cuba",
+        "en": "Santiago de Cuba",
+        "slug": "santiago-de-cuba-cu15"
+      },
+      "code": {
+        "id": "CU15",
+        "iso": null
+      },
+      "municipality": [
+        {
+          "id": "CU1501",
+          "name": {
+            "local": "Contramaestre",
+            "en": "Contramaestre",
+            "slug": "contramaestre-cu1501"
+          },
+          "code": {
+            "id": "CU1501",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU1502",
+          "name": {
+            "local": "Guamá",
+            "en": "Guama",
+            "slug": "guama-cu1502"
+          },
+          "code": {
+            "id": "CU1502",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU1503",
+          "name": {
+            "local": "Mella",
+            "en": "Mella",
+            "slug": "mella-cu1503"
+          },
+          "code": {
+            "id": "CU1503",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU1504",
+          "name": {
+            "local": "Palma Soriano",
+            "en": "Palma Soriano",
+            "slug": "palma-soriano-cu1504"
+          },
+          "code": {
+            "id": "CU1504",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU1505",
+          "name": {
+            "local": "San Luis",
+            "en": "San Luis",
+            "slug": "san-luis-cu1505"
+          },
+          "code": {
+            "id": "CU1505",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU1506",
+          "name": {
+            "local": "Santiago de Cuba",
+            "en": "Santiago de Cuba",
+            "slug": "santiago-de-cuba-cu1506"
+          },
+          "code": {
+            "id": "CU1506",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU1507",
+          "name": {
+            "local": "Segundo Frente",
+            "en": "Segundo Frente",
+            "slug": "segundo-frente-cu1507"
+          },
+          "code": {
+            "id": "CU1507",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU1508",
+          "name": {
+            "local": "Songo-La Maya",
+            "en": "Songo-La Maya",
+            "slug": "songo-la-maya-cu1508"
+          },
+          "code": {
+            "id": "CU1508",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU1509",
+          "name": {
+            "local": "Tercer Frente",
+            "en": "Tercer Frente",
+            "slug": "tercer-frente-cu1509"
+          },
+          "code": {
+            "id": "CU1509",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "CU16",
+      "name": {
+        "local": "Villa Clara",
+        "en": "Villa Clara",
+        "slug": "villa-clara-cu16"
+      },
+      "code": {
+        "id": "CU16",
+        "iso": null
+      },
+      "municipality": [
+        {
+          "id": "CU1601",
+          "name": {
+            "local": "Caibarién",
+            "en": "Caibarien",
+            "slug": "caibarien-cu1601"
+          },
+          "code": {
+            "id": "CU1601",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU1602",
+          "name": {
+            "local": "Camajuaní",
+            "en": "Camajuani",
+            "slug": "camajuani-cu1602"
+          },
+          "code": {
+            "id": "CU1602",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU1603",
+          "name": {
+            "local": "Cifuentes",
+            "en": "Cifuentes",
+            "slug": "cifuentes-cu1603"
+          },
+          "code": {
+            "id": "CU1603",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU1604",
+          "name": {
+            "local": "Corralillo",
+            "en": "Corralillo",
+            "slug": "corralillo-cu1604"
+          },
+          "code": {
+            "id": "CU1604",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU1605",
+          "name": {
+            "local": "Encrucijada",
+            "en": "Encrucijada",
+            "slug": "encrucijada-cu1605"
+          },
+          "code": {
+            "id": "CU1605",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU1606",
+          "name": {
+            "local": "Manicaragua",
+            "en": "Manicaragua",
+            "slug": "manicaragua-cu1606"
+          },
+          "code": {
+            "id": "CU1606",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU1607",
+          "name": {
+            "local": "Placetas",
+            "en": "Placetas",
+            "slug": "placetas-cu1607"
+          },
+          "code": {
+            "id": "CU1607",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU1608",
+          "name": {
+            "local": "Quemado de Güines",
+            "en": "Quemado de Guines",
+            "slug": "quemado-de-guines-cu1608"
+          },
+          "code": {
+            "id": "CU1608",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU1609",
+          "name": {
+            "local": "Ranchuelo",
+            "en": "Ranchuelo",
+            "slug": "ranchuelo-cu1609"
+          },
+          "code": {
+            "id": "CU1609",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU1610",
+          "name": {
+            "local": "Remedios",
+            "en": "Remedios",
+            "slug": "remedios-cu1610"
+          },
+          "code": {
+            "id": "CU1610",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU1611",
+          "name": {
+            "local": "Sagua la Grande",
+            "en": "Sagua la Grande",
+            "slug": "sagua-la-grande-cu1611"
+          },
+          "code": {
+            "id": "CU1611",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU1612",
+          "name": {
+            "local": "Santa Clara",
+            "en": "Santa Clara",
+            "slug": "santa-clara-cu1612"
+          },
+          "code": {
+            "id": "CU1612",
+            "iso": null
+          }
+        },
+        {
+          "id": "CU1613",
+          "name": {
+            "local": "Santo Domingo",
+            "en": "Santo Domingo",
+            "slug": "santo-domingo-cu1613"
+          },
+          "code": {
+            "id": "CU1613",
+            "iso": null
+          }
+        }
+      ]
+    }
+  ]
+}

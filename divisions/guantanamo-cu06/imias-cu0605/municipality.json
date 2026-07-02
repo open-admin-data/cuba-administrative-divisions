@@ -1,0 +1,45 @@
+{
+  "id": "CU0605",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Imías",
+    "en": "Imias",
+    "slug": "imias-cu0605"
+  },
+  "code": {
+    "id": "CU0605",
+    "iso": null
+  },
+  "parent": {
+    "id": "CU06",
+    "level": 1,
+    "name": {
+      "local": "Guantánamo",
+      "en": "Guantanamo",
+      "slug": "guantanamo-cu06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CU06",
+      "level": 1,
+      "name": {
+        "local": "Guantánamo",
+        "en": "Guantanamo",
+        "slug": "guantanamo-cu06"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.179",
+    "lon": "-74.588"
+  },
+  "metadata": {},
+  "source": {}
+}

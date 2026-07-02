@@ -1,0 +1,33 @@
+{
+  "id": "CU10",
+  "level": 1,
+  "level_name": {
+    "local": "Provincia",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Las Tunas",
+    "en": "Las Tunas",
+    "slug": "las-tunas-cu10"
+  },
+  "code": {
+    "id": "CU10",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "municipality": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.05",
+    "lon": "-76.872"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/cu/provinces/las-tunas-cu10/",
+    "api": "https://openadmindata.org/api/cu/"
+  }
+}

@@ -1,0 +1,82 @@
+# Cuba Administrative Divisions
+
+> Open dataset of Cuba's administrative hierarchy:
+> 16 provinces, 168 municipalitys.
+> CC-BY-4.0 licensed.
+
+## Quick Reference
+
+- Total provinces: 16
+- Total municipalitys: 168
+- Coordinates: included (all levels)
+- Last updated: 2026-07-02
+- License: CC-BY-4.0
+
+## Aggregate Data Files
+
+- [All provinces (JSON)](https://raw.githubusercontent.com/open-admin-data/cuba-administrative-divisions/main/data/all-province.json)
+- [All municipalitys (JSON)](https://raw.githubusercontent.com/open-admin-data/cuba-administrative-divisions/main/data/all-municipality.json)
+- [Flat array (NDJSON)](https://raw.githubusercontent.com/open-admin-data/cuba-administrative-divisions/main/data/all-flat.ndjson)
+- [Hierarchy tree (JSON)](https://raw.githubusercontent.com/open-admin-data/cuba-administrative-divisions/main/data/hierarchy.json)
+- [JSON Schema](https://raw.githubusercontent.com/open-admin-data/cuba-administrative-divisions/main/data/schema.json)
+
+## Browse by Province
+
+- [Artemisa](https://github.com/open-admin-data/cuba-administrative-divisions/tree/main/divisions/artemisa-cu01/) — 11 municipalitys
+- [Camaguey](https://github.com/open-admin-data/cuba-administrative-divisions/tree/main/divisions/camaguey-cu02/) — 13 municipalitys
+- [Ciego de Avila](https://github.com/open-admin-data/cuba-administrative-divisions/tree/main/divisions/ciego-de-avila-cu03/) — 10 municipalitys
+- [Cienfuegos](https://github.com/open-admin-data/cuba-administrative-divisions/tree/main/divisions/cienfuegos-cu04/) — 8 municipalitys
+- [Granma](https://github.com/open-admin-data/cuba-administrative-divisions/tree/main/divisions/granma-cu05/) — 13 municipalitys
+- [Guantanamo](https://github.com/open-admin-data/cuba-administrative-divisions/tree/main/divisions/guantanamo-cu06/) — 10 municipalitys
+- [Holguin](https://github.com/open-admin-data/cuba-administrative-divisions/tree/main/divisions/holguin-cu07/) — 14 municipalitys
+- [Isla de la Juventud](https://github.com/open-admin-data/cuba-administrative-divisions/tree/main/divisions/isla-de-la-juventud-cu08/) — 1 municipalitys
+- [La Habana](https://github.com/open-admin-data/cuba-administrative-divisions/tree/main/divisions/la-habana-cu09/) — 15 municipalitys
+- [Las Tunas](https://github.com/open-admin-data/cuba-administrative-divisions/tree/main/divisions/las-tunas-cu10/) — 8 municipalitys
+- [Matanzas](https://github.com/open-admin-data/cuba-administrative-divisions/tree/main/divisions/matanzas-cu11/) — 13 municipalitys
+- [Mayabeque](https://github.com/open-admin-data/cuba-administrative-divisions/tree/main/divisions/mayabeque-cu12/) — 11 municipalitys
+- [Pinar del Rio](https://github.com/open-admin-data/cuba-administrative-divisions/tree/main/divisions/pinar-del-rio-cu13/) — 11 municipalitys
+- [Sancti Spiritus](https://github.com/open-admin-data/cuba-administrative-divisions/tree/main/divisions/sancti-spiritus-cu14/) — 8 municipalitys
+- [Santiago de Cuba](https://github.com/open-admin-data/cuba-administrative-divisions/tree/main/divisions/santiago-de-cuba-cu15/) — 9 municipalitys
+- [Villa Clara](https://github.com/open-admin-data/cuba-administrative-divisions/tree/main/divisions/villa-clara-cu16/) — 13 municipalitys
+
+## Per-Province Full Data
+
+- [Artemisa](https://raw.githubusercontent.com/open-admin-data/cuba-administrative-divisions/main/docs/llms-full/artemisa-cu01.txt)
+- [Camaguey](https://raw.githubusercontent.com/open-admin-data/cuba-administrative-divisions/main/docs/llms-full/camaguey-cu02.txt)
+- [Ciego de Avila](https://raw.githubusercontent.com/open-admin-data/cuba-administrative-divisions/main/docs/llms-full/ciego-de-avila-cu03.txt)
+- [Cienfuegos](https://raw.githubusercontent.com/open-admin-data/cuba-administrative-divisions/main/docs/llms-full/cienfuegos-cu04.txt)
+- [Granma](https://raw.githubusercontent.com/open-admin-data/cuba-administrative-divisions/main/docs/llms-full/granma-cu05.txt)
+- [Guantanamo](https://raw.githubusercontent.com/open-admin-data/cuba-administrative-divisions/main/docs/llms-full/guantanamo-cu06.txt)
+- [Holguin](https://raw.githubusercontent.com/open-admin-data/cuba-administrative-divisions/main/docs/llms-full/holguin-cu07.txt)
+- [Isla de la Juventud](https://raw.githubusercontent.com/open-admin-data/cuba-administrative-divisions/main/docs/llms-full/isla-de-la-juventud-cu08.txt)
+- [La Habana](https://raw.githubusercontent.com/open-admin-data/cuba-administrative-divisions/main/docs/llms-full/la-habana-cu09.txt)
+- [Las Tunas](https://raw.githubusercontent.com/open-admin-data/cuba-administrative-divisions/main/docs/llms-full/las-tunas-cu10.txt)
+- [Matanzas](https://raw.githubusercontent.com/open-admin-data/cuba-administrative-divisions/main/docs/llms-full/matanzas-cu11.txt)
+- [Mayabeque](https://raw.githubusercontent.com/open-admin-data/cuba-administrative-divisions/main/docs/llms-full/mayabeque-cu12.txt)
+- [Pinar del Rio](https://raw.githubusercontent.com/open-admin-data/cuba-administrative-divisions/main/docs/llms-full/pinar-del-rio-cu13.txt)
+- [Sancti Spiritus](https://raw.githubusercontent.com/open-admin-data/cuba-administrative-divisions/main/docs/llms-full/sancti-spiritus-cu14.txt)
+- [Santiago de Cuba](https://raw.githubusercontent.com/open-admin-data/cuba-administrative-divisions/main/docs/llms-full/santiago-de-cuba-cu15.txt)
+- [Villa Clara](https://raw.githubusercontent.com/open-admin-data/cuba-administrative-divisions/main/docs/llms-full/villa-clara-cu16.txt)
+
+## Schema Fields
+
+- id: Unique identifier
+- level: 1 (province), 2 (municipality)
+- name: Local and English names with URL slug
+- code: Government codes
+- parent: Reference to parent division
+- ancestors: Full chain to root
+- children_count: Count of children per level
+- zip_codes: Postal codes (where available)
+- geo: Geographic coordinates (lat/lon, WGS84, all levels)
+
+## Citation
+
+Cuba Administrative Divisions Dataset (CC-BY-4.0)
+URL: https://github.com/open-admin-data/cuba-administrative-divisions
+
+## Related
+
+- [ListBase](https://www.listbase.org) — Structured reference data for every country
+- [open-admin-data](https://github.com/open-admin-data) — Open admin data for ASEAN
+- [thailand-administrative-divisions](https://github.com/open-admin-data/thailand-administrative-divisions)

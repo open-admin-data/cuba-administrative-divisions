@@ -1,0 +1,45 @@
+{
+  "id": "CU0801",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Isla de la Juventud",
+    "en": "Isla de la Juventud",
+    "slug": "isla-de-la-juventud-cu0801"
+  },
+  "code": {
+    "id": "CU0801",
+    "iso": null
+  },
+  "parent": {
+    "id": "CU08",
+    "level": 1,
+    "name": {
+      "local": "Isla de la Juventud",
+      "en": "Isla de la Juventud",
+      "slug": "isla-de-la-juventud-cu08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CU08",
+      "level": 1,
+      "name": {
+        "local": "Isla de la Juventud",
+        "en": "Isla de la Juventud",
+        "slug": "isla-de-la-juventud-cu08"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.691",
+    "lon": "-82.814"
+  },
+  "metadata": {},
+  "source": {}
+}

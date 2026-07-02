@@ -1,0 +1,45 @@
+{
+  "id": "CU0511",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Pilón",
+    "en": "Pilon",
+    "slug": "pilon-cu0511"
+  },
+  "code": {
+    "id": "CU0511",
+    "iso": null
+  },
+  "parent": {
+    "id": "CU05",
+    "level": 1,
+    "name": {
+      "local": "Granma",
+      "en": "Granma",
+      "slug": "granma-cu05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CU05",
+      "level": 1,
+      "name": {
+        "local": "Granma",
+        "en": "Granma",
+        "slug": "granma-cu05"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.944",
+    "lon": "-77.25"
+  },
+  "metadata": {},
+  "source": {}
+}

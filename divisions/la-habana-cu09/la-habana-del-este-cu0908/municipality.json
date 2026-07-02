@@ -1,0 +1,45 @@
+{
+  "id": "CU0908",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "La Habana del Este",
+    "en": "La Habana del Este",
+    "slug": "la-habana-del-este-cu0908"
+  },
+  "code": {
+    "id": "CU0908",
+    "iso": null
+  },
+  "parent": {
+    "id": "CU09",
+    "level": 1,
+    "name": {
+      "local": "La Habana",
+      "en": "La Habana",
+      "slug": "la-habana-cu09"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CU09",
+      "level": 1,
+      "name": {
+        "local": "La Habana",
+        "en": "La Habana",
+        "slug": "la-habana-cu09"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "23.102",
+    "lon": "-82.141"
+  },
+  "metadata": {},
+  "source": {}
+}

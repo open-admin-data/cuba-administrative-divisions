@@ -1,0 +1,497 @@
+[
+  {
+    "id": "CU0101",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Alquízar",
+      "en": "Alquizar",
+      "slug": "alquizar-cu0101"
+    },
+    "code": {
+      "id": "CU0101",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU01",
+      "level": 1,
+      "name": {
+        "local": "Artemisa",
+        "en": "Artemisa",
+        "slug": "artemisa-cu01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU01",
+        "level": 1,
+        "name": {
+          "local": "Artemisa",
+          "en": "Artemisa",
+          "slug": "artemisa-cu01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.748",
+      "lon": "-82.605"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0102",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Artemisa",
+      "en": "Artemisa",
+      "slug": "artemisa-cu0102"
+    },
+    "code": {
+      "id": "CU0102",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU01",
+      "level": 1,
+      "name": {
+        "local": "Artemisa",
+        "en": "Artemisa",
+        "slug": "artemisa-cu01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU01",
+        "level": 1,
+        "name": {
+          "local": "Artemisa",
+          "en": "Artemisa",
+          "slug": "artemisa-cu01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.752",
+      "lon": "-82.799"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0103",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Bahía Honda",
+      "en": "Bahia Honda",
+      "slug": "bahia-honda-cu0103"
+    },
+    "code": {
+      "id": "CU0103",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU01",
+      "level": 1,
+      "name": {
+        "local": "Artemisa",
+        "en": "Artemisa",
+        "slug": "artemisa-cu01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU01",
+        "level": 1,
+        "name": {
+          "local": "Artemisa",
+          "en": "Artemisa",
+          "slug": "artemisa-cu01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.897",
+      "lon": "-83.134"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0104",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Bauta",
+      "en": "Bauta",
+      "slug": "bauta-cu0104"
+    },
+    "code": {
+      "id": "CU0104",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU01",
+      "level": 1,
+      "name": {
+        "local": "Artemisa",
+        "en": "Artemisa",
+        "slug": "artemisa-cu01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU01",
+        "level": 1,
+        "name": {
+          "local": "Artemisa",
+          "en": "Artemisa",
+          "slug": "artemisa-cu01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.981",
+      "lon": "-82.522"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0105",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Caimito",
+      "en": "Caimito",
+      "slug": "caimito-cu0105"
+    },
+    "code": {
+      "id": "CU0105",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU01",
+      "level": 1,
+      "name": {
+        "local": "Artemisa",
+        "en": "Artemisa",
+        "slug": "artemisa-cu01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU01",
+        "level": 1,
+        "name": {
+          "local": "Artemisa",
+          "en": "Artemisa",
+          "slug": "artemisa-cu01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.921",
+      "lon": "-82.604"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0106",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Candelaria",
+      "en": "Candelaria",
+      "slug": "candelaria-cu0106"
+    },
+    "code": {
+      "id": "CU0106",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU01",
+      "level": 1,
+      "name": {
+        "local": "Artemisa",
+        "en": "Artemisa",
+        "slug": "artemisa-cu01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU01",
+        "level": 1,
+        "name": {
+          "local": "Artemisa",
+          "en": "Artemisa",
+          "slug": "artemisa-cu01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.729",
+      "lon": "-82.942"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0107",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Guanajay",
+      "en": "Guanajay",
+      "slug": "guanajay-cu0107"
+    },
+    "code": {
+      "id": "CU0107",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU01",
+      "level": 1,
+      "name": {
+        "local": "Artemisa",
+        "en": "Artemisa",
+        "slug": "artemisa-cu01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU01",
+        "level": 1,
+        "name": {
+          "local": "Artemisa",
+          "en": "Artemisa",
+          "slug": "artemisa-cu01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.902",
+      "lon": "-82.709"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0108",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Güira de Melena",
+      "en": "Guira de Melena",
+      "slug": "guira-de-melena-cu0108"
+    },
+    "code": {
+      "id": "CU0108",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU01",
+      "level": 1,
+      "name": {
+        "local": "Artemisa",
+        "en": "Artemisa",
+        "slug": "artemisa-cu01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU01",
+        "level": 1,
+        "name": {
+          "local": "Artemisa",
+          "en": "Artemisa",
+          "slug": "artemisa-cu01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.741",
+      "lon": "-82.481"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0109",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Mariel",
+      "en": "Mariel",
+      "slug": "mariel-cu0109"
+    },
+    "code": {
+      "id": "CU0109",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU01",
+      "level": 1,
+      "name": {
+        "local": "Artemisa",
+        "en": "Artemisa",
+        "slug": "artemisa-cu01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU01",
+        "level": 1,
+        "name": {
+          "local": "Artemisa",
+          "en": "Artemisa",
+          "slug": "artemisa-cu01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.964",
+      "lon": "-82.792"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0110",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Antonio de los Baños",
+      "en": "San Antonio de los Banos",
+      "slug": "san-antonio-de-los-banos-cu0110"
+    },
+    "code": {
+      "id": "CU0110",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU01",
+      "level": 1,
+      "name": {
+        "local": "Artemisa",
+        "en": "Artemisa",
+        "slug": "artemisa-cu01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU01",
+        "level": 1,
+        "name": {
+          "local": "Artemisa",
+          "en": "Artemisa",
+          "slug": "artemisa-cu01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.87",
+      "lon": "-82.492"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CU0111",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Cristóbal",
+      "en": "San Cristobal",
+      "slug": "san-cristobal-cu0111"
+    },
+    "code": {
+      "id": "CU0111",
+      "iso": null
+    },
+    "parent": {
+      "id": "CU01",
+      "level": 1,
+      "name": {
+        "local": "Artemisa",
+        "en": "Artemisa",
+        "slug": "artemisa-cu01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CU01",
+        "level": 1,
+        "name": {
+          "local": "Artemisa",
+          "en": "Artemisa",
+          "slug": "artemisa-cu01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.645",
+      "lon": "-83.047"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "id": "CU1103",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Ciénaga de Zapata",
+    "en": "Cienaga de Zapata",
+    "slug": "cienaga-de-zapata-cu1103"
+  },
+  "code": {
+    "id": "CU1103",
+    "iso": null
+  },
+  "parent": {
+    "id": "CU11",
+    "level": 1,
+    "name": {
+      "local": "Matanzas",
+      "en": "Matanzas",
+      "slug": "matanzas-cu11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CU11",
+      "level": 1,
+      "name": {
+        "local": "Matanzas",
+        "en": "Matanzas",
+        "slug": "matanzas-cu11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.304",
+    "lon": "-81.541"
+  },
+  "metadata": {},
+  "source": {}
+}

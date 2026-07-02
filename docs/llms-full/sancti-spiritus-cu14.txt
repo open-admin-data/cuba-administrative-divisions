@@ -1,0 +1,49 @@
+# Sancti Spiritus — Cuba Administrative Divisions
+
+> 8 municipalitys
+> Code: CU14
+> Coordinates: 22, -79.359
+> Last updated: 2026-07-02. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Cabaiguán (Cabaiguan)
+
+Code: CU1401, Coordinates: 22.094, -79.527
+
+
+### Fomento
+
+Code: CU1402, Coordinates: 22.002, -79.705
+
+
+### Jatibonico
+
+Code: CU1403, Coordinates: 21.913, -79.172
+
+
+### La Sierpe
+
+Code: CU1404, Coordinates: 21.676, -79.3
+
+
+### Sancti Spíritus (Sancti Spiritus)
+
+Code: CU1405, Coordinates: 21.8, -79.534
+
+
+### Taguasco
+
+Code: CU1406, Coordinates: 22.042, -79.321
+
+
+### Trinidad
+
+Code: CU1407, Coordinates: 21.832, -79.907
+
+
+### Yaguajay
+
+Code: CU1408, Coordinates: 22.263, -79.173
+
+

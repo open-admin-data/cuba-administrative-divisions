@@ -1,0 +1,45 @@
+{
+  "id": "CU0702",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Báguanos",
+    "en": "Baguanos",
+    "slug": "baguanos-cu0702"
+  },
+  "code": {
+    "id": "CU0702",
+    "iso": null
+  },
+  "parent": {
+    "id": "CU07",
+    "level": 1,
+    "name": {
+      "local": "Holguín",
+      "en": "Holguin",
+      "slug": "holguin-cu07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CU07",
+      "level": 1,
+      "name": {
+        "local": "Holguín",
+        "en": "Holguin",
+        "slug": "holguin-cu07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.816",
+    "lon": "-76.05"
+  },
+  "metadata": {},
+  "source": {}
+}

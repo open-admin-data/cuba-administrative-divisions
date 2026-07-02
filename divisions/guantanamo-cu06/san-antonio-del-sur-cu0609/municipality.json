@@ -1,0 +1,45 @@
+{
+  "id": "CU0609",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Antonio del Sur",
+    "en": "San Antonio del Sur",
+    "slug": "san-antonio-del-sur-cu0609"
+  },
+  "code": {
+    "id": "CU0609",
+    "iso": null
+  },
+  "parent": {
+    "id": "CU06",
+    "level": 1,
+    "name": {
+      "local": "Guantánamo",
+      "en": "Guantanamo",
+      "slug": "guantanamo-cu06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CU06",
+      "level": 1,
+      "name": {
+        "local": "Guantánamo",
+        "en": "Guantanamo",
+        "slug": "guantanamo-cu06"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.145",
+    "lon": "-74.795"
+  },
+  "metadata": {},
+  "source": {}
+}

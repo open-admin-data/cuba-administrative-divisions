@@ -1,0 +1,45 @@
+{
+  "id": "CU0901",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Arroyo Naranjo",
+    "en": "Arroyo Naranjo",
+    "slug": "arroyo-naranjo-cu0901"
+  },
+  "code": {
+    "id": "CU0901",
+    "iso": null
+  },
+  "parent": {
+    "id": "CU09",
+    "level": 1,
+    "name": {
+      "local": "La Habana",
+      "en": "La Habana",
+      "slug": "la-habana-cu09"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CU09",
+      "level": 1,
+      "name": {
+        "local": "La Habana",
+        "en": "La Habana",
+        "slug": "la-habana-cu09"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.998",
+    "lon": "-82.3"
+  },
+  "metadata": {},
+  "source": {}
+}

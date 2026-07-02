@@ -1,0 +1,45 @@
+{
+  "id": "CU0210",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santa Cruz del Sur",
+    "en": "Santa Cruz del Sur",
+    "slug": "santa-cruz-del-sur-cu0210"
+  },
+  "code": {
+    "id": "CU0210",
+    "iso": null
+  },
+  "parent": {
+    "id": "CU02",
+    "level": 1,
+    "name": {
+      "local": "Camagüey",
+      "en": "Camaguey",
+      "slug": "camaguey-cu02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CU02",
+      "level": 1,
+      "name": {
+        "local": "Camagüey",
+        "en": "Camaguey",
+        "slug": "camaguey-cu02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.87",
+    "lon": "-78.032"
+  },
+  "metadata": {},
+  "source": {}
+}

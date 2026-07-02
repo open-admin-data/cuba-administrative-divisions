@@ -1,0 +1,45 @@
+{
+  "id": "CU0309",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Primero de Enero",
+    "en": "Primero de Enero",
+    "slug": "primero-de-enero-cu0309"
+  },
+  "code": {
+    "id": "CU0309",
+    "iso": null
+  },
+  "parent": {
+    "id": "CU03",
+    "level": 1,
+    "name": {
+      "local": "Ciego de Ávila",
+      "en": "Ciego de Avila",
+      "slug": "ciego-de-avila-cu03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CU03",
+      "level": 1,
+      "name": {
+        "local": "Ciego de Ávila",
+        "en": "Ciego de Avila",
+        "slug": "ciego-de-avila-cu03"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.863",
+    "lon": "-78.39"
+  },
+  "metadata": {},
+  "source": {}
+}
