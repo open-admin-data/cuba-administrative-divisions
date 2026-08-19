@@ -3,7 +3,7 @@
 > 10 municipalitys
 > Code: CU03
 > Coordinates: 21.955, -78.58
-> Last updated: 2026-07-02. License: CC-BY-4.0.
+> Last updated: 2026-08-19. License: CC-BY-4.0.
 
 ## Municipalitys
 

@@ -3,7 +3,7 @@
 > 13 municipalitys
 > Code: CU05
 > Coordinates: 20.29, -76.763
-> Last updated: 2026-07-02. License: CC-BY-4.0.
+> Last updated: 2026-08-19. License: CC-BY-4.0.
 
 ## Municipalitys
 

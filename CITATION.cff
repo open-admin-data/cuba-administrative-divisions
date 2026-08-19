@@ -4,8 +4,8 @@ type: dataset
 authors:
   - name: "jakkrapongt"
 title: "Cuba Administrative Divisions Dataset"
-version: "2026.07"
-date-released: "2026-07-02"
+version: "2026.08"
+date-released: "2026-08-19"
 url: "https://github.com/open-admin-data/cuba-administrative-divisions"
 repository-code: "https://github.com/open-admin-data/cuba-administrative-divisions"
 license: CC-BY-4.0

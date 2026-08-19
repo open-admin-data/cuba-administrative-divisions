@@ -3,7 +3,7 @@
 > 8 municipalitys
 > Code: CU04
 > Coordinates: 22.185, -80.488
-> Last updated: 2026-07-02. License: CC-BY-4.0.
+> Last updated: 2026-08-19. License: CC-BY-4.0.
 
 ## Municipalitys
 

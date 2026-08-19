@@ -3,7 +3,7 @@
 > 13 municipalitys
 > Code: CU11
 > Coordinates: 22.61, -81.085
-> Last updated: 2026-07-02. License: CC-BY-4.0.
+> Last updated: 2026-08-19. License: CC-BY-4.0.
 
 ## Municipalitys
 
