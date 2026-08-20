@@ -11,9 +11,10 @@
 | Coordinates | ✅ Included (all levels) |
 | Formats | JSON, NDJSON, CSV |
 | License | CC-BY-4.0 |
-| Last Updated | 2026-08-19 |
+| Last Updated | 2026-08-20 |
 | Website | [openadmindata.org/cu](https://openadmindata.org/cu/) |
 | API | [openadmindata.org/api/cu](https://openadmindata.org/api/cu/) |
+| Flag | [PNG](https://onlygames.me/flags-png/cu/) · [SVG](https://onlygames.me/flags-svg/cu/) · [PDF](https://onlygames.me/flags-pdf/cu/) |
 | National Anthem | [🎵 Listen & Download Cuba National Anthem MP3](https://onlygames.me/national-anthems/cu/) |
 
 ## Browse by Province

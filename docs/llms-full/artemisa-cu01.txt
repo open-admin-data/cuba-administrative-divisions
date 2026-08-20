@@ -3,7 +3,7 @@
 > 11 municipalitys
 > Code: CU01
 > Coordinates: 22.77, -82.871
-> Last updated: 2026-08-19. License: CC-BY-4.0.
+> Last updated: 2026-08-20. License: CC-BY-4.0.
 
 ## Municipalitys
 
